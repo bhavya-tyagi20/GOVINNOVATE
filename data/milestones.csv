@@ -1,0 +1,245 @@
+﻿milestone_id,pilot_id,milestone_name,description,due_date,completion_date,status,percentage,payment_amount,department_approval,expert_approval
+MS0011,P001,Discovery & Baseline,Prototype milestone for Maharashtra Ambulance Dispatch Visibility — Prototype Pilot 01.,2026-08-20,2026-09-27,Completed,100,1305000,Approved,Approved
+MS0012,P001,Prototype Deployment,Prototype milestone for Maharashtra Ambulance Dispatch Visibility — Prototype Pilot 01.,2026-09-14,,Overdue,10,1305000,Pending,Pending
+MS0013,P001,Pilot Measurement,Prototype milestone for Maharashtra Ambulance Dispatch Visibility — Prototype Pilot 01.,2026-10-09,,Pending,0,1305000,Pending,Pending
+MS0014,P001,Final Handover,Prototype milestone for Maharashtra Ambulance Dispatch Visibility — Prototype Pilot 01.,2026-11-03,2026-10-29,Completed,100,1305000,Approved,Approved
+MS0021,P002,Discovery & Baseline,Prototype milestone for Maharashtra Urban Water Supply Reliability Monitoring — Prototype Pilot 02.,2025-08-20,,Overdue,10,1631250,Pending,Pending
+MS0022,P002,Prototype Deployment,Prototype milestone for Maharashtra Urban Water Supply Reliability Monitoring — Prototype Pilot 02.,2025-09-19,,Pending,0,1631250,Pending,Pending
+MS0023,P002,Pilot Measurement,Prototype milestone for Maharashtra Urban Water Supply Reliability Monitoring — Prototype Pilot 02.,2025-10-19,2025-10-14,Completed,100,1631250,Approved,Approved
+MS0024,P002,Final Handover,Prototype milestone for Maharashtra Urban Water Supply Reliability Monitoring — Prototype Pilot 02.,2025-11-18,,At Risk,55,1631250,Pending,Pending
+MS0031,P003,Discovery & Baseline,Prototype milestone for Maharashtra Third-Party Dependency Risk Review — Prototype Pilot 03.,2026-02-01,,Pending,0,978750,Pending,Pending
+MS0032,P003,Prototype Deployment,Prototype milestone for Maharashtra Third-Party Dependency Risk Review — Prototype Pilot 03.,2026-02-26,2026-02-21,Completed,100,978750,Approved,Approved
+MS0033,P003,Pilot Measurement,Prototype milestone for Maharashtra Third-Party Dependency Risk Review — Prototype Pilot 03.,2026-03-23,,At Risk,55,978750,Pending,Pending
+MS0034,P003,Final Handover,Prototype milestone for Maharashtra Third-Party Dependency Risk Review — Prototype Pilot 03.,2026-04-17,2026-04-21,Completed Late,100,978750,Pending,Pending
+MS0041,P004,Discovery & Baseline,Prototype milestone for Maharashtra Hospital Infection Control Audit Support — Prototype Pilot 04.,2026-09-28,2026-09-23,Completed,100,870000,Approved,Approved
+MS0042,P004,Prototype Deployment,Prototype milestone for Maharashtra Hospital Infection Control Audit Support — Prototype Pilot 04.,2026-10-23,,At Risk,55,870000,Pending,Pending
+MS0043,P004,Pilot Measurement,Prototype milestone for Maharashtra Hospital Infection Control Audit Support — Prototype Pilot 04.,2026-11-17,2026-11-22,Completed Late,100,870000,Pending,Pending
+MS0044,P004,Final Handover,Prototype milestone for Maharashtra Hospital Infection Control Audit Support — Prototype Pilot 04.,2026-12-12,2026-12-12,Completed,100,870000,Approved,Approved
+MS0051,P005,Discovery & Baseline,Prototype milestone for Maharashtra Reservoir Inflow Monitoring — Prototype Pilot 05.,2025-09-29,,At Risk,55,1196250,Pending,Pending
+MS0052,P005,Prototype Deployment,Prototype milestone for Maharashtra Reservoir Inflow Monitoring — Prototype Pilot 05.,2025-10-29,2025-11-04,Completed Late,100,1196250,Pending,Pending
+MS0053,P005,Pilot Measurement,Prototype milestone for Maharashtra Reservoir Inflow Monitoring — Prototype Pilot 05.,2025-11-28,,Overdue,10,1196250,Pending,Pending
+MS0054,P005,Final Handover,Prototype milestone for Maharashtra Reservoir Inflow Monitoring — Prototype Pilot 05.,2025-12-28,,Pending,0,1196250,Pending,Pending
+MS0061,P006,Discovery & Baseline,Prototype milestone for Maharashtra Open Data Quality Monitoring — Prototype Pilot 06.,2026-03-13,2026-03-20,Completed Late,100,870000,Pending,Pending
+MS0062,P006,Prototype Deployment,Prototype milestone for Maharashtra Open Data Quality Monitoring — Prototype Pilot 06.,2026-04-07,,Overdue,10,870000,Pending,Pending
+MS0063,P006,Pilot Measurement,Prototype milestone for Maharashtra Open Data Quality Monitoring — Prototype Pilot 06.,2026-05-02,,Pending,0,870000,Pending,Pending
+MS0064,P006,Final Handover,Prototype milestone for Maharashtra Open Data Quality Monitoring — Prototype Pilot 06.,2026-05-27,2026-05-25,Completed,100,870000,Approved,Approved
+MS0071,P007,Discovery & Baseline,Prototype milestone for Maharashtra School Attendance Early Warning — Prototype Pilot 07.,2025-05-02,,Overdue,10,978750,Pending,Pending
+MS0072,P007,Prototype Deployment,Prototype milestone for Maharashtra School Attendance Early Warning — Prototype Pilot 07.,2025-06-01,,Pending,0,978750,Pending,Pending
+MS0073,P007,Pilot Measurement,Prototype milestone for Maharashtra School Attendance Early Warning — Prototype Pilot 07.,2025-07-01,2025-06-29,Completed,100,978750,Approved,Approved
+MS0074,P007,Final Handover,Prototype milestone for Maharashtra School Attendance Early Warning — Prototype Pilot 07.,2025-07-31,,At Risk,55,978750,Pending,Pending
+MS0081,P008,Discovery & Baseline,Prototype milestone for Maharashtra Construction Waste Tracking — Prototype Pilot 08.,2025-11-08,,Pending,0,1087500,Pending,Pending
+MS0082,P008,Prototype Deployment,Prototype milestone for Maharashtra Construction Waste Tracking — Prototype Pilot 08.,2025-12-08,2025-12-06,Completed,100,1087500,Approved,Approved
+MS0083,P008,Pilot Measurement,Prototype milestone for Maharashtra Construction Waste Tracking — Prototype Pilot 08.,2026-01-07,,At Risk,55,1087500,Pending,Pending
+MS0084,P008,Final Handover,Prototype milestone for Maharashtra Construction Waste Tracking — Prototype Pilot 08.,2026-02-06,2026-02-02,Completed,100,1087500,Approved,Approved
+MS0091,P009,Discovery & Baseline,Prototype milestone for Maharashtra Citizen Satisfaction Pulse — Prototype Pilot 09.,2026-04-19,2026-04-17,Completed,100,652500,Approved,Approved
+MS0092,P009,Prototype Deployment,Prototype milestone for Maharashtra Citizen Satisfaction Pulse — Prototype Pilot 09.,2026-05-12,,At Risk,55,652500,Pending,Pending
+MS0093,P009,Pilot Measurement,Prototype milestone for Maharashtra Citizen Satisfaction Pulse — Prototype Pilot 09.,2026-06-03,2026-06-04,Completed Late,100,652500,Pending,Pending
+MS0094,P009,Final Handover,Prototype milestone for Maharashtra Citizen Satisfaction Pulse — Prototype Pilot 09.,2026-06-26,,Overdue,10,652500,Pending,Pending
+MS0101,P010,Discovery & Baseline,Prototype milestone for Maharashtra Skill Course Outcome Tracking — Prototype Pilot 10.,2025-06-11,,At Risk,55,1087500,Pending,Pending
+MS0102,P010,Prototype Deployment,Prototype milestone for Maharashtra Skill Course Outcome Tracking — Prototype Pilot 10.,2025-07-11,2025-07-13,Completed Late,100,1087500,Pending,Pending
+MS0103,P010,Pilot Measurement,Prototype milestone for Maharashtra Skill Course Outcome Tracking — Prototype Pilot 10.,2025-08-10,,Overdue,10,1087500,Pending,Pending
+MS0104,P010,Final Handover,Prototype milestone for Maharashtra Skill Course Outcome Tracking — Prototype Pilot 10.,2025-09-09,,Pending,0,1087500,Pending,Pending
+MS0111,P011,Discovery & Baseline,Prototype milestone for Maharashtra Industrial Emission Exception Dashboard — Prototype Pilot 11.,2025-12-25,2025-12-28,Completed Late,100,1413750,Pending,Pending
+MS0112,P011,Prototype Deployment,Prototype milestone for Maharashtra Industrial Emission Exception Dashboard — Prototype Pilot 11.,2026-02-01,,Overdue,10,1413750,Pending,Pending
+MS0113,P011,Pilot Measurement,Prototype milestone for Maharashtra Industrial Emission Exception Dashboard — Prototype Pilot 11.,2026-03-10,,Pending,0,1413750,Pending,Pending
+MS0114,P011,Final Handover,Prototype milestone for Maharashtra Industrial Emission Exception Dashboard — Prototype Pilot 11.,2026-04-17,2026-04-10,Completed,100,1413750,Approved,Approved
+MS0121,P012,Discovery & Baseline,Prototype milestone for Maharashtra Accessible Government Building Audit — Prototype Pilot 12.,2026-06-06,,Overdue,10,761250,Pending,Pending
+MS0122,P012,Prototype Deployment,Prototype milestone for Maharashtra Accessible Government Building Audit — Prototype Pilot 12.,2026-07-06,,Pending,0,761250,Pending,Pending
+MS0123,P012,Pilot Measurement,Prototype milestone for Maharashtra Accessible Government Building Audit — Prototype Pilot 12.,2026-08-05,2026-07-29,Completed,100,761250,Approved,Approved
+MS0124,P012,Final Handover,Prototype milestone for Maharashtra Accessible Government Building Audit — Prototype Pilot 12.,2026-09-04,2026-09-04,Completed,100,761250,Approved,Approved
+MS0131,P013,Discovery & Baseline,Prototype milestone for Maharashtra Child Protection Case Workflow — Prototype Pilot 13.,2025-07-21,,Pending,0,1196250,Pending,Pending
+MS0132,P013,Prototype Deployment,Prototype milestone for Maharashtra Child Protection Case Workflow — Prototype Pilot 13.,2025-08-20,2025-08-13,Completed,100,1196250,Approved,Approved
+MS0133,P013,Pilot Measurement,Prototype milestone for Maharashtra Child Protection Case Workflow — Prototype Pilot 13.,2025-09-19,,At Risk,55,1196250,Pending,Pending
+MS0134,P013,Final Handover,Prototype milestone for Maharashtra Child Protection Case Workflow — Prototype Pilot 13.,2025-10-19,2025-10-24,Completed Late,100,1196250,Pending,Pending
+MS0141,P014,Discovery & Baseline,Prototype milestone for Maharashtra Flood Citizen Alert Workflow — Prototype Pilot 14.,2026-01-19,2026-01-12,Completed,100,870000,Approved,Approved
+MS0142,P014,Prototype Deployment,Prototype milestone for Maharashtra Flood Citizen Alert Workflow — Prototype Pilot 14.,2026-02-11,,At Risk,55,870000,Pending,Pending
+MS0143,P014,Pilot Measurement,Prototype milestone for Maharashtra Flood Citizen Alert Workflow — Prototype Pilot 14.,2026-03-05,2026-03-11,Completed Late,100,870000,Pending,Pending
+MS0144,P014,Final Handover,Prototype milestone for Maharashtra Flood Citizen Alert Workflow — Prototype Pilot 14.,2026-03-28,,Overdue,10,870000,Pending,Pending
+MS0151,P015,Discovery & Baseline,Prototype milestone for Maharashtra Food Distribution Route Monitoring — Prototype Pilot 15.,2026-07-08,,At Risk,55,870000,Pending,Pending
+MS0152,P015,Prototype Deployment,Prototype milestone for Maharashtra Food Distribution Route Monitoring — Prototype Pilot 15.,2026-07-31,2026-08-07,Completed Late,100,870000,Pending,Pending
+MS0153,P015,Pilot Measurement,Prototype milestone for Maharashtra Food Distribution Route Monitoring — Prototype Pilot 15.,2026-08-22,,Overdue,10,870000,Pending,Pending
+MS0154,P015,Final Handover,Prototype milestone for Maharashtra Food Distribution Route Monitoring — Prototype Pilot 15.,2026-09-14,,Pending,0,870000,Pending,Pending
+MS0161,P016,Discovery & Baseline,Prototype milestone for Maharashtra Village Water Point Monitoring — Prototype Pilot 16.,2025-08-25,2025-09-02,Completed Late,100,978750,Pending,Pending
+MS0162,P016,Prototype Deployment,Prototype milestone for Maharashtra Village Water Point Monitoring — Prototype Pilot 16.,2025-09-19,,Overdue,10,978750,Pending,Pending
+MS0163,P016,Pilot Measurement,Prototype milestone for Maharashtra Village Water Point Monitoring — Prototype Pilot 16.,2025-10-14,,Pending,0,978750,Pending,Pending
+MS0164,P016,Final Handover,Prototype milestone for Maharashtra Village Water Point Monitoring — Prototype Pilot 16.,2025-11-08,2025-11-04,Completed,100,978750,Approved,Approved
+MS0171,P017,Discovery & Baseline,Prototype milestone for Maharashtra Crop Stress Monitoring — Prototype Pilot 17.,2026-03-15,,Overdue,10,1413750,Pending,Pending
+MS0172,P017,Prototype Deployment,Prototype milestone for Maharashtra Crop Stress Monitoring — Prototype Pilot 17.,2026-04-22,,Pending,0,1413750,Pending,Pending
+MS0173,P017,Pilot Measurement,Prototype milestone for Maharashtra Crop Stress Monitoring — Prototype Pilot 17.,2026-05-29,2026-05-25,Completed,100,1413750,Approved,Approved
+MS0174,P017,Final Handover,Prototype milestone for Maharashtra Crop Stress Monitoring — Prototype Pilot 17.,2026-07-06,,At Risk,55,1413750,Pending,Pending
+MS0181,P018,Discovery & Baseline,Prototype milestone for Maharashtra Public Building Energy Baseline — Prototype Pilot 18.,2025-04-22,,Pending,0,1305000,Pending,Pending
+MS0182,P018,Prototype Deployment,Prototype milestone for Maharashtra Public Building Energy Baseline — Prototype Pilot 18.,2025-05-22,2025-05-18,Completed,100,1305000,Approved,Approved
+MS0183,P018,Pilot Measurement,Prototype milestone for Maharashtra Public Building Energy Baseline — Prototype Pilot 18.,2025-06-21,,At Risk,55,1305000,Pending,Pending
+MS0184,P018,Final Handover,Prototype milestone for Maharashtra Public Building Energy Baseline — Prototype Pilot 18.,2025-07-21,2025-07-22,Completed Late,100,1305000,Pending,Pending
+MS0191,P019,Discovery & Baseline,Prototype milestone for Maharashtra Tourism Feedback Analytics — Prototype Pilot 19.,2025-10-01,2025-09-27,Completed,100,652500,Approved,Approved
+MS0192,P019,Prototype Deployment,Prototype milestone for Maharashtra Tourism Feedback Analytics — Prototype Pilot 19.,2025-10-24,,At Risk,55,652500,Pending,Pending
+MS0193,P019,Pilot Measurement,Prototype milestone for Maharashtra Tourism Feedback Analytics — Prototype Pilot 19.,2025-11-15,2025-11-17,Completed Late,100,652500,Pending,Pending
+MS0194,P019,Final Handover,Prototype milestone for Maharashtra Tourism Feedback Analytics — Prototype Pilot 19.,2025-12-08,,Overdue,10,652500,Pending,Pending
+MS0201,P020,Discovery & Baseline,Prototype milestone for Maharashtra Command Area Water Delivery Monitoring — Prototype Pilot 20.,2026-06-13,,At Risk,55,1305000,Pending,Pending
+MS0202,P020,Prototype Deployment,Prototype milestone for Maharashtra Command Area Water Delivery Monitoring — Prototype Pilot 20.,2026-07-21,2026-07-24,Completed Late,100,1305000,Pending,Pending
+MS0203,P020,Pilot Measurement,Prototype milestone for Maharashtra Command Area Water Delivery Monitoring — Prototype Pilot 20.,2026-08-27,,Overdue,10,1305000,Pending,Pending
+MS0204,P020,Final Handover,Prototype milestone for Maharashtra Command Area Water Delivery Monitoring — Prototype Pilot 20.,2026-10-04,2026-10-04,Completed,100,1305000,Approved,Approved
+MS0211,P021,Discovery & Baseline,Prototype milestone for Maharashtra Monsoon Road Damage Triage — Prototype Pilot 21.,2025-05-27,2025-05-31,Completed Late,100,1305000,Pending,Pending
+MS0212,P021,Prototype Deployment,Prototype milestone for Maharashtra Monsoon Road Damage Triage — Prototype Pilot 21.,2025-06-21,,Overdue,10,1305000,Pending,Pending
+MS0213,P021,Pilot Measurement,Prototype milestone for Maharashtra Monsoon Road Damage Triage — Prototype Pilot 21.,2025-07-16,,Pending,0,1305000,Pending,Pending
+MS0214,P021,Final Handover,Prototype milestone for Maharashtra Monsoon Road Damage Triage — Prototype Pilot 21.,2025-08-10,2025-08-09,Completed,100,1305000,Approved,Approved
+MS0221,P022,Discovery & Baseline,Prototype milestone for Maharashtra Solar Rooftop Performance Monitoring — Prototype Pilot 22.,2025-11-18,,Overdue,10,1413750,Pending,Pending
+MS0222,P022,Prototype Deployment,Prototype milestone for Maharashtra Solar Rooftop Performance Monitoring — Prototype Pilot 22.,2025-12-18,,Pending,0,1413750,Pending,Pending
+MS0223,P022,Pilot Measurement,Prototype milestone for Maharashtra Solar Rooftop Performance Monitoring — Prototype Pilot 22.,2026-01-17,2026-01-16,Completed,100,1413750,Approved,Approved
+MS0224,P022,Final Handover,Prototype milestone for Maharashtra Solar Rooftop Performance Monitoring — Prototype Pilot 22.,2026-02-16,,At Risk,55,1413750,Pending,Pending
+MS0231,P023,Discovery & Baseline,Prototype milestone for Maharashtra Soybean Yield Risk Mapping — Prototype Pilot 23.,2026-07-16,,Pending,0,1087500,Pending,Pending
+MS0232,P023,Prototype Deployment,Prototype milestone for Maharashtra Soybean Yield Risk Mapping — Prototype Pilot 23.,2026-08-15,2026-08-14,Completed,100,1087500,Approved,Approved
+MS0233,P023,Pilot Measurement,Prototype milestone for Maharashtra Soybean Yield Risk Mapping — Prototype Pilot 23.,2026-09-14,,At Risk,55,1087500,Pending,Pending
+MS0234,P023,Final Handover,Prototype milestone for Maharashtra Soybean Yield Risk Mapping — Prototype Pilot 23.,2026-10-14,2026-10-20,Completed Late,100,1087500,Pending,Pending
+MS0241,P024,Discovery & Baseline,Prototype milestone for Maharashtra Traffic Incident Response Coordination — Prototype Pilot 24.,2025-07-06,2025-07-05,Completed,100,1196250,Approved,Approved
+MS0242,P024,Prototype Deployment,Prototype milestone for Maharashtra Traffic Incident Response Coordination — Prototype Pilot 24.,2025-07-31,,At Risk,55,1196250,Pending,Pending
+MS0243,P024,Pilot Measurement,Prototype milestone for Maharashtra Traffic Incident Response Coordination — Prototype Pilot 24.,2025-08-25,2025-09-01,Completed Late,100,1196250,Pending,Pending
+MS0244,P024,Final Handover,Prototype milestone for Maharashtra Traffic Incident Response Coordination — Prototype Pilot 24.,2025-09-19,2025-09-15,Completed,100,1196250,Approved,Approved
+MS0251,P025,Discovery & Baseline,Prototype milestone for Maharashtra Transformer Health Monitoring — Prototype Pilot 25.,2026-01-04,,At Risk,55,1413750,Pending,Pending
+MS0252,P025,Prototype Deployment,Prototype milestone for Maharashtra Transformer Health Monitoring — Prototype Pilot 25.,2026-02-11,2026-02-19,Completed Late,100,1413750,Pending,Pending
+MS0253,P025,Pilot Measurement,Prototype milestone for Maharashtra Transformer Health Monitoring — Prototype Pilot 25.,2026-03-20,,Overdue,10,1413750,Pending,Pending
+MS0254,P025,Final Handover,Prototype milestone for Maharashtra Transformer Health Monitoring — Prototype Pilot 25.,2026-04-27,,Pending,0,1413750,Pending,Pending
+MS0261,P026,Discovery & Baseline,Prototype milestone for Maharashtra Ambulance Dispatch Visibility — Prototype Pilot 26.,2026-08-20,2026-08-29,Completed Late,100,1305000,Pending,Pending
+MS0262,P026,Prototype Deployment,Prototype milestone for Maharashtra Ambulance Dispatch Visibility — Prototype Pilot 26.,2026-09-14,,Overdue,10,1305000,Pending,Pending
+MS0263,P026,Pilot Measurement,Prototype milestone for Maharashtra Ambulance Dispatch Visibility — Prototype Pilot 26.,2026-10-09,,Pending,0,1305000,Pending,Pending
+MS0264,P026,Final Handover,Prototype milestone for Maharashtra Ambulance Dispatch Visibility — Prototype Pilot 26.,2026-11-03,2026-10-28,Completed,100,1305000,Approved,Approved
+MS0271,P027,Discovery & Baseline,Prototype milestone for Maharashtra Urban Water Supply Reliability Monitoring — Prototype Pilot 27.,2025-08-20,,Overdue,10,1631250,Pending,Pending
+MS0272,P027,Prototype Deployment,Prototype milestone for Maharashtra Urban Water Supply Reliability Monitoring — Prototype Pilot 27.,2025-09-19,,Pending,0,1631250,Pending,Pending
+MS0273,P027,Pilot Measurement,Prototype milestone for Maharashtra Urban Water Supply Reliability Monitoring — Prototype Pilot 27.,2025-10-19,2025-10-13,Completed,100,1631250,Approved,Approved
+MS0274,P027,Final Handover,Prototype milestone for Maharashtra Urban Water Supply Reliability Monitoring — Prototype Pilot 27.,2025-11-18,,At Risk,55,1631250,Pending,Pending
+MS0281,P028,Discovery & Baseline,Prototype milestone for Maharashtra Third-Party Dependency Risk Review — Prototype Pilot 28.,2026-02-01,,Pending,0,978750,Pending,Pending
+MS0282,P028,Prototype Deployment,Prototype milestone for Maharashtra Third-Party Dependency Risk Review — Prototype Pilot 28.,2026-02-26,2026-02-20,Completed,100,978750,Approved,Approved
+MS0283,P028,Pilot Measurement,Prototype milestone for Maharashtra Third-Party Dependency Risk Review — Prototype Pilot 28.,2026-03-23,,At Risk,55,978750,Pending,Pending
+MS0284,P028,Final Handover,Prototype milestone for Maharashtra Third-Party Dependency Risk Review — Prototype Pilot 28.,2026-04-17,2026-04-19,Completed Late,100,978750,Pending,Pending
+MS0291,P029,Discovery & Baseline,Prototype milestone for Maharashtra Hospital Infection Control Audit Support — Prototype Pilot 29.,2026-07-30,2026-07-24,Completed,100,870000,Approved,Approved
+MS0292,P029,Prototype Deployment,Prototype milestone for Maharashtra Hospital Infection Control Audit Support — Prototype Pilot 29.,2026-08-24,,At Risk,55,870000,Pending,Pending
+MS0293,P029,Pilot Measurement,Prototype milestone for Maharashtra Hospital Infection Control Audit Support — Prototype Pilot 29.,2026-09-18,2026-09-21,Completed Late,100,870000,Pending,Pending
+MS0294,P029,Final Handover,Prototype milestone for Maharashtra Hospital Infection Control Audit Support — Prototype Pilot 29.,2026-10-13,,Overdue,10,870000,Pending,Pending
+MS0301,P030,Discovery & Baseline,Prototype milestone for Maharashtra Reservoir Inflow Monitoring — Prototype Pilot 30.,2025-09-29,,At Risk,55,1196250,Pending,Pending
+MS0302,P030,Prototype Deployment,Prototype milestone for Maharashtra Reservoir Inflow Monitoring — Prototype Pilot 30.,2025-10-29,2025-11-02,Completed Late,100,1196250,Pending,Pending
+MS0303,P030,Pilot Measurement,Prototype milestone for Maharashtra Reservoir Inflow Monitoring — Prototype Pilot 30.,2025-11-28,,Overdue,10,1196250,Pending,Pending
+MS0304,P030,Final Handover,Prototype milestone for Maharashtra Reservoir Inflow Monitoring — Prototype Pilot 30.,2025-12-28,,Pending,0,1196250,Pending,Pending
+MS0311,P031,Discovery & Baseline,Prototype milestone for Maharashtra Open Data Quality Monitoring — Prototype Pilot 31.,2026-03-13,2026-03-18,Completed Late,100,870000,Pending,Pending
+MS0312,P031,Prototype Deployment,Prototype milestone for Maharashtra Open Data Quality Monitoring — Prototype Pilot 31.,2026-04-07,,Overdue,10,870000,Pending,Pending
+MS0313,P031,Pilot Measurement,Prototype milestone for Maharashtra Open Data Quality Monitoring — Prototype Pilot 31.,2026-05-02,,Pending,0,870000,Pending,Pending
+MS0314,P031,Final Handover,Prototype milestone for Maharashtra Open Data Quality Monitoring — Prototype Pilot 31.,2026-05-27,2026-05-24,Completed,100,870000,Approved,Approved
+MS0321,P032,Discovery & Baseline,Prototype milestone for Maharashtra School Attendance Early Warning — Prototype Pilot 32.,2025-05-02,,Overdue,10,978750,Pending,Pending
+MS0322,P032,Prototype Deployment,Prototype milestone for Maharashtra School Attendance Early Warning — Prototype Pilot 32.,2025-06-01,,Pending,0,978750,Pending,Pending
+MS0323,P032,Pilot Measurement,Prototype milestone for Maharashtra School Attendance Early Warning — Prototype Pilot 32.,2025-07-01,2025-06-28,Completed,100,978750,Approved,Approved
+MS0324,P032,Final Handover,Prototype milestone for Maharashtra School Attendance Early Warning — Prototype Pilot 32.,2025-07-31,2025-07-27,Completed,100,978750,Approved,Approved
+MS0331,P033,Discovery & Baseline,Prototype milestone for Maharashtra Construction Waste Tracking — Prototype Pilot 33.,2025-11-08,,Pending,0,1087500,Pending,Pending
+MS0332,P033,Prototype Deployment,Prototype milestone for Maharashtra Construction Waste Tracking — Prototype Pilot 33.,2025-12-08,2025-12-05,Completed,100,1087500,Approved,Approved
+MS0333,P033,Pilot Measurement,Prototype milestone for Maharashtra Construction Waste Tracking — Prototype Pilot 33.,2026-01-07,,At Risk,55,1087500,Pending,Pending
+MS0334,P033,Final Handover,Prototype milestone for Maharashtra Construction Waste Tracking — Prototype Pilot 33.,2026-02-06,2026-02-13,Completed Late,100,1087500,Pending,Pending
+MS0341,P034,Discovery & Baseline,Prototype milestone for Maharashtra Citizen Satisfaction Pulse — Prototype Pilot 34.,2026-04-19,2026-04-16,Completed,100,652500,Approved,Approved
+MS0342,P034,Prototype Deployment,Prototype milestone for Maharashtra Citizen Satisfaction Pulse — Prototype Pilot 34.,2026-05-12,,At Risk,55,652500,Pending,Pending
+MS0343,P034,Pilot Measurement,Prototype milestone for Maharashtra Citizen Satisfaction Pulse — Prototype Pilot 34.,2026-06-03,2026-06-11,Completed Late,100,652500,Pending,Pending
+MS0344,P034,Final Handover,Prototype milestone for Maharashtra Citizen Satisfaction Pulse — Prototype Pilot 34.,2026-06-26,,Overdue,10,652500,Pending,Pending
+MS0351,P035,Discovery & Baseline,Prototype milestone for Maharashtra Skill Course Outcome Tracking — Prototype Pilot 35.,2025-06-11,,At Risk,55,1087500,Pending,Pending
+MS0352,P035,Prototype Deployment,Prototype milestone for Maharashtra Skill Course Outcome Tracking — Prototype Pilot 35.,2025-07-11,2025-07-20,Completed Late,100,1087500,Pending,Pending
+MS0353,P035,Pilot Measurement,Prototype milestone for Maharashtra Skill Course Outcome Tracking — Prototype Pilot 35.,2025-08-10,,Overdue,10,1087500,Pending,Pending
+MS0354,P035,Final Handover,Prototype milestone for Maharashtra Skill Course Outcome Tracking — Prototype Pilot 35.,2025-09-09,,Pending,0,1087500,Pending,Pending
+MS0361,P036,Discovery & Baseline,Prototype milestone for Maharashtra Industrial Emission Exception Dashboard — Prototype Pilot 36.,2025-12-25,2025-12-26,Completed Late,100,1413750,Pending,Pending
+MS0362,P036,Prototype Deployment,Prototype milestone for Maharashtra Industrial Emission Exception Dashboard — Prototype Pilot 36.,2026-02-01,,Overdue,10,1413750,Pending,Pending
+MS0363,P036,Pilot Measurement,Prototype milestone for Maharashtra Industrial Emission Exception Dashboard — Prototype Pilot 36.,2026-03-10,,Pending,0,1413750,Pending,Pending
+MS0364,P036,Final Handover,Prototype milestone for Maharashtra Industrial Emission Exception Dashboard — Prototype Pilot 36.,2026-04-17,2026-04-17,Completed,100,1413750,Approved,Approved
+MS0371,P037,Discovery & Baseline,Prototype milestone for Maharashtra Accessible Government Building Audit — Prototype Pilot 37.,2026-06-06,,Overdue,10,761250,Pending,Pending
+MS0372,P037,Prototype Deployment,Prototype milestone for Maharashtra Accessible Government Building Audit — Prototype Pilot 37.,2026-07-06,,Pending,0,761250,Pending,Pending
+MS0373,P037,Pilot Measurement,Prototype milestone for Maharashtra Accessible Government Building Audit — Prototype Pilot 37.,2026-08-05,2026-08-05,Completed,100,761250,Approved,Approved
+MS0374,P037,Final Handover,Prototype milestone for Maharashtra Accessible Government Building Audit — Prototype Pilot 37.,2026-09-04,,At Risk,55,761250,Pending,Pending
+MS0381,P038,Discovery & Baseline,Prototype milestone for Maharashtra Child Protection Case Workflow — Prototype Pilot 38.,2025-07-21,,Pending,0,1196250,Pending,Pending
+MS0382,P038,Prototype Deployment,Prototype milestone for Maharashtra Child Protection Case Workflow — Prototype Pilot 38.,2025-08-20,2025-08-20,Completed,100,1196250,Approved,Approved
+MS0383,P038,Pilot Measurement,Prototype milestone for Maharashtra Child Protection Case Workflow — Prototype Pilot 38.,2025-09-19,,At Risk,55,1196250,Pending,Pending
+MS0384,P038,Final Handover,Prototype milestone for Maharashtra Child Protection Case Workflow — Prototype Pilot 38.,2025-10-19,2025-10-22,Completed Late,100,1196250,Pending,Pending
+MS0391,P039,Discovery & Baseline,Prototype milestone for Maharashtra Flood Citizen Alert Workflow — Prototype Pilot 39.,2026-01-19,2026-01-19,Completed,100,870000,Approved,Approved
+MS0392,P039,Prototype Deployment,Prototype milestone for Maharashtra Flood Citizen Alert Workflow — Prototype Pilot 39.,2026-02-11,,At Risk,55,870000,Pending,Pending
+MS0393,P039,Pilot Measurement,Prototype milestone for Maharashtra Flood Citizen Alert Workflow — Prototype Pilot 39.,2026-03-05,2026-03-09,Completed Late,100,870000,Pending,Pending
+MS0394,P039,Final Handover,Prototype milestone for Maharashtra Flood Citizen Alert Workflow — Prototype Pilot 39.,2026-03-28,,Overdue,10,870000,Pending,Pending
+MS0401,P040,Discovery & Baseline,Prototype milestone for Maharashtra Food Distribution Route Monitoring — Prototype Pilot 40.,2026-07-08,,At Risk,55,870000,Pending,Pending
+MS0402,P040,Prototype Deployment,Prototype milestone for Maharashtra Food Distribution Route Monitoring — Prototype Pilot 40.,2026-07-31,2026-08-05,Completed Late,100,870000,Pending,Pending
+MS0403,P040,Pilot Measurement,Prototype milestone for Maharashtra Food Distribution Route Monitoring — Prototype Pilot 40.,2026-08-22,,Overdue,10,870000,Pending,Pending
+MS0404,P040,Final Handover,Prototype milestone for Maharashtra Food Distribution Route Monitoring — Prototype Pilot 40.,2026-09-14,2026-09-10,Completed,100,870000,Approved,Approved
+MS0411,P041,Discovery & Baseline,Prototype milestone for Maharashtra Village Water Point Monitoring — Prototype Pilot 41.,2025-08-25,2025-08-31,Completed Late,100,978750,Pending,Pending
+MS0412,P041,Prototype Deployment,Prototype milestone for Maharashtra Village Water Point Monitoring — Prototype Pilot 41.,2025-09-19,,Overdue,10,978750,Pending,Pending
+MS0413,P041,Pilot Measurement,Prototype milestone for Maharashtra Village Water Point Monitoring — Prototype Pilot 41.,2025-10-14,,Pending,0,978750,Pending,Pending
+MS0414,P041,Final Handover,Prototype milestone for Maharashtra Village Water Point Monitoring — Prototype Pilot 41.,2025-11-08,2025-11-03,Completed,100,978750,Approved,Approved
+MS0421,P042,Discovery & Baseline,Prototype milestone for Maharashtra Crop Stress Monitoring — Prototype Pilot 42.,2026-03-15,,Overdue,10,1413750,Pending,Pending
+MS0422,P042,Prototype Deployment,Prototype milestone for Maharashtra Crop Stress Monitoring — Prototype Pilot 42.,2026-04-22,,Pending,0,1413750,Pending,Pending
+MS0423,P042,Pilot Measurement,Prototype milestone for Maharashtra Crop Stress Monitoring — Prototype Pilot 42.,2026-05-29,2026-05-24,Completed,100,1413750,Approved,Approved
+MS0424,P042,Final Handover,Prototype milestone for Maharashtra Crop Stress Monitoring — Prototype Pilot 42.,2026-07-06,,At Risk,55,1413750,Pending,Pending
+MS0431,P043,Discovery & Baseline,Prototype milestone for Maharashtra Public Building Energy Baseline — Prototype Pilot 43.,2025-04-22,,Pending,0,1305000,Pending,Pending
+MS0432,P043,Prototype Deployment,Prototype milestone for Maharashtra Public Building Energy Baseline — Prototype Pilot 43.,2025-05-22,2025-05-17,Completed,100,1305000,Approved,Approved
+MS0433,P043,Pilot Measurement,Prototype milestone for Maharashtra Public Building Energy Baseline — Prototype Pilot 43.,2025-06-21,,At Risk,55,1305000,Pending,Pending
+MS0434,P043,Final Handover,Prototype milestone for Maharashtra Public Building Energy Baseline — Prototype Pilot 43.,2025-07-21,2025-07-29,Completed Late,100,1305000,Pending,Pending
+MS0441,P044,Discovery & Baseline,Prototype milestone for Maharashtra Tourism Feedback Analytics — Prototype Pilot 44.,2025-10-01,2025-09-26,Completed,100,652500,Approved,Approved
+MS0442,P044,Prototype Deployment,Prototype milestone for Maharashtra Tourism Feedback Analytics — Prototype Pilot 44.,2025-10-24,,At Risk,55,652500,Pending,Pending
+MS0443,P044,Pilot Measurement,Prototype milestone for Maharashtra Tourism Feedback Analytics — Prototype Pilot 44.,2025-11-15,2025-11-24,Completed Late,100,652500,Pending,Pending
+MS0444,P044,Final Handover,Prototype milestone for Maharashtra Tourism Feedback Analytics — Prototype Pilot 44.,2025-12-08,2025-12-08,Completed,100,652500,Approved,Approved
+MS0451,P045,Discovery & Baseline,Prototype milestone for Maharashtra Command Area Water Delivery Monitoring — Prototype Pilot 45.,2026-06-13,,At Risk,55,1305000,Pending,Pending
+MS0452,P045,Prototype Deployment,Prototype milestone for Maharashtra Command Area Water Delivery Monitoring — Prototype Pilot 45.,2026-07-21,2026-07-22,Completed Late,100,1305000,Pending,Pending
+MS0453,P045,Pilot Measurement,Prototype milestone for Maharashtra Command Area Water Delivery Monitoring — Prototype Pilot 45.,2026-08-27,,Overdue,10,1305000,Pending,Pending
+MS0454,P045,Final Handover,Prototype milestone for Maharashtra Command Area Water Delivery Monitoring — Prototype Pilot 45.,2026-10-04,,Pending,0,1305000,Pending,Pending
+MS0461,P046,Discovery & Baseline,Prototype milestone for Maharashtra Monsoon Road Damage Triage — Prototype Pilot 46.,2025-05-27,2025-05-29,Completed Late,100,1305000,Pending,Pending
+MS0462,P046,Prototype Deployment,Prototype milestone for Maharashtra Monsoon Road Damage Triage — Prototype Pilot 46.,2025-06-21,,Overdue,10,1305000,Pending,Pending
+MS0463,P046,Pilot Measurement,Prototype milestone for Maharashtra Monsoon Road Damage Triage — Prototype Pilot 46.,2025-07-16,,Pending,0,1305000,Pending,Pending
+MS0464,P046,Final Handover,Prototype milestone for Maharashtra Monsoon Road Damage Triage — Prototype Pilot 46.,2025-08-10,2025-08-08,Completed,100,1305000,Approved,Approved
+MS0471,P047,Discovery & Baseline,Prototype milestone for Maharashtra Solar Rooftop Performance Monitoring — Prototype Pilot 47.,2025-11-18,,Overdue,10,1413750,Pending,Pending
+MS0472,P047,Prototype Deployment,Prototype milestone for Maharashtra Solar Rooftop Performance Monitoring — Prototype Pilot 47.,2025-12-18,,Pending,0,1413750,Pending,Pending
+MS0473,P047,Pilot Measurement,Prototype milestone for Maharashtra Solar Rooftop Performance Monitoring — Prototype Pilot 47.,2026-01-17,2026-01-15,Completed,100,1413750,Approved,Approved
+MS0474,P047,Final Handover,Prototype milestone for Maharashtra Solar Rooftop Performance Monitoring — Prototype Pilot 47.,2026-02-16,,At Risk,55,1413750,Pending,Pending
+MS0481,P048,Discovery & Baseline,Prototype milestone for Maharashtra Soybean Yield Risk Mapping — Prototype Pilot 48.,2026-07-16,,Pending,0,1087500,Pending,Pending
+MS0482,P048,Prototype Deployment,Prototype milestone for Maharashtra Soybean Yield Risk Mapping — Prototype Pilot 48.,2026-08-15,2026-08-13,Completed,100,1087500,Approved,Approved
+MS0483,P048,Pilot Measurement,Prototype milestone for Maharashtra Soybean Yield Risk Mapping — Prototype Pilot 48.,2026-09-14,,At Risk,55,1087500,Pending,Pending
+MS0484,P048,Final Handover,Prototype milestone for Maharashtra Soybean Yield Risk Mapping — Prototype Pilot 48.,2026-10-14,2026-10-10,Completed,100,1087500,Approved,Approved
+MS0491,P049,Discovery & Baseline,Prototype milestone for Maharashtra Traffic Incident Response Coordination — Prototype Pilot 49.,2025-07-06,2025-07-04,Completed,100,1196250,Approved,Approved
+MS0492,P049,Prototype Deployment,Prototype milestone for Maharashtra Traffic Incident Response Coordination — Prototype Pilot 49.,2025-07-31,,At Risk,55,1196250,Pending,Pending
+MS0493,P049,Pilot Measurement,Prototype milestone for Maharashtra Traffic Incident Response Coordination — Prototype Pilot 49.,2025-08-25,2025-08-30,Completed Late,100,1196250,Pending,Pending
+MS0494,P049,Final Handover,Prototype milestone for Maharashtra Traffic Incident Response Coordination — Prototype Pilot 49.,2025-09-19,,Overdue,10,1196250,Pending,Pending
+MS0501,P050,Discovery & Baseline,Prototype milestone for Maharashtra Transformer Health Monitoring — Prototype Pilot 50.,2026-01-04,,At Risk,55,1413750,Pending,Pending
+MS0502,P050,Prototype Deployment,Prototype milestone for Maharashtra Transformer Health Monitoring — Prototype Pilot 50.,2026-02-11,2026-02-17,Completed Late,100,1413750,Pending,Pending
+MS0503,P050,Pilot Measurement,Prototype milestone for Maharashtra Transformer Health Monitoring — Prototype Pilot 50.,2026-03-20,,Overdue,10,1413750,Pending,Pending
+MS0504,P050,Final Handover,Prototype milestone for Maharashtra Transformer Health Monitoring — Prototype Pilot 50.,2026-04-27,,Pending,0,1413750,Pending,Pending
+MS0511,P051,Discovery & Baseline,Prototype milestone for Maharashtra Ambulance Dispatch Visibility — Prototype Pilot 51.,2026-08-20,2026-08-27,Completed Late,100,1305000,Pending,Pending
+MS0512,P051,Prototype Deployment,Prototype milestone for Maharashtra Ambulance Dispatch Visibility — Prototype Pilot 51.,2026-09-14,,Overdue,10,1305000,Pending,Pending
+MS0513,P051,Pilot Measurement,Prototype milestone for Maharashtra Ambulance Dispatch Visibility — Prototype Pilot 51.,2026-10-09,,Pending,0,1305000,Pending,Pending
+MS0514,P051,Final Handover,Prototype milestone for Maharashtra Ambulance Dispatch Visibility — Prototype Pilot 51.,2026-11-03,2026-10-27,Completed,100,1305000,Approved,Approved
+MS0521,P052,Discovery & Baseline,Prototype milestone for Maharashtra Urban Water Supply Reliability Monitoring — Prototype Pilot 52.,2025-08-20,,Overdue,10,1631250,Pending,Pending
+MS0522,P052,Prototype Deployment,Prototype milestone for Maharashtra Urban Water Supply Reliability Monitoring — Prototype Pilot 52.,2025-09-19,,Pending,0,1631250,Pending,Pending
+MS0523,P052,Pilot Measurement,Prototype milestone for Maharashtra Urban Water Supply Reliability Monitoring — Prototype Pilot 52.,2025-10-19,2025-10-12,Completed,100,1631250,Approved,Approved
+MS0524,P052,Final Handover,Prototype milestone for Maharashtra Urban Water Supply Reliability Monitoring — Prototype Pilot 52.,2025-11-18,2025-11-18,Completed,100,1631250,Approved,Approved
+MS0531,P053,Discovery & Baseline,Prototype milestone for Maharashtra Third-Party Dependency Risk Review — Prototype Pilot 53.,2026-02-01,,Pending,0,978750,Pending,Pending
+MS0532,P053,Prototype Deployment,Prototype milestone for Maharashtra Third-Party Dependency Risk Review — Prototype Pilot 53.,2026-02-26,2026-02-19,Completed,100,978750,Approved,Approved
+MS0533,P053,Pilot Measurement,Prototype milestone for Maharashtra Third-Party Dependency Risk Review — Prototype Pilot 53.,2026-03-23,,At Risk,55,978750,Pending,Pending
+MS0534,P053,Final Handover,Prototype milestone for Maharashtra Third-Party Dependency Risk Review — Prototype Pilot 53.,2026-04-17,2026-04-26,Completed Late,100,978750,Pending,Pending
+MS0541,P054,Discovery & Baseline,Prototype milestone for Maharashtra Hospital Infection Control Audit Support — Prototype Pilot 54.,2026-09-28,2026-09-21,Completed,100,870000,Approved,Approved
+MS0542,P054,Prototype Deployment,Prototype milestone for Maharashtra Hospital Infection Control Audit Support — Prototype Pilot 54.,2026-10-23,,At Risk,55,870000,Pending,Pending
+MS0543,P054,Pilot Measurement,Prototype milestone for Maharashtra Hospital Infection Control Audit Support — Prototype Pilot 54.,2026-11-17,2026-11-18,Completed Late,100,870000,Pending,Pending
+MS0544,P054,Final Handover,Prototype milestone for Maharashtra Hospital Infection Control Audit Support — Prototype Pilot 54.,2026-12-12,,Overdue,10,870000,Pending,Pending
+MS0551,P055,Discovery & Baseline,Prototype milestone for Maharashtra Reservoir Inflow Monitoring — Prototype Pilot 55.,2025-09-29,,At Risk,55,1196250,Pending,Pending
+MS0552,P055,Prototype Deployment,Prototype milestone for Maharashtra Reservoir Inflow Monitoring — Prototype Pilot 55.,2025-10-29,2025-10-31,Completed Late,100,1196250,Pending,Pending
+MS0553,P055,Pilot Measurement,Prototype milestone for Maharashtra Reservoir Inflow Monitoring — Prototype Pilot 55.,2025-11-28,,Overdue,10,1196250,Pending,Pending
+MS0554,P055,Final Handover,Prototype milestone for Maharashtra Reservoir Inflow Monitoring — Prototype Pilot 55.,2025-12-28,,Pending,0,1196250,Pending,Pending
+MS0561,P056,Discovery & Baseline,Prototype milestone for Maharashtra Open Data Quality Monitoring — Prototype Pilot 56.,2026-03-13,2026-03-16,Completed Late,100,870000,Pending,Pending
+MS0562,P056,Prototype Deployment,Prototype milestone for Maharashtra Open Data Quality Monitoring — Prototype Pilot 56.,2026-04-07,,Overdue,10,870000,Pending,Pending
+MS0563,P056,Pilot Measurement,Prototype milestone for Maharashtra Open Data Quality Monitoring — Prototype Pilot 56.,2026-05-02,,Pending,0,870000,Pending,Pending
+MS0564,P056,Final Handover,Prototype milestone for Maharashtra Open Data Quality Monitoring — Prototype Pilot 56.,2026-05-27,2026-05-23,Completed,100,870000,Approved,Approved
+MS0571,P057,Discovery & Baseline,Prototype milestone for Maharashtra School Attendance Early Warning — Prototype Pilot 57.,2025-05-02,,Overdue,10,978750,Pending,Pending
+MS0572,P057,Prototype Deployment,Prototype milestone for Maharashtra School Attendance Early Warning — Prototype Pilot 57.,2025-06-01,,Pending,0,978750,Pending,Pending
+MS0573,P057,Pilot Measurement,Prototype milestone for Maharashtra School Attendance Early Warning — Prototype Pilot 57.,2025-07-01,2025-06-27,Completed,100,978750,Approved,Approved
+MS0574,P057,Final Handover,Prototype milestone for Maharashtra School Attendance Early Warning — Prototype Pilot 57.,2025-07-31,,At Risk,55,978750,Pending,Pending
+MS0581,P058,Discovery & Baseline,Prototype milestone for Maharashtra Construction Waste Tracking — Prototype Pilot 58.,2025-11-08,,Pending,0,1087500,Pending,Pending
+MS0582,P058,Prototype Deployment,Prototype milestone for Maharashtra Construction Waste Tracking — Prototype Pilot 58.,2025-12-08,2025-12-04,Completed,100,1087500,Approved,Approved
+MS0583,P058,Pilot Measurement,Prototype milestone for Maharashtra Construction Waste Tracking — Prototype Pilot 58.,2026-01-07,,At Risk,55,1087500,Pending,Pending
+MS0584,P058,Final Handover,Prototype milestone for Maharashtra Construction Waste Tracking — Prototype Pilot 58.,2026-02-06,2026-02-11,Completed Late,100,1087500,Pending,Pending
+MS0591,P059,Discovery & Baseline,Prototype milestone for Maharashtra Citizen Satisfaction Pulse — Prototype Pilot 59.,2026-04-19,2026-04-15,Completed,100,652500,Approved,Approved
+MS0592,P059,Prototype Deployment,Prototype milestone for Maharashtra Citizen Satisfaction Pulse — Prototype Pilot 59.,2026-05-12,,At Risk,55,652500,Pending,Pending
+MS0593,P059,Pilot Measurement,Prototype milestone for Maharashtra Citizen Satisfaction Pulse — Prototype Pilot 59.,2026-06-03,2026-06-09,Completed Late,100,652500,Pending,Pending
+MS0594,P059,Final Handover,Prototype milestone for Maharashtra Citizen Satisfaction Pulse — Prototype Pilot 59.,2026-06-26,,Overdue,10,652500,Pending,Pending
+MS0601,P060,Discovery & Baseline,Prototype milestone for Maharashtra Skill Course Outcome Tracking — Prototype Pilot 60.,2025-06-11,,At Risk,55,1087500,Pending,Pending
+MS0602,P060,Prototype Deployment,Prototype milestone for Maharashtra Skill Course Outcome Tracking — Prototype Pilot 60.,2025-07-11,2025-07-18,Completed Late,100,1087500,Pending,Pending
+MS0603,P060,Pilot Measurement,Prototype milestone for Maharashtra Skill Course Outcome Tracking — Prototype Pilot 60.,2025-08-10,,Overdue,10,1087500,Pending,Pending
+MS0604,P060,Final Handover,Prototype milestone for Maharashtra Skill Course Outcome Tracking — Prototype Pilot 60.,2025-09-09,2025-09-09,Completed,100,1087500,Approved,Approved
+P0611,P061,Discovery & Baseline,Prototype milestone for Depot Maintenance Scheduling.,2026-10-27,2026-09-27,Completed,100,1087500,Approved,Approved
+P0612,P061,Prototype Deployment,Prototype milestone for Depot Maintenance Scheduling.,2026-11-26,,Pending,0,1087500,Pending,Pending
+P0613,P061,Pilot Measurement,Prototype milestone for Depot Maintenance Scheduling.,2026-12-26,,Pending,0,1087500,Pending,Pending
+P0614,P061,Final Handover,Prototype milestone for Depot Maintenance Scheduling.,2027-01-25,,Pending,0,1087500,Pending,Pending

@@ -1,0 +1,182 @@
+﻿kpi_id,pilot_id,kpi_name,baseline,target,actual,unit,status,measurement_date
+KPI0011,P001,Resolution Time,72,36,33,hours,PASS,2026-08-25
+KPI0012,P001,Water Leakage Detection,60,85,93,%,PASS,2026-09-09
+KPI0013,P001,Waste Collection Efficiency,70,90,88,%,FAIL,2026-09-24
+KPI0021,P002,Energy Consumption,100,85,89,index,FAIL,2025-08-20
+KPI0022,P002,Hospital Waiting Time,90,60,54,minutes,PASS,2025-09-04
+KPI0023,P002,School Attendance,78,88,93,%,PASS,2025-09-19
+KPI0031,P003,Route Reliability,72,90,80,%,FAIL,2026-02-06
+KPI0032,P003,Data Availability,80,95,96,%,PASS,2026-02-21
+KPI0033,P003,Response Time,60,30,21,minutes,PASS,2026-03-08
+KPI0041,P004,Detection Accuracy,70,90,87,%,FAIL,2026-10-03
+KPI0042,P004,Citizen Satisfaction,65,80,88,%,PASS,2026-10-18
+KPI0043,P004,Resolution Time,72,36,34,hours,PASS,2026-11-02
+KPI0051,P005,Water Leakage Detection,60,85,89,%,PASS,2025-09-29
+KPI0052,P005,Waste Collection Efficiency,70,90,84,%,FAIL,2025-10-14
+KPI0053,P005,Energy Consumption,100,85,90,index,FAIL,2025-10-29
+KPI0061,P006,Hospital Waiting Time,90,60,50,minutes,PASS,2026-03-18
+KPI0062,P006,School Attendance,78,88,89,%,PASS,2026-04-02
+KPI0063,P006,Route Reliability,72,90,81,%,FAIL,2026-04-17
+KPI0071,P007,Data Availability,80,95,83,%,FAIL,2025-05-02
+KPI0072,P007,Response Time,60,30,38,minutes,FAIL,2025-05-17
+KPI0073,P007,Detection Accuracy,70,90,88,%,FAIL,2025-06-01
+KPI0081,P008,Citizen Satisfaction,65,80,84,%,PASS,2025-11-08
+KPI0082,P008,Resolution Time,72,36,30,hours,PASS,2025-11-23
+KPI0083,P008,Water Leakage Detection,60,85,90,%,PASS,2025-12-08
+KPI0091,P009,Waste Collection Efficiency,70,90,80,%,FAIL,2026-04-27
+KPI0092,P009,Energy Consumption,100,85,86,index,FAIL,2026-05-12
+KPI0093,P009,Hospital Waiting Time,90,60,51,minutes,PASS,2026-05-27
+KPI0101,P010,School Attendance,78,88,85,%,FAIL,2025-06-11
+KPI0102,P010,Route Reliability,72,90,98,%,PASS,2025-06-26
+KPI0103,P010,Data Availability,80,95,93,%,FAIL,2025-07-11
+KPI0111,P011,Response Time,60,30,34,minutes,FAIL,2025-12-18
+KPI0112,P011,Detection Accuracy,70,90,84,%,FAIL,2026-01-02
+KPI0113,P011,Citizen Satisfaction,65,80,85,%,PASS,2026-01-17
+KPI0121,P012,Resolution Time,72,36,26,hours,PASS,2026-06-06
+KPI0122,P012,Water Leakage Detection,60,85,86,%,PASS,2026-06-21
+KPI0123,P012,Waste Collection Efficiency,70,90,81,%,FAIL,2026-07-06
+KPI0131,P013,Energy Consumption,100,85,82,index,PASS,2025-07-21
+KPI0132,P013,Hospital Waiting Time,90,60,68,minutes,FAIL,2025-08-05
+KPI0133,P013,School Attendance,78,88,86,%,FAIL,2025-08-20
+KPI0141,P014,Route Reliability,72,90,78,%,FAIL,2026-01-27
+KPI0142,P014,Data Availability,80,95,89,%,FAIL,2026-02-11
+KPI0143,P014,Response Time,60,30,35,minutes,FAIL,2026-02-26
+KPI0151,P015,Detection Accuracy,70,90,80,%,FAIL,2026-07-16
+KPI0152,P015,Citizen Satisfaction,65,80,81,%,PASS,2026-07-31
+KPI0153,P015,Resolution Time,72,36,27,hours,PASS,2026-08-15
+KPI0161,P016,Water Leakage Detection,60,85,82,%,FAIL,2025-08-30
+KPI0162,P016,Waste Collection Efficiency,70,90,98,%,PASS,2025-09-14
+KPI0163,P016,Energy Consumption,100,85,83,index,PASS,2025-09-29
+KPI0171,P017,Hospital Waiting Time,90,60,64,minutes,FAIL,2026-03-08
+KPI0172,P017,School Attendance,78,88,82,%,FAIL,2026-03-23
+KPI0173,P017,Route Reliability,72,90,95,%,PASS,2026-04-07
+KPI0181,P018,Data Availability,80,95,85,%,FAIL,2025-04-22
+KPI0182,P018,Response Time,60,30,31,minutes,FAIL,2025-05-07
+KPI0183,P018,Detection Accuracy,70,90,81,%,FAIL,2025-05-22
+KPI0191,P019,Citizen Satisfaction,65,80,77,%,FAIL,2025-10-09
+KPI0192,P019,Resolution Time,72,36,44,hours,FAIL,2025-10-24
+KPI0193,P019,Water Leakage Detection,60,85,83,%,FAIL,2025-11-08
+KPI0201,P020,Waste Collection Efficiency,70,90,94,%,PASS,2026-06-06
+KPI0202,P020,Energy Consumption,100,85,79,index,PASS,2026-06-21
+KPI0203,P020,Hospital Waiting Time,90,60,65,minutes,FAIL,2026-07-06
+KPI0211,P021,School Attendance,78,88,76,%,FAIL,2025-06-01
+KPI0212,P021,Route Reliability,72,90,91,%,PASS,2025-06-16
+KPI0213,P021,Data Availability,80,95,86,%,FAIL,2025-07-01
+KPI0221,P022,Response Time,60,30,27,minutes,PASS,2025-11-18
+KPI0222,P022,Detection Accuracy,70,90,98,%,PASS,2025-12-03
+KPI0223,P022,Citizen Satisfaction,65,80,78,%,FAIL,2025-12-18
+KPI0231,P023,Resolution Time,72,36,40,hours,FAIL,2026-07-16
+KPI0232,P023,Water Leakage Detection,60,85,79,%,FAIL,2026-07-31
+KPI0233,P023,Waste Collection Efficiency,70,90,95,%,PASS,2026-08-15
+KPI0241,P024,Energy Consumption,100,85,75,index,PASS,2025-07-11
+KPI0242,P024,Hospital Waiting Time,90,60,61,minutes,FAIL,2025-07-26
+KPI0243,P024,School Attendance,78,88,79,%,FAIL,2025-08-10
+KPI0251,P025,Route Reliability,72,90,87,%,FAIL,2025-12-28
+KPI0252,P025,Data Availability,80,95,103,%,PASS,2026-01-12
+KPI0253,P025,Response Time,60,30,28,minutes,PASS,2026-01-27
+KPI0261,P026,Detection Accuracy,70,90,94,%,PASS,2026-08-25
+KPI0262,P026,Citizen Satisfaction,65,80,74,%,FAIL,2026-09-09
+KPI0263,P026,Resolution Time,72,36,41,hours,FAIL,2026-09-24
+KPI0271,P027,Water Leakage Detection,60,85,75,%,FAIL,2025-08-20
+KPI0272,P027,Waste Collection Efficiency,70,90,91,%,PASS,2025-09-04
+KPI0273,P027,Energy Consumption,100,85,76,index,PASS,2025-09-19
+KPI0281,P028,Hospital Waiting Time,90,60,48,minutes,PASS,2026-02-06
+KPI0282,P028,School Attendance,78,88,96,%,PASS,2026-02-21
+KPI0283,P028,Route Reliability,72,90,88,%,FAIL,2026-03-08
+KPI0291,P029,Data Availability,80,95,99,%,PASS,2026-08-04
+KPI0292,P029,Response Time,60,30,24,minutes,PASS,2026-08-19
+KPI0293,P029,Detection Accuracy,70,90,95,%,PASS,2026-09-03
+KPI0301,P030,Citizen Satisfaction,65,80,70,%,FAIL,2025-09-29
+KPI0302,P030,Resolution Time,72,36,37,hours,FAIL,2025-10-14
+KPI0303,P030,Water Leakage Detection,60,85,76,%,FAIL,2025-10-29
+KPI0311,P031,Waste Collection Efficiency,70,90,87,%,FAIL,2026-03-18
+KPI0312,P031,Energy Consumption,100,85,93,index,FAIL,2026-04-02
+KPI0313,P031,Hospital Waiting Time,90,60,58,minutes,PASS,2026-04-17
+KPI0321,P032,School Attendance,78,88,92,%,PASS,2025-05-02
+KPI0322,P032,Route Reliability,72,90,84,%,FAIL,2025-05-17
+KPI0323,P032,Data Availability,80,95,100,%,PASS,2025-06-01
+KPI0331,P033,Response Time,60,30,20,minutes,PASS,2025-11-08
+KPI0332,P033,Detection Accuracy,70,90,91,%,PASS,2025-11-23
+KPI0333,P033,Citizen Satisfaction,65,80,71,%,FAIL,2025-12-08
+KPI0341,P034,Resolution Time,72,36,33,hours,PASS,2026-04-27
+KPI0342,P034,Water Leakage Detection,60,85,93,%,PASS,2026-05-12
+KPI0343,P034,Waste Collection Efficiency,70,90,88,%,FAIL,2026-05-27
+KPI0351,P035,Energy Consumption,100,85,73,index,PASS,2025-06-11
+KPI0352,P035,Hospital Waiting Time,90,60,54,minutes,PASS,2025-06-26
+KPI0353,P035,School Attendance,78,88,93,%,PASS,2025-07-11
+KPI0361,P036,Route Reliability,72,90,80,%,FAIL,2025-12-18
+KPI0362,P036,Data Availability,80,95,96,%,PASS,2026-01-02
+KPI0363,P036,Response Time,60,30,21,minutes,PASS,2026-01-17
+KPI0371,P037,Detection Accuracy,70,90,87,%,FAIL,2026-06-06
+KPI0372,P037,Citizen Satisfaction,65,80,88,%,PASS,2026-06-21
+KPI0373,P037,Resolution Time,72,36,34,hours,PASS,2026-07-06
+KPI0381,P038,Water Leakage Detection,60,85,89,%,PASS,2025-07-21
+KPI0382,P038,Waste Collection Efficiency,70,90,84,%,FAIL,2025-08-05
+KPI0383,P038,Energy Consumption,100,85,90,index,FAIL,2025-08-20
+KPI0391,P039,Hospital Waiting Time,90,60,50,minutes,PASS,2026-01-27
+KPI0392,P039,School Attendance,78,88,89,%,PASS,2026-02-11
+KPI0393,P039,Route Reliability,72,90,81,%,FAIL,2026-02-26
+KPI0401,P040,Data Availability,80,95,92,%,FAIL,2026-07-16
+KPI0402,P040,Response Time,60,30,38,minutes,FAIL,2026-07-31
+KPI0403,P040,Detection Accuracy,70,90,88,%,FAIL,2026-08-15
+KPI0411,P041,Citizen Satisfaction,65,80,84,%,PASS,2025-08-30
+KPI0412,P041,Resolution Time,72,36,30,hours,PASS,2025-09-14
+KPI0413,P041,Water Leakage Detection,60,85,90,%,PASS,2025-09-29
+KPI0421,P042,Waste Collection Efficiency,70,90,78,%,FAIL,2026-03-08
+KPI0422,P042,Energy Consumption,100,85,86,index,FAIL,2026-03-23
+KPI0423,P042,Hospital Waiting Time,90,60,51,minutes,PASS,2026-04-07
+KPI0431,P043,School Attendance,78,88,85,%,FAIL,2025-04-22
+KPI0432,P043,Route Reliability,72,90,98,%,PASS,2025-05-07
+KPI0433,P043,Data Availability,80,95,93,%,FAIL,2025-05-22
+KPI0441,P044,Response Time,60,30,34,minutes,FAIL,2025-10-09
+KPI0442,P044,Detection Accuracy,70,90,84,%,FAIL,2025-10-24
+KPI0443,P044,Citizen Satisfaction,65,80,85,%,PASS,2025-11-08
+KPI0451,P045,Resolution Time,72,36,26,hours,PASS,2026-06-06
+KPI0452,P045,Water Leakage Detection,60,85,86,%,PASS,2026-06-21
+KPI0453,P045,Waste Collection Efficiency,70,90,81,%,FAIL,2026-07-06
+KPI0461,P046,Energy Consumption,100,85,82,index,PASS,2025-06-01
+KPI0462,P046,Hospital Waiting Time,90,60,68,minutes,FAIL,2025-06-16
+KPI0463,P046,School Attendance,78,88,86,%,FAIL,2025-07-01
+KPI0471,P047,Route Reliability,72,90,94,%,PASS,2025-11-18
+KPI0472,P047,Data Availability,80,95,89,%,FAIL,2025-12-03
+KPI0473,P047,Response Time,60,30,35,minutes,FAIL,2025-12-18
+KPI0481,P048,Detection Accuracy,70,90,80,%,FAIL,2026-07-16
+KPI0482,P048,Citizen Satisfaction,65,80,81,%,PASS,2026-07-31
+KPI0483,P048,Resolution Time,72,36,27,hours,PASS,2026-08-15
+KPI0491,P049,Water Leakage Detection,60,85,73,%,FAIL,2025-07-11
+KPI0492,P049,Waste Collection Efficiency,70,90,98,%,PASS,2025-07-26
+KPI0493,P049,Energy Consumption,100,85,83,index,PASS,2025-08-10
+KPI0501,P050,Hospital Waiting Time,90,60,64,minutes,FAIL,2025-12-28
+KPI0502,P050,School Attendance,78,88,82,%,FAIL,2026-01-12
+KPI0503,P050,Route Reliability,72,90,95,%,PASS,2026-01-27
+KPI0511,P051,Data Availability,80,95,85,%,FAIL,2026-08-25
+KPI0512,P051,Response Time,60,30,31,minutes,FAIL,2026-09-09
+KPI0513,P051,Detection Accuracy,70,90,81,%,FAIL,2026-09-24
+KPI0521,P052,Citizen Satisfaction,65,80,77,%,FAIL,2025-08-20
+KPI0522,P052,Resolution Time,72,36,44,hours,FAIL,2025-09-04
+KPI0523,P052,Water Leakage Detection,60,85,83,%,FAIL,2025-09-19
+KPI0531,P053,Waste Collection Efficiency,70,90,94,%,PASS,2026-02-06
+KPI0532,P053,Energy Consumption,100,85,79,index,PASS,2026-02-21
+KPI0533,P053,Hospital Waiting Time,90,60,65,minutes,FAIL,2026-03-08
+KPI0541,P054,School Attendance,78,88,78,%,FAIL,2026-10-03
+KPI0542,P054,Route Reliability,72,90,91,%,PASS,2026-10-18
+KPI0543,P054,Data Availability,80,95,86,%,FAIL,2026-11-02
+KPI0551,P055,Response Time,60,30,27,minutes,PASS,2025-09-29
+KPI0552,P055,Detection Accuracy,70,90,98,%,PASS,2025-10-14
+KPI0553,P055,Citizen Satisfaction,65,80,78,%,FAIL,2025-10-29
+KPI0561,P056,Resolution Time,72,36,24,hours,PASS,2026-03-18
+KPI0562,P056,Water Leakage Detection,60,85,79,%,FAIL,2026-04-02
+KPI0563,P056,Waste Collection Efficiency,70,90,95,%,PASS,2026-04-17
+KPI0571,P057,Energy Consumption,100,85,75,index,PASS,2025-05-02
+KPI0572,P057,Hospital Waiting Time,90,60,61,minutes,FAIL,2025-05-17
+KPI0573,P057,School Attendance,78,88,79,%,FAIL,2025-06-01
+KPI0581,P058,Route Reliability,72,90,87,%,FAIL,2025-11-08
+KPI0582,P058,Data Availability,80,95,103,%,PASS,2025-11-23
+KPI0583,P058,Response Time,60,30,28,minutes,PASS,2025-12-08
+KPI0591,P059,Detection Accuracy,70,90,94,%,PASS,2026-04-27
+KPI0592,P059,Citizen Satisfaction,65,80,74,%,FAIL,2026-05-12
+KPI0593,P059,Resolution Time,72,36,41,hours,FAIL,2026-05-27
+KPI0601,P060,Water Leakage Detection,60,85,75,%,FAIL,2025-06-11
+KPI0602,P060,Waste Collection Efficiency,70,90,91,%,PASS,2025-06-26
+KPI0603,P060,Energy Consumption,100,85,76,index,PASS,2025-07-11
+KPI00604,P061,Response Time,60.0,30.0,24.0,minutes,PASS,2026-09-27

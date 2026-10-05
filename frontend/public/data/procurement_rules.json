@@ -1,0 +1,1 @@
+[{"rule_id": "PR001", "rule": "Security gate before pilot In Progress"}, {"rule_id": "PR002", "rule": "Independent validation before scale-up"}, {"rule_id": "PR003", "rule": "Milestone approval before prototype payment release"}]

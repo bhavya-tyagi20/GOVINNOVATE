@@ -1,0 +1,61 @@
+milestone_id,pilot_id,name,status,due_date
+P001-M1,P001,Discovery,Completed,2027-03-31
+P001-M2,P001,Prototype,Completed,2027-03-31
+P001-M3,P001,Field Pilot,Completed,2027-03-31
+P001-M4,P001,Validation,In Progress,2027-03-31
+P001-M5,P001,Closure,Pending,2027-03-31
+P002-M1,P002,Discovery,Completed,2027-03-31
+P002-M2,P002,Prototype,Completed,2027-03-31
+P002-M3,P002,Field Pilot,Completed,2027-03-31
+P002-M4,P002,Validation,In Progress,2027-03-31
+P002-M5,P002,Closure,Pending,2027-03-31
+P003-M1,P003,Discovery,Completed,2027-03-31
+P003-M2,P003,Prototype,Completed,2027-03-31
+P003-M3,P003,Field Pilot,Completed,2027-03-31
+P003-M4,P003,Validation,In Progress,2027-03-31
+P003-M5,P003,Closure,Pending,2027-03-31
+P004-M1,P004,Discovery,Completed,2027-03-31
+P004-M2,P004,Prototype,Completed,2027-03-31
+P004-M3,P004,Field Pilot,Completed,2027-03-31
+P004-M4,P004,Validation,In Progress,2027-03-31
+P004-M5,P004,Closure,Pending,2027-03-31
+P005-M1,P005,Discovery,Completed,2027-03-31
+P005-M2,P005,Prototype,Completed,2027-03-31
+P005-M3,P005,Field Pilot,Completed,2027-03-31
+P005-M4,P005,Validation,In Progress,2027-03-31
+P005-M5,P005,Closure,Pending,2027-03-31
+P006-M1,P006,Discovery,Completed,2027-03-31
+P006-M2,P006,Prototype,Completed,2027-03-31
+P006-M3,P006,Field Pilot,Completed,2027-03-31
+P006-M4,P006,Validation,In Progress,2027-03-31
+P006-M5,P006,Closure,Pending,2027-03-31
+P007-M1,P007,Discovery,Completed,2027-03-31
+P007-M2,P007,Prototype,Completed,2027-03-31
+P007-M3,P007,Field Pilot,Completed,2027-03-31
+P007-M4,P007,Validation,In Progress,2027-03-31
+P007-M5,P007,Closure,Pending,2027-03-31
+P008-M1,P008,Discovery,Completed,2027-03-31
+P008-M2,P008,Prototype,Completed,2027-03-31
+P008-M3,P008,Field Pilot,Completed,2027-03-31
+P008-M4,P008,Validation,In Progress,2027-03-31
+P008-M5,P008,Closure,Pending,2027-03-31
+P009-M1,P009,Discovery,Completed,2027-03-31
+P009-M2,P009,Prototype,Completed,2027-03-31
+P009-M3,P009,Field Pilot,Completed,2027-03-31
+P009-M4,P009,Validation,In Progress,2027-03-31
+P009-M5,P009,Closure,Pending,2027-03-31
+P010-M1,P010,Discovery,Completed,2027-03-31
+P010-M2,P010,Prototype,Completed,2027-03-31
+P010-M3,P010,Field Pilot,Completed,2027-03-31
+P010-M4,P010,Validation,In Progress,2027-03-31
+P010-M5,P010,Closure,Pending,2027-03-31
+P011-M1,P011,Discovery,Completed,2027-03-31
+P011-M2,P011,Prototype,Completed,2027-03-31
+P011-M3,P011,Field Pilot,Completed,2027-03-31
+P011-M4,P011,Validation,In Progress,2027-03-31
+P011-M5,P011,Closure,Pending,2027-03-31
+P012-M1,P012,Discovery,Completed,2027-03-31
+P012-M2,P012,Prototype,Completed,2027-03-31
+P012-M3,P012,Field Pilot,Completed,2027-03-31
+P012-M4,P012,Validation,In Progress,2027-03-31
+P012-M5,P012,Closure,Pending,2027-03-31

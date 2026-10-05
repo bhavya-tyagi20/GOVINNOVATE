@@ -1,0 +1,9 @@
+metric_id,pilot_id,metric_name,target,actual,unit,performance
+PM001,PIL001,Detection Accuracy,90,93,percent,On Track
+PM002,PIL001,Processing Time,2,1.6,seconds,On Track
+PM003,PIL001,Cost Reduction,20,24,percent,Above Target
+PM004,PIL002,Leak Detection Accuracy,90,91,percent,On Track
+PM005,PIL003,Disease Detection Accuracy,90,94,percent,Above Target
+PM006,PIL003,False Positive Rate,10,7,percent,Above Target
+PM007,PIL004,Prediction Accuracy,85,88,percent,Above Target
+PM008,PIL005,Segregation Accuracy,90,92,percent,Above Target

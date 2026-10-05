@@ -1,0 +1,5 @@
+validation_id,pilot_id,validator,verified_performance,startup_claim,result,data_status
+VAL001,PIL001,Independent Technical Evaluation Team,91.8,93,PASSED,Demo validation record
+VAL002,PIL002,Independent Technical Evaluation Team,89.5,91,PASSED,Demo validation record
+VAL003,PIL003,Independent Technical Evaluation Team,93.2,94,PASSED,Demo validation record
+VAL004,PIL005,Independent Technical Evaluation Team,91.0,92,PASSED,Demo validation record

@@ -1,0 +1,61 @@
+﻿expert_id,expert_name,domain,city,state,verification_status,data_label
+E001,Synthetic Expert 001,Urban Systems,Pune,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E002,Synthetic Expert 002,Education,Nagpur,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E003,Synthetic Expert 003,Environment,Nashik,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E004,Synthetic Expert 004,Innovation,Delhi,Delhi,Prototype Verified,SYNTHETIC / PROTOTYPE
+E005,Synthetic Expert 005,Cybersecurity,Bengaluru,Karnataka,Prototype Verified,SYNTHETIC / PROTOTYPE
+E006,Synthetic Expert 006,Mobility,Hyderabad,Telangana,Prototype Verified,SYNTHETIC / PROTOTYPE
+E007,Synthetic Expert 007,Procurement,Chennai,Tamil Nadu,Prototype Verified,SYNTHETIC / PROTOTYPE
+E008,Synthetic Expert 008,Public Health,Mumbai,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E009,Synthetic Expert 009,Agritech,Pune,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E010,Synthetic Expert 010,Water,Nagpur,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E011,Synthetic Expert 011,Technical Feasibility,Nashik,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E012,Synthetic Expert 012,Urban Systems,Delhi,Delhi,Prototype Verified,SYNTHETIC / PROTOTYPE
+E013,Synthetic Expert 013,Education,Bengaluru,Karnataka,Prototype Verified,SYNTHETIC / PROTOTYPE
+E014,Synthetic Expert 014,Environment,Hyderabad,Telangana,Prototype Verified,SYNTHETIC / PROTOTYPE
+E015,Synthetic Expert 015,Innovation,Chennai,Tamil Nadu,Prototype Verified,SYNTHETIC / PROTOTYPE
+E016,Synthetic Expert 016,Cybersecurity,Mumbai,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E017,Synthetic Expert 017,Mobility,Pune,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E018,Synthetic Expert 018,Procurement,Nagpur,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E019,Synthetic Expert 019,Public Health,Nashik,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E020,Synthetic Expert 020,Agritech,Delhi,Delhi,Prototype Verified,SYNTHETIC / PROTOTYPE
+E021,Synthetic Expert 021,Water,Bengaluru,Karnataka,Prototype Verified,SYNTHETIC / PROTOTYPE
+E022,Synthetic Expert 022,Technical Feasibility,Hyderabad,Telangana,Prototype Verified,SYNTHETIC / PROTOTYPE
+E023,Synthetic Expert 023,Urban Systems,Chennai,Tamil Nadu,Prototype Verified,SYNTHETIC / PROTOTYPE
+E024,Synthetic Expert 024,Education,Mumbai,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E025,Synthetic Expert 025,Environment,Pune,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E026,Synthetic Expert 026,Innovation,Nagpur,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E027,Synthetic Expert 027,Cybersecurity,Nashik,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E028,Synthetic Expert 028,Mobility,Delhi,Delhi,Prototype Verified,SYNTHETIC / PROTOTYPE
+E029,Synthetic Expert 029,Procurement,Bengaluru,Karnataka,Prototype Verified,SYNTHETIC / PROTOTYPE
+E030,Synthetic Expert 030,Public Health,Hyderabad,Telangana,Prototype Verified,SYNTHETIC / PROTOTYPE
+E031,Synthetic Expert 031,Agritech,Chennai,Tamil Nadu,Prototype Verified,SYNTHETIC / PROTOTYPE
+E032,Synthetic Expert 032,Water,Mumbai,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E033,Synthetic Expert 033,Technical Feasibility,Pune,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E034,Synthetic Expert 034,Urban Systems,Nagpur,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E035,Synthetic Expert 035,Education,Nashik,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E036,Synthetic Expert 036,Environment,Delhi,Delhi,Prototype Verified,SYNTHETIC / PROTOTYPE
+E037,Synthetic Expert 037,Innovation,Bengaluru,Karnataka,Prototype Verified,SYNTHETIC / PROTOTYPE
+E038,Synthetic Expert 038,Cybersecurity,Hyderabad,Telangana,Prototype Verified,SYNTHETIC / PROTOTYPE
+E039,Synthetic Expert 039,Mobility,Chennai,Tamil Nadu,Prototype Verified,SYNTHETIC / PROTOTYPE
+E040,Synthetic Expert 040,Procurement,Mumbai,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E041,Synthetic Expert 041,Public Health,Pune,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E042,Synthetic Expert 042,Agritech,Nagpur,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E043,Synthetic Expert 043,Water,Nashik,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E044,Synthetic Expert 044,Technical Feasibility,Delhi,Delhi,Prototype Verified,SYNTHETIC / PROTOTYPE
+E045,Synthetic Expert 045,Urban Systems,Bengaluru,Karnataka,Prototype Verified,SYNTHETIC / PROTOTYPE
+E046,Synthetic Expert 046,Education,Hyderabad,Telangana,Prototype Verified,SYNTHETIC / PROTOTYPE
+E047,Synthetic Expert 047,Environment,Chennai,Tamil Nadu,Prototype Verified,SYNTHETIC / PROTOTYPE
+E048,Synthetic Expert 048,Innovation,Mumbai,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E049,Synthetic Expert 049,Cybersecurity,Pune,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E050,Synthetic Expert 050,Mobility,Nagpur,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E051,Synthetic Expert 051,Procurement,Nashik,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E052,Synthetic Expert 052,Public Health,Delhi,Delhi,Prototype Verified,SYNTHETIC / PROTOTYPE
+E053,Synthetic Expert 053,Agritech,Bengaluru,Karnataka,Prototype Verified,SYNTHETIC / PROTOTYPE
+E054,Synthetic Expert 054,Water,Hyderabad,Telangana,Prototype Verified,SYNTHETIC / PROTOTYPE
+E055,Synthetic Expert 055,Technical Feasibility,Chennai,Tamil Nadu,Prototype Verified,SYNTHETIC / PROTOTYPE
+E056,Synthetic Expert 056,Urban Systems,Mumbai,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E057,Synthetic Expert 057,Education,Pune,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E058,Synthetic Expert 058,Environment,Nagpur,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E059,Synthetic Expert 059,Innovation,Nashik,Maharashtra,Prototype Verified,SYNTHETIC / PROTOTYPE
+E060,Synthetic Expert 060,Cybersecurity,Delhi,Delhi,Prototype Verified,SYNTHETIC / PROTOTYPE

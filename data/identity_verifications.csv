@@ -1,0 +1,501 @@
+﻿identity_verification_id,startup_id,status,method,checked_date,prototype_only
+IDV0001,S0001,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-24,Yes
+IDV0002,S0002,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-21,Yes
+IDV0003,S0003,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-18,Yes
+IDV0004,S0004,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-15,Yes
+IDV0005,S0005,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-12,Yes
+IDV0006,S0006,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-09,Yes
+IDV0007,S0007,Pending Manual Review,Prototype face-match/liveness verification,2026-09-06,Yes
+IDV0008,S0008,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-03,Yes
+IDV0009,S0009,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-31,Yes
+IDV0010,S0010,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-28,Yes
+IDV0011,S0011,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-25,Yes
+IDV0012,S0012,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-22,Yes
+IDV0013,S0013,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-19,Yes
+IDV0014,S0014,Pending Manual Review,Prototype face-match/liveness verification,2026-08-16,Yes
+IDV0015,S0015,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-13,Yes
+IDV0016,S0016,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-10,Yes
+IDV0017,S0017,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-07,Yes
+IDV0018,S0018,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-04,Yes
+IDV0019,S0019,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-01,Yes
+IDV0020,S0020,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-29,Yes
+IDV0021,S0021,Pending Manual Review,Prototype face-match/liveness verification,2026-07-26,Yes
+IDV0022,S0022,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-23,Yes
+IDV0023,S0023,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-20,Yes
+IDV0024,S0024,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-17,Yes
+IDV0025,S0025,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-14,Yes
+IDV0026,S0026,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-11,Yes
+IDV0027,S0027,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-08,Yes
+IDV0028,S0028,Pending Manual Review,Prototype face-match/liveness verification,2026-07-05,Yes
+IDV0029,S0029,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-02,Yes
+IDV0030,S0030,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-29,Yes
+IDV0031,S0031,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-26,Yes
+IDV0032,S0032,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-23,Yes
+IDV0033,S0033,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-20,Yes
+IDV0034,S0034,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-17,Yes
+IDV0035,S0035,Pending Manual Review,Prototype face-match/liveness verification,2026-06-14,Yes
+IDV0036,S0036,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-11,Yes
+IDV0037,S0037,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-08,Yes
+IDV0038,S0038,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-05,Yes
+IDV0039,S0039,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-02,Yes
+IDV0040,S0040,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-30,Yes
+IDV0041,S0041,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-27,Yes
+IDV0042,S0042,Pending Manual Review,Prototype face-match/liveness verification,2026-05-24,Yes
+IDV0043,S0043,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-21,Yes
+IDV0044,S0044,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-18,Yes
+IDV0045,S0045,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-15,Yes
+IDV0046,S0046,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-12,Yes
+IDV0047,S0047,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-09,Yes
+IDV0048,S0048,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-06,Yes
+IDV0049,S0049,Pending Manual Review,Prototype face-match/liveness verification,2026-05-03,Yes
+IDV0050,S0050,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-30,Yes
+IDV0051,S0051,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-27,Yes
+IDV0052,S0052,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-24,Yes
+IDV0053,S0053,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-21,Yes
+IDV0054,S0054,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-18,Yes
+IDV0055,S0055,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-15,Yes
+IDV0056,S0056,Pending Manual Review,Prototype face-match/liveness verification,2026-04-12,Yes
+IDV0057,S0057,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-09,Yes
+IDV0058,S0058,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-06,Yes
+IDV0059,S0059,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-03,Yes
+IDV0060,S0060,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-27,Yes
+IDV0061,S0061,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-24,Yes
+IDV0062,S0062,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-21,Yes
+IDV0063,S0063,Pending Manual Review,Prototype face-match/liveness verification,2026-09-18,Yes
+IDV0064,S0064,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-15,Yes
+IDV0065,S0065,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-12,Yes
+IDV0066,S0066,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-09,Yes
+IDV0067,S0067,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-06,Yes
+IDV0068,S0068,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-03,Yes
+IDV0069,S0069,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-31,Yes
+IDV0070,S0070,Pending Manual Review,Prototype face-match/liveness verification,2026-08-28,Yes
+IDV0071,S0071,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-25,Yes
+IDV0072,S0072,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-22,Yes
+IDV0073,S0073,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-19,Yes
+IDV0074,S0074,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-16,Yes
+IDV0075,S0075,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-13,Yes
+IDV0076,S0076,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-10,Yes
+IDV0077,S0077,Pending Manual Review,Prototype face-match/liveness verification,2026-08-07,Yes
+IDV0078,S0078,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-04,Yes
+IDV0079,S0079,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-01,Yes
+IDV0080,S0080,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-29,Yes
+IDV0081,S0081,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-26,Yes
+IDV0082,S0082,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-23,Yes
+IDV0083,S0083,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-20,Yes
+IDV0084,S0084,Pending Manual Review,Prototype face-match/liveness verification,2026-07-17,Yes
+IDV0085,S0085,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-14,Yes
+IDV0086,S0086,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-11,Yes
+IDV0087,S0087,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-08,Yes
+IDV0088,S0088,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-05,Yes
+IDV0089,S0089,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-02,Yes
+IDV0090,S0090,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-29,Yes
+IDV0091,S0091,Pending Manual Review,Prototype face-match/liveness verification,2026-06-26,Yes
+IDV0092,S0092,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-23,Yes
+IDV0093,S0093,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-20,Yes
+IDV0094,S0094,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-17,Yes
+IDV0095,S0095,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-14,Yes
+IDV0096,S0096,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-11,Yes
+IDV0097,S0097,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-08,Yes
+IDV0098,S0098,Pending Manual Review,Prototype face-match/liveness verification,2026-06-05,Yes
+IDV0099,S0099,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-02,Yes
+IDV0100,S0100,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-30,Yes
+IDV0101,S0101,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-27,Yes
+IDV0102,S0102,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-24,Yes
+IDV0103,S0103,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-21,Yes
+IDV0104,S0104,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-18,Yes
+IDV0105,S0105,Pending Manual Review,Prototype face-match/liveness verification,2026-05-15,Yes
+IDV0106,S0106,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-12,Yes
+IDV0107,S0107,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-09,Yes
+IDV0108,S0108,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-06,Yes
+IDV0109,S0109,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-03,Yes
+IDV0110,S0110,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-30,Yes
+IDV0111,S0111,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-27,Yes
+IDV0112,S0112,Pending Manual Review,Prototype face-match/liveness verification,2026-04-24,Yes
+IDV0113,S0113,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-21,Yes
+IDV0114,S0114,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-18,Yes
+IDV0115,S0115,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-15,Yes
+IDV0116,S0116,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-12,Yes
+IDV0117,S0117,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-09,Yes
+IDV0118,S0118,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-06,Yes
+IDV0119,S0119,Pending Manual Review,Prototype face-match/liveness verification,2026-04-03,Yes
+IDV0120,S0120,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-27,Yes
+IDV0121,S0121,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-24,Yes
+IDV0122,S0122,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-21,Yes
+IDV0123,S0123,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-18,Yes
+IDV0124,S0124,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-15,Yes
+IDV0125,S0125,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-12,Yes
+IDV0126,S0126,Pending Manual Review,Prototype face-match/liveness verification,2026-09-09,Yes
+IDV0127,S0127,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-06,Yes
+IDV0128,S0128,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-03,Yes
+IDV0129,S0129,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-31,Yes
+IDV0130,S0130,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-28,Yes
+IDV0131,S0131,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-25,Yes
+IDV0132,S0132,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-22,Yes
+IDV0133,S0133,Pending Manual Review,Prototype face-match/liveness verification,2026-08-19,Yes
+IDV0134,S0134,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-16,Yes
+IDV0135,S0135,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-13,Yes
+IDV0136,S0136,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-10,Yes
+IDV0137,S0137,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-07,Yes
+IDV0138,S0138,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-04,Yes
+IDV0139,S0139,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-01,Yes
+IDV0140,S0140,Pending Manual Review,Prototype face-match/liveness verification,2026-07-29,Yes
+IDV0141,S0141,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-26,Yes
+IDV0142,S0142,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-23,Yes
+IDV0143,S0143,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-20,Yes
+IDV0144,S0144,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-17,Yes
+IDV0145,S0145,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-14,Yes
+IDV0146,S0146,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-11,Yes
+IDV0147,S0147,Pending Manual Review,Prototype face-match/liveness verification,2026-07-08,Yes
+IDV0148,S0148,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-05,Yes
+IDV0149,S0149,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-02,Yes
+IDV0150,S0150,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-29,Yes
+IDV0151,S0151,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-26,Yes
+IDV0152,S0152,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-23,Yes
+IDV0153,S0153,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-20,Yes
+IDV0154,S0154,Pending Manual Review,Prototype face-match/liveness verification,2026-06-17,Yes
+IDV0155,S0155,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-14,Yes
+IDV0156,S0156,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-11,Yes
+IDV0157,S0157,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-08,Yes
+IDV0158,S0158,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-05,Yes
+IDV0159,S0159,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-02,Yes
+IDV0160,S0160,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-30,Yes
+IDV0161,S0161,Pending Manual Review,Prototype face-match/liveness verification,2026-05-27,Yes
+IDV0162,S0162,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-24,Yes
+IDV0163,S0163,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-21,Yes
+IDV0164,S0164,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-18,Yes
+IDV0165,S0165,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-15,Yes
+IDV0166,S0166,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-12,Yes
+IDV0167,S0167,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-09,Yes
+IDV0168,S0168,Pending Manual Review,Prototype face-match/liveness verification,2026-05-06,Yes
+IDV0169,S0169,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-03,Yes
+IDV0170,S0170,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-30,Yes
+IDV0171,S0171,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-27,Yes
+IDV0172,S0172,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-24,Yes
+IDV0173,S0173,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-21,Yes
+IDV0174,S0174,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-18,Yes
+IDV0175,S0175,Pending Manual Review,Prototype face-match/liveness verification,2026-04-15,Yes
+IDV0176,S0176,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-12,Yes
+IDV0177,S0177,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-09,Yes
+IDV0178,S0178,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-06,Yes
+IDV0179,S0179,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-03,Yes
+IDV0180,S0180,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-27,Yes
+IDV0181,S0181,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-24,Yes
+IDV0182,S0182,Pending Manual Review,Prototype face-match/liveness verification,2026-09-21,Yes
+IDV0183,S0183,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-18,Yes
+IDV0184,S0184,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-15,Yes
+IDV0185,S0185,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-12,Yes
+IDV0186,S0186,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-09,Yes
+IDV0187,S0187,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-06,Yes
+IDV0188,S0188,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-03,Yes
+IDV0189,S0189,Pending Manual Review,Prototype face-match/liveness verification,2026-08-31,Yes
+IDV0190,S0190,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-28,Yes
+IDV0191,S0191,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-25,Yes
+IDV0192,S0192,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-22,Yes
+IDV0193,S0193,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-19,Yes
+IDV0194,S0194,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-16,Yes
+IDV0195,S0195,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-13,Yes
+IDV0196,S0196,Pending Manual Review,Prototype face-match/liveness verification,2026-08-10,Yes
+IDV0197,S0197,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-07,Yes
+IDV0198,S0198,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-04,Yes
+IDV0199,S0199,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-01,Yes
+IDV0200,S0200,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-29,Yes
+IDV0201,S0201,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-26,Yes
+IDV0202,S0202,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-23,Yes
+IDV0203,S0203,Pending Manual Review,Prototype face-match/liveness verification,2026-07-20,Yes
+IDV0204,S0204,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-17,Yes
+IDV0205,S0205,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-14,Yes
+IDV0206,S0206,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-11,Yes
+IDV0207,S0207,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-08,Yes
+IDV0208,S0208,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-05,Yes
+IDV0209,S0209,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-02,Yes
+IDV0210,S0210,Pending Manual Review,Prototype face-match/liveness verification,2026-06-29,Yes
+IDV0211,S0211,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-26,Yes
+IDV0212,S0212,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-23,Yes
+IDV0213,S0213,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-20,Yes
+IDV0214,S0214,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-17,Yes
+IDV0215,S0215,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-14,Yes
+IDV0216,S0216,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-11,Yes
+IDV0217,S0217,Pending Manual Review,Prototype face-match/liveness verification,2026-06-08,Yes
+IDV0218,S0218,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-05,Yes
+IDV0219,S0219,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-02,Yes
+IDV0220,S0220,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-30,Yes
+IDV0221,S0221,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-27,Yes
+IDV0222,S0222,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-24,Yes
+IDV0223,S0223,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-21,Yes
+IDV0224,S0224,Pending Manual Review,Prototype face-match/liveness verification,2026-05-18,Yes
+IDV0225,S0225,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-15,Yes
+IDV0226,S0226,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-12,Yes
+IDV0227,S0227,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-09,Yes
+IDV0228,S0228,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-06,Yes
+IDV0229,S0229,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-03,Yes
+IDV0230,S0230,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-30,Yes
+IDV0231,S0231,Pending Manual Review,Prototype face-match/liveness verification,2026-04-27,Yes
+IDV0232,S0232,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-24,Yes
+IDV0233,S0233,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-21,Yes
+IDV0234,S0234,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-18,Yes
+IDV0235,S0235,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-15,Yes
+IDV0236,S0236,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-12,Yes
+IDV0237,S0237,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-09,Yes
+IDV0238,S0238,Pending Manual Review,Prototype face-match/liveness verification,2026-04-06,Yes
+IDV0239,S0239,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-03,Yes
+IDV0240,S0240,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-27,Yes
+IDV0241,S0241,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-24,Yes
+IDV0242,S0242,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-21,Yes
+IDV0243,S0243,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-18,Yes
+IDV0244,S0244,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-15,Yes
+IDV0245,S0245,Pending Manual Review,Prototype face-match/liveness verification,2026-09-12,Yes
+IDV0246,S0246,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-09,Yes
+IDV0247,S0247,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-06,Yes
+IDV0248,S0248,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-03,Yes
+IDV0249,S0249,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-31,Yes
+IDV0250,S0250,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-28,Yes
+IDV0251,S0251,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-25,Yes
+IDV0252,S0252,Pending Manual Review,Prototype face-match/liveness verification,2026-08-22,Yes
+IDV0253,S0253,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-19,Yes
+IDV0254,S0254,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-16,Yes
+IDV0255,S0255,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-13,Yes
+IDV0256,S0256,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-10,Yes
+IDV0257,S0257,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-07,Yes
+IDV0258,S0258,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-04,Yes
+IDV0259,S0259,Pending Manual Review,Prototype face-match/liveness verification,2026-08-01,Yes
+IDV0260,S0260,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-29,Yes
+IDV0261,S0261,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-26,Yes
+IDV0262,S0262,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-23,Yes
+IDV0263,S0263,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-20,Yes
+IDV0264,S0264,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-17,Yes
+IDV0265,S0265,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-14,Yes
+IDV0266,S0266,Pending Manual Review,Prototype face-match/liveness verification,2026-07-11,Yes
+IDV0267,S0267,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-08,Yes
+IDV0268,S0268,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-05,Yes
+IDV0269,S0269,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-02,Yes
+IDV0270,S0270,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-29,Yes
+IDV0271,S0271,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-26,Yes
+IDV0272,S0272,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-23,Yes
+IDV0273,S0273,Pending Manual Review,Prototype face-match/liveness verification,2026-06-20,Yes
+IDV0274,S0274,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-17,Yes
+IDV0275,S0275,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-14,Yes
+IDV0276,S0276,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-11,Yes
+IDV0277,S0277,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-08,Yes
+IDV0278,S0278,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-05,Yes
+IDV0279,S0279,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-02,Yes
+IDV0280,S0280,Pending Manual Review,Prototype face-match/liveness verification,2026-05-30,Yes
+IDV0281,S0281,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-27,Yes
+IDV0282,S0282,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-24,Yes
+IDV0283,S0283,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-21,Yes
+IDV0284,S0284,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-18,Yes
+IDV0285,S0285,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-15,Yes
+IDV0286,S0286,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-12,Yes
+IDV0287,S0287,Pending Manual Review,Prototype face-match/liveness verification,2026-05-09,Yes
+IDV0288,S0288,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-06,Yes
+IDV0289,S0289,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-03,Yes
+IDV0290,S0290,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-30,Yes
+IDV0291,S0291,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-27,Yes
+IDV0292,S0292,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-24,Yes
+IDV0293,S0293,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-21,Yes
+IDV0294,S0294,Pending Manual Review,Prototype face-match/liveness verification,2026-04-18,Yes
+IDV0295,S0295,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-15,Yes
+IDV0296,S0296,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-12,Yes
+IDV0297,S0297,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-09,Yes
+IDV0298,S0298,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-06,Yes
+IDV0299,S0299,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-03,Yes
+IDV0300,S0300,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-27,Yes
+IDV0301,S0301,Pending Manual Review,Prototype face-match/liveness verification,2026-09-24,Yes
+IDV0302,S0302,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-21,Yes
+IDV0303,S0303,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-18,Yes
+IDV0304,S0304,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-15,Yes
+IDV0305,S0305,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-12,Yes
+IDV0306,S0306,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-09,Yes
+IDV0307,S0307,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-06,Yes
+IDV0308,S0308,Pending Manual Review,Prototype face-match/liveness verification,2026-09-03,Yes
+IDV0309,S0309,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-31,Yes
+IDV0310,S0310,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-28,Yes
+IDV0311,S0311,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-25,Yes
+IDV0312,S0312,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-22,Yes
+IDV0313,S0313,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-19,Yes
+IDV0314,S0314,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-16,Yes
+IDV0315,S0315,Pending Manual Review,Prototype face-match/liveness verification,2026-08-13,Yes
+IDV0316,S0316,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-10,Yes
+IDV0317,S0317,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-07,Yes
+IDV0318,S0318,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-04,Yes
+IDV0319,S0319,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-01,Yes
+IDV0320,S0320,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-29,Yes
+IDV0321,S0321,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-26,Yes
+IDV0322,S0322,Pending Manual Review,Prototype face-match/liveness verification,2026-07-23,Yes
+IDV0323,S0323,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-20,Yes
+IDV0324,S0324,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-17,Yes
+IDV0325,S0325,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-14,Yes
+IDV0326,S0326,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-11,Yes
+IDV0327,S0327,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-08,Yes
+IDV0328,S0328,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-05,Yes
+IDV0329,S0329,Pending Manual Review,Prototype face-match/liveness verification,2026-07-02,Yes
+IDV0330,S0330,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-29,Yes
+IDV0331,S0331,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-26,Yes
+IDV0332,S0332,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-23,Yes
+IDV0333,S0333,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-20,Yes
+IDV0334,S0334,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-17,Yes
+IDV0335,S0335,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-14,Yes
+IDV0336,S0336,Pending Manual Review,Prototype face-match/liveness verification,2026-06-11,Yes
+IDV0337,S0337,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-08,Yes
+IDV0338,S0338,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-05,Yes
+IDV0339,S0339,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-02,Yes
+IDV0340,S0340,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-30,Yes
+IDV0341,S0341,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-27,Yes
+IDV0342,S0342,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-24,Yes
+IDV0343,S0343,Pending Manual Review,Prototype face-match/liveness verification,2026-05-21,Yes
+IDV0344,S0344,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-18,Yes
+IDV0345,S0345,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-15,Yes
+IDV0346,S0346,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-12,Yes
+IDV0347,S0347,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-09,Yes
+IDV0348,S0348,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-06,Yes
+IDV0349,S0349,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-03,Yes
+IDV0350,S0350,Pending Manual Review,Prototype face-match/liveness verification,2026-04-30,Yes
+IDV0351,S0351,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-27,Yes
+IDV0352,S0352,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-24,Yes
+IDV0353,S0353,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-21,Yes
+IDV0354,S0354,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-18,Yes
+IDV0355,S0355,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-15,Yes
+IDV0356,S0356,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-12,Yes
+IDV0357,S0357,Pending Manual Review,Prototype face-match/liveness verification,2026-04-09,Yes
+IDV0358,S0358,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-06,Yes
+IDV0359,S0359,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-03,Yes
+IDV0360,S0360,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-27,Yes
+IDV0361,S0361,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-24,Yes
+IDV0362,S0362,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-21,Yes
+IDV0363,S0363,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-18,Yes
+IDV0364,S0364,Pending Manual Review,Prototype face-match/liveness verification,2026-09-15,Yes
+IDV0365,S0365,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-12,Yes
+IDV0366,S0366,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-09,Yes
+IDV0367,S0367,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-06,Yes
+IDV0368,S0368,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-03,Yes
+IDV0369,S0369,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-31,Yes
+IDV0370,S0370,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-28,Yes
+IDV0371,S0371,Pending Manual Review,Prototype face-match/liveness verification,2026-08-25,Yes
+IDV0372,S0372,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-22,Yes
+IDV0373,S0373,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-19,Yes
+IDV0374,S0374,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-16,Yes
+IDV0375,S0375,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-13,Yes
+IDV0376,S0376,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-10,Yes
+IDV0377,S0377,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-07,Yes
+IDV0378,S0378,Pending Manual Review,Prototype face-match/liveness verification,2026-08-04,Yes
+IDV0379,S0379,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-01,Yes
+IDV0380,S0380,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-29,Yes
+IDV0381,S0381,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-26,Yes
+IDV0382,S0382,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-23,Yes
+IDV0383,S0383,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-20,Yes
+IDV0384,S0384,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-17,Yes
+IDV0385,S0385,Pending Manual Review,Prototype face-match/liveness verification,2026-07-14,Yes
+IDV0386,S0386,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-11,Yes
+IDV0387,S0387,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-08,Yes
+IDV0388,S0388,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-05,Yes
+IDV0389,S0389,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-02,Yes
+IDV0390,S0390,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-29,Yes
+IDV0391,S0391,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-26,Yes
+IDV0392,S0392,Pending Manual Review,Prototype face-match/liveness verification,2026-06-23,Yes
+IDV0393,S0393,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-20,Yes
+IDV0394,S0394,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-17,Yes
+IDV0395,S0395,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-14,Yes
+IDV0396,S0396,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-11,Yes
+IDV0397,S0397,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-08,Yes
+IDV0398,S0398,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-05,Yes
+IDV0399,S0399,Pending Manual Review,Prototype face-match/liveness verification,2026-06-02,Yes
+IDV0400,S0400,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-30,Yes
+IDV0401,S0401,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-27,Yes
+IDV0402,S0402,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-24,Yes
+IDV0403,S0403,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-21,Yes
+IDV0404,S0404,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-18,Yes
+IDV0405,S0405,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-15,Yes
+IDV0406,S0406,Pending Manual Review,Prototype face-match/liveness verification,2026-05-12,Yes
+IDV0407,S0407,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-09,Yes
+IDV0408,S0408,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-06,Yes
+IDV0409,S0409,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-03,Yes
+IDV0410,S0410,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-30,Yes
+IDV0411,S0411,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-27,Yes
+IDV0412,S0412,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-24,Yes
+IDV0413,S0413,Pending Manual Review,Prototype face-match/liveness verification,2026-04-21,Yes
+IDV0414,S0414,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-18,Yes
+IDV0415,S0415,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-15,Yes
+IDV0416,S0416,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-12,Yes
+IDV0417,S0417,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-09,Yes
+IDV0418,S0418,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-06,Yes
+IDV0419,S0419,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-03,Yes
+IDV0420,S0420,Pending Manual Review,Prototype face-match/liveness verification,2026-09-27,Yes
+IDV0421,S0421,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-24,Yes
+IDV0422,S0422,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-21,Yes
+IDV0423,S0423,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-18,Yes
+IDV0424,S0424,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-15,Yes
+IDV0425,S0425,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-12,Yes
+IDV0426,S0426,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-09,Yes
+IDV0427,S0427,Pending Manual Review,Prototype face-match/liveness verification,2026-09-06,Yes
+IDV0428,S0428,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-03,Yes
+IDV0429,S0429,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-31,Yes
+IDV0430,S0430,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-28,Yes
+IDV0431,S0431,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-25,Yes
+IDV0432,S0432,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-22,Yes
+IDV0433,S0433,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-19,Yes
+IDV0434,S0434,Pending Manual Review,Prototype face-match/liveness verification,2026-08-16,Yes
+IDV0435,S0435,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-13,Yes
+IDV0436,S0436,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-10,Yes
+IDV0437,S0437,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-07,Yes
+IDV0438,S0438,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-04,Yes
+IDV0439,S0439,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-01,Yes
+IDV0440,S0440,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-29,Yes
+IDV0441,S0441,Pending Manual Review,Prototype face-match/liveness verification,2026-07-26,Yes
+IDV0442,S0442,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-23,Yes
+IDV0443,S0443,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-20,Yes
+IDV0444,S0444,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-17,Yes
+IDV0445,S0445,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-14,Yes
+IDV0446,S0446,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-11,Yes
+IDV0447,S0447,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-08,Yes
+IDV0448,S0448,Pending Manual Review,Prototype face-match/liveness verification,2026-07-05,Yes
+IDV0449,S0449,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-02,Yes
+IDV0450,S0450,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-29,Yes
+IDV0451,S0451,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-26,Yes
+IDV0452,S0452,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-23,Yes
+IDV0453,S0453,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-20,Yes
+IDV0454,S0454,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-17,Yes
+IDV0455,S0455,Pending Manual Review,Prototype face-match/liveness verification,2026-06-14,Yes
+IDV0456,S0456,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-11,Yes
+IDV0457,S0457,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-08,Yes
+IDV0458,S0458,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-05,Yes
+IDV0459,S0459,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-06-02,Yes
+IDV0460,S0460,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-30,Yes
+IDV0461,S0461,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-27,Yes
+IDV0462,S0462,Pending Manual Review,Prototype face-match/liveness verification,2026-05-24,Yes
+IDV0463,S0463,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-21,Yes
+IDV0464,S0464,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-18,Yes
+IDV0465,S0465,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-15,Yes
+IDV0466,S0466,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-12,Yes
+IDV0467,S0467,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-09,Yes
+IDV0468,S0468,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-05-06,Yes
+IDV0469,S0469,Pending Manual Review,Prototype face-match/liveness verification,2026-05-03,Yes
+IDV0470,S0470,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-30,Yes
+IDV0471,S0471,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-27,Yes
+IDV0472,S0472,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-24,Yes
+IDV0473,S0473,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-21,Yes
+IDV0474,S0474,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-18,Yes
+IDV0475,S0475,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-15,Yes
+IDV0476,S0476,Pending Manual Review,Prototype face-match/liveness verification,2026-04-12,Yes
+IDV0477,S0477,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-09,Yes
+IDV0478,S0478,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-06,Yes
+IDV0479,S0479,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-04-03,Yes
+IDV0480,S0480,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-27,Yes
+IDV0481,S0481,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-24,Yes
+IDV0482,S0482,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-21,Yes
+IDV0483,S0483,Pending Manual Review,Prototype face-match/liveness verification,2026-09-18,Yes
+IDV0484,S0484,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-15,Yes
+IDV0485,S0485,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-12,Yes
+IDV0486,S0486,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-09,Yes
+IDV0487,S0487,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-06,Yes
+IDV0488,S0488,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-09-03,Yes
+IDV0489,S0489,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-31,Yes
+IDV0490,S0490,Pending Manual Review,Prototype face-match/liveness verification,2026-08-28,Yes
+IDV0491,S0491,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-25,Yes
+IDV0492,S0492,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-22,Yes
+IDV0493,S0493,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-19,Yes
+IDV0494,S0494,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-16,Yes
+IDV0495,S0495,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-13,Yes
+IDV0496,S0496,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-10,Yes
+IDV0497,S0497,Pending Manual Review,Prototype face-match/liveness verification,2026-08-07,Yes
+IDV0498,S0498,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-04,Yes
+IDV0499,S0499,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-08-01,Yes
+IDV0500,S0500,Verified — Prototype Identity Check,Prototype face-match/liveness verification,2026-07-29,Yes

@@ -1,0 +1,6 @@
+﻿scenario_id,scenario_name,minimum_trust_score,minimum_years_experience,minimum_turnover_band,pilot_budget_ceiling_inr,before_eligible,after_eligible,newly_eligible,excluded,calculation_basis
+POL001,Baseline,40,2,Pre-revenue,10000000,378,378,0,0,Derived directly from startups.csv; no hardcoded eligibility counts.
+POL002,Higher Trust Threshold,60,2,Pre-revenue,10000000,378,245,0,133,Derived directly from startups.csv; no hardcoded eligibility counts.
+POL003,Experience Gate,40,5,Pre-revenue,10000000,378,266,0,112,Derived directly from startups.csv; no hardcoded eligibility counts.
+POL004,Tighter Turnover Gate,40,2,₹1–5 Cr,10000000,378,226,0,152,Derived directly from startups.csv; no hardcoded eligibility counts.
+POL005,Lower Pilot Budget Ceiling,40,2,Pre-revenue,4000000,378,378,0,0,Derived directly from startups.csv; no hardcoded eligibility counts.

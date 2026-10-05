@@ -1,0 +1,13 @@
+decision_id,pilot_id,readiness_score,recommendation,procurement_status,reason
+D001,P001,82,SCALE,Under Review,"Decision based on KPI, validation, risk and pilot evidence."
+D002,P002,94,SCALE,Approved,"Decision based on KPI, validation, risk and pilot evidence."
+D003,P003,90,CONDITIONAL,Under Review,"Decision based on KPI, validation, risk and pilot evidence."
+D004,P004,90,CONDITIONAL,Approved,"Decision based on KPI, validation, risk and pilot evidence."
+D005,P005,94,CONDITIONAL,Approved,"Decision based on KPI, validation, risk and pilot evidence."
+D006,P006,75,CONDITIONAL,Under Review,"Decision based on KPI, validation, risk and pilot evidence."
+D007,P007,72,CONDITIONAL,Draft,"Decision based on KPI, validation, risk and pilot evidence."
+D008,P008,87,REVIEW,Under Review,"Decision based on KPI, validation, risk and pilot evidence."
+D009,P009,96,SCALE,Draft,"Decision based on KPI, validation, risk and pilot evidence."
+D010,P010,76,CONDITIONAL,Approved,"Decision based on KPI, validation, risk and pilot evidence."
+D011,P011,93,REVIEW,Approved,"Decision based on KPI, validation, risk and pilot evidence."
+D012,P012,94,SCALE,Approved,"Decision based on KPI, validation, risk and pilot evidence."

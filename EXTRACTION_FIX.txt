@@ -1,0 +1,1 @@
+V4 launcher recreates backend/requirements.txt and frontend/package.json if the extraction environment omits them.

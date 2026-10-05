@@ -1,0 +1,33 @@
+﻿department_id,department_name,department_type,state,geographic_scope,prototype_status,description
+D001,Urban Development Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,"Urban planning, municipal governance and city infrastructure"
+D002,Public Works Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,"Roads, bridges and government buildings"
+D003,Water Supply and Sanitation Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,Drinking water supply and sanitation
+D004,Water Resources Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,"Irrigation, water resources and flood-related assets"
+D005,Public Health Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,Public health services and health systems
+D006,Medical Education and Drugs Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,"Medical education, teaching hospitals and drug administration"
+D007,School Education and Sports Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,"School education, attendance and learning systems"
+D008,Higher and Technical Education Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,Higher and technical education
+D009,Agriculture Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,"Agriculture extension, crop productivity and farm services"
+D010,Rural Development and Panchayati Raj Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,Rural infrastructure and local governance
+D011,Transport Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,"Road transport, mobility and transport services"
+D012,Home Department (Transport & Ports),State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,"Transport, ports and public safety functions"
+D013,Environment and Climate Change Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,"Environment, climate resilience and pollution"
+D014,Energy Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,Electricity and energy systems
+D015,"Industries, Investment and Services Department",State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,"Industry, investment, innovation and industrial services"
+D016,"Electronics, Information Technology and Artificial Intelligence Department",State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,"Digital governance, AI, cybersecurity, data governance and digital infrastructure"
+D017,Tourism and Cultural Affairs Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,"Tourism destinations, visitor services and cultural assets"
+D018,Skill Development and Entrepreneurship Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,"Skill development, employment and entrepreneurship"
+D019,Women and Child Development Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,"Women, children and nutrition/welfare services"
+D020,"Disaster Management, Relief and Rehabilitation",State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,"Emergency preparedness, response and rehabilitation"
+D021,Revenue and Forest Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,"Revenue administration, land records and forests"
+D022,Soil and Water Conservation Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,"Watershed, soil conservation and drought resilience"
+D023,"Co-operation, Marketing and Textiles Department",State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,"Cooperatives, agricultural marketing and textiles"
+D024,"Food, Civil Supplies and Consumer Protection Department",State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,"Food distribution, supply chains and consumer protection"
+D025,Social Justice and Special Assistance Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,Social protection and inclusion
+D026,Tribal Development Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,Tribal-area development and service delivery
+D027,Persons with Disabilities Welfare Department,State Department,Maharashtra,Maharashtra,Prototype Demonstration Data,Accessibility and disability inclusion
+D028,Maharashtra Pollution Control Board,Statutory Board,Maharashtra,Maharashtra,Prototype Demonstration Data,Pollution monitoring and environmental regulation
+D029,Maharashtra State Innovation Society (MSInS),State Innovation Agency,Maharashtra,Maharashtra,Prototype Demonstration Data,"Innovation, startup ecosystem and government innovation programs"
+D030,Maharashtra State Road Development Corporation,State Corporation,Maharashtra,Maharashtra,Prototype Demonstration Data,"State road, bridge and transport infrastructure"
+D031,Brihanmumbai Municipal Corporation,Urban Local Body,Maharashtra,Maharashtra,Prototype Demonstration Data,Mumbai municipal services
+D032,Pune Municipal Corporation,Urban Local Body,Maharashtra,Maharashtra,Prototype Demonstration Data,Pune municipal services

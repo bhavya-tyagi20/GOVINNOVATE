@@ -1,0 +1,4 @@
+scaleup_id,decision_id,phase_1,phase_2,target_scale,status
+SC001,PR001,Pune pilot,5 municipal zones,20 municipal zones,Planned
+SC002,PR003,Nagpur pilot,10 blocks,District-wide,Approved
+SC003,PR004,Pune pilot,5 wards,20 wards,Approved

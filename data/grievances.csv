@@ -1,0 +1,201 @@
+﻿grievance_id,pilot_id,department_id,district,category,description,sentiment,status,created_date,resolved_date
+GRV0001,P012,D027,Kolhapur,Accessibility,Prototype citizen feedback concerning accessible government building audit in Kolhapur.,Negative,Resolved,2026-05-10,2026-05-12
+GRV0002,P021,D002,Yavatmal,Quality,Prototype citizen feedback concerning monsoon road damage triage in Yavatmal.,Neutral,Resolved,2025-05-08,2025-05-11
+GRV0003,P034,D001,Mumbai City,Information,Prototype citizen feedback concerning citizen satisfaction pulse in Mumbai.,Positive,Resolved,2026-04-06,2026-04-10
+GRV0004,P043,D001,Parbhani,Safety,Prototype citizen feedback concerning public building energy baseline in Parbhani.,Negative,Resolved,2025-04-04,
+GRV0005,P057,D007,Kolhapur,Water,Prototype citizen feedback concerning school attendance early warning in Kolhapur.,Neutral,Resolved,2025-04-17,2025-04-23
+GRV0006,P008,D031,Parbhani,Waste,Prototype citizen feedback concerning construction waste tracking in Parbhani.,Positive,Resolved,2025-10-27,2025-11-03
+GRV0007,P016,D010,Yavatmal,Transport,Prototype citizen feedback concerning village water point monitoring in Yavatmal.,Negative,Resolved,2025-08-21,2025-08-29
+GRV0008,P029,D006,Mumbai City,Service Delay,Prototype citizen feedback concerning hospital infection control audit support in Mumbai.,Neutral,In Review,2026-07-29,
+GRV0009,P039,D004,Mumbai City,Accessibility,Prototype citizen feedback concerning flood citizen alert workflow in Mumbai.,Positive,Resolved,2026-01-24,2026-02-03
+GRV0010,P051,D005,Yavatmal,Quality,Prototype citizen feedback concerning ambulance dispatch visibility in Yavatmal.,Negative,Resolved,2026-08-25,2026-09-05
+GRV0011,P002,D003,Kolhapur,Information,Prototype citizen feedback concerning urban water supply reliability monitoring in Kolhapur.,Neutral,Resolved,2025-08-23,2025-09-04
+GRV0012,P013,D019,Parbhani,Safety,Prototype citizen feedback concerning child protection case workflow in Parbhani.,Positive,Open,2025-07-27,
+GRV0013,P024,D011,Mumbai City,Water,Prototype citizen feedback concerning traffic incident response coordination in Mumbai.,Negative,Resolved,2025-07-20,2025-07-22
+GRV0014,P036,D028,Yavatmal,Waste,Prototype citizen feedback concerning industrial emission exception dashboard in Yavatmal.,Neutral,Resolved,2025-12-30,2026-01-02
+GRV0015,P044,D017,Mumbai City,Transport,Prototype citizen feedback concerning tourism feedback analytics in Mumbai.,Positive,Resolved,2025-10-24,2025-10-28
+GRV0016,P058,D031,Parbhani,Service Delay,Prototype citizen feedback concerning construction waste tracking in Parbhani.,Negative,Resolved,2025-11-26,
+GRV0017,P009,D001,Mumbai City,Accessibility,Prototype citizen feedback concerning citizen satisfaction pulse in Mumbai.,Neutral,Resolved,2026-05-18,2026-05-24
+GRV0018,P018,D001,Parbhani,Quality,Prototype citizen feedback concerning public building energy baseline in Parbhani.,Positive,Resolved,2025-05-16,2025-05-23
+GRV0019,P032,D007,Kolhapur,Information,Prototype citizen feedback concerning school attendance early warning in Kolhapur.,Negative,Resolved,2025-05-29,2025-06-06
+GRV0020,P040,D024,Akola,Safety,Prototype citizen feedback concerning food distribution route monitoring in Akola.,Neutral,In Review,2026-08-15,
+GRV0021,P052,D003,Kolhapur,Water,Prototype citizen feedback concerning urban water supply reliability monitoring in Kolhapur.,Positive,Resolved,2025-09-22,2025-10-02
+GRV0022,P004,D006,Mumbai City,Waste,Prototype citizen feedback concerning hospital infection control audit support in Mumbai.,Negative,Resolved,2026-11-08,2026-11-19
+GRV0023,P014,D004,Mumbai City,Transport,Prototype citizen feedback concerning flood citizen alert workflow in Mumbai.,Neutral,Resolved,2026-03-07,2026-03-19
+GRV0024,P026,D005,Yavatmal,Service Delay,Prototype citizen feedback concerning ambulance dispatch visibility in Yavatmal.,Positive,Open,2026-07-28,
+GRV0025,P037,D027,Kolhapur,Accessibility,Prototype citizen feedback concerning accessible government building audit in Kolhapur.,Negative,Resolved,2026-05-12,2026-05-14
+GRV0026,P046,D002,Yavatmal,Quality,Prototype citizen feedback concerning monsoon road damage triage in Yavatmal.,Neutral,Resolved,2025-05-10,2025-05-13
+GRV0027,P059,D001,Mumbai City,Information,Prototype citizen feedback concerning citizen satisfaction pulse in Mumbai.,Positive,Resolved,2026-04-08,2026-04-12
+GRV0028,P011,D028,Yavatmal,Safety,Prototype citizen feedback concerning industrial emission exception dashboard in Yavatmal.,Negative,Resolved,2025-12-02,
+GRV0029,P019,D017,Mumbai City,Water,Prototype citizen feedback concerning tourism feedback analytics in Mumbai.,Neutral,Resolved,2025-09-26,2025-10-02
+GRV0030,P033,D031,Parbhani,Waste,Prototype citizen feedback concerning construction waste tracking in Parbhani.,Positive,Resolved,2025-10-29,2025-11-05
+GRV0031,P041,D010,Yavatmal,Transport,Prototype citizen feedback concerning village water point monitoring in Yavatmal.,Negative,Resolved,2025-08-23,2025-08-31
+GRV0032,P054,D006,Mumbai City,Service Delay,Prototype citizen feedback concerning hospital infection control audit support in Mumbai.,Neutral,In Review,2026-09-29,
+GRV0033,P007,D007,Kolhapur,Accessibility,Prototype citizen feedback concerning school attendance early warning in Kolhapur.,Positive,Resolved,2025-05-01,2025-05-11
+GRV0034,P015,D024,Akola,Quality,Prototype citizen feedback concerning food distribution route monitoring in Akola.,Negative,Resolved,2026-07-18,2026-07-29
+GRV0035,P027,D003,Kolhapur,Information,Prototype citizen feedback concerning urban water supply reliability monitoring in Kolhapur.,Neutral,Resolved,2025-08-25,2025-09-06
+GRV0036,P038,D019,Parbhani,Safety,Prototype citizen feedback concerning child protection case workflow in Parbhani.,Positive,Open,2025-07-29,
+GRV0037,P049,D011,Mumbai City,Water,Prototype citizen feedback concerning traffic incident response coordination in Mumbai.,Negative,Resolved,2025-07-22,2025-07-24
+GRV0038,P001,D005,Yavatmal,Waste,Prototype citizen feedback concerning ambulance dispatch visibility in Yavatmal.,Neutral,Resolved,2026-09-08,2026-09-11
+GRV0039,P012,D027,Kolhapur,Transport,Prototype citizen feedback concerning accessible government building audit in Kolhapur.,Positive,Resolved,2026-06-23,2026-06-27
+GRV0040,P021,D002,Yavatmal,Service Delay,Prototype citizen feedback concerning monsoon road damage triage in Yavatmal.,Negative,Resolved,2025-06-21,
+GRV0041,P034,D001,Mumbai City,Accessibility,Prototype citizen feedback concerning citizen satisfaction pulse in Mumbai.,Neutral,Resolved,2026-05-20,2026-05-26
+GRV0042,P043,D001,Parbhani,Quality,Prototype citizen feedback concerning public building energy baseline in Parbhani.,Positive,Resolved,2025-05-18,2025-05-25
+GRV0043,P057,D007,Kolhapur,Information,Prototype citizen feedback concerning school attendance early warning in Kolhapur.,Negative,Resolved,2025-05-31,2025-06-08
+GRV0044,P008,D031,Parbhani,Safety,Prototype citizen feedback concerning construction waste tracking in Parbhani.,Neutral,In Review,2025-12-10,
+GRV0045,P016,D010,Yavatmal,Water,Prototype citizen feedback concerning village water point monitoring in Yavatmal.,Positive,Resolved,2025-10-04,2025-10-14
+GRV0046,P029,D006,Mumbai City,Waste,Prototype citizen feedback concerning hospital infection control audit support in Mumbai.,Negative,Resolved,2026-09-11,2026-09-22
+GRV0047,P039,D004,Mumbai City,Transport,Prototype citizen feedback concerning flood citizen alert workflow in Mumbai.,Neutral,Resolved,2025-12-29,2026-01-10
+GRV0048,P051,D005,Yavatmal,Service Delay,Prototype citizen feedback concerning ambulance dispatch visibility in Yavatmal.,Positive,Open,2026-07-30,
+GRV0049,P002,D003,Kolhapur,Accessibility,Prototype citizen feedback concerning urban water supply reliability monitoring in Kolhapur.,Negative,Resolved,2025-07-28,2025-07-30
+GRV0050,P013,D019,Parbhani,Quality,Prototype citizen feedback concerning child protection case workflow in Parbhani.,Neutral,Resolved,2025-07-01,2025-07-04
+GRV0051,P024,D011,Mumbai City,Information,Prototype citizen feedback concerning traffic incident response coordination in Mumbai.,Positive,Resolved,2025-06-24,2025-06-28
+GRV0052,P036,D028,Yavatmal,Safety,Prototype citizen feedback concerning industrial emission exception dashboard in Yavatmal.,Negative,Resolved,2025-12-04,
+GRV0053,P044,D017,Mumbai City,Water,Prototype citizen feedback concerning tourism feedback analytics in Mumbai.,Neutral,Resolved,2025-09-28,2025-10-04
+GRV0054,P058,D031,Parbhani,Waste,Prototype citizen feedback concerning construction waste tracking in Parbhani.,Positive,Resolved,2025-10-31,2025-11-07
+GRV0055,P009,D001,Mumbai City,Transport,Prototype citizen feedback concerning citizen satisfaction pulse in Mumbai.,Negative,Resolved,2026-04-22,2026-04-30
+GRV0056,P018,D001,Parbhani,Service Delay,Prototype citizen feedback concerning public building energy baseline in Parbhani.,Neutral,In Review,2025-04-20,
+GRV0057,P032,D007,Kolhapur,Accessibility,Prototype citizen feedback concerning school attendance early warning in Kolhapur.,Positive,Resolved,2025-05-03,2025-05-13
+GRV0058,P040,D024,Akola,Quality,Prototype citizen feedback concerning food distribution route monitoring in Akola.,Negative,Resolved,2026-07-20,2026-07-31
+GRV0059,P052,D003,Kolhapur,Information,Prototype citizen feedback concerning urban water supply reliability monitoring in Kolhapur.,Neutral,Resolved,2025-08-27,2025-09-08
+GRV0060,P004,D006,Mumbai City,Safety,Prototype citizen feedback concerning hospital infection control audit support in Mumbai.,Positive,Open,2026-10-13,
+GRV0061,P014,D004,Mumbai City,Water,Prototype citizen feedback concerning flood citizen alert workflow in Mumbai.,Negative,Resolved,2026-02-09,2026-02-11
+GRV0062,P026,D005,Yavatmal,Waste,Prototype citizen feedback concerning ambulance dispatch visibility in Yavatmal.,Neutral,Resolved,2026-09-10,2026-09-13
+GRV0063,P037,D027,Kolhapur,Transport,Prototype citizen feedback concerning accessible government building audit in Kolhapur.,Positive,Resolved,2026-06-25,2026-06-29
+GRV0064,P046,D002,Yavatmal,Service Delay,Prototype citizen feedback concerning monsoon road damage triage in Yavatmal.,Negative,Resolved,2025-06-23,
+GRV0065,P059,D001,Mumbai City,Accessibility,Prototype citizen feedback concerning citizen satisfaction pulse in Mumbai.,Neutral,Resolved,2026-05-22,2026-05-28
+GRV0066,P011,D028,Yavatmal,Quality,Prototype citizen feedback concerning industrial emission exception dashboard in Yavatmal.,Positive,Resolved,2026-01-15,2026-01-22
+GRV0067,P019,D017,Mumbai City,Information,Prototype citizen feedback concerning tourism feedback analytics in Mumbai.,Negative,Resolved,2025-11-09,2025-11-17
+GRV0068,P033,D031,Parbhani,Safety,Prototype citizen feedback concerning construction waste tracking in Parbhani.,Neutral,In Review,2025-12-12,
+GRV0069,P041,D010,Yavatmal,Water,Prototype citizen feedback concerning village water point monitoring in Yavatmal.,Positive,Resolved,2025-10-06,2025-10-16
+GRV0070,P054,D006,Mumbai City,Waste,Prototype citizen feedback concerning hospital infection control audit support in Mumbai.,Negative,Resolved,2026-09-03,2026-09-14
+GRV0071,P007,D007,Kolhapur,Transport,Prototype citizen feedback concerning school attendance early warning in Kolhapur.,Neutral,Resolved,2025-04-05,2025-04-17
+GRV0072,P015,D024,Akola,Service Delay,Prototype citizen feedback concerning food distribution route monitoring in Akola.,Positive,Open,2026-06-22,
+GRV0073,P027,D003,Kolhapur,Accessibility,Prototype citizen feedback concerning urban water supply reliability monitoring in Kolhapur.,Negative,Resolved,2025-07-30,2025-08-01
+GRV0074,P038,D019,Parbhani,Quality,Prototype citizen feedback concerning child protection case workflow in Parbhani.,Neutral,Resolved,2025-07-03,2025-07-06
+GRV0075,P049,D011,Mumbai City,Information,Prototype citizen feedback concerning traffic incident response coordination in Mumbai.,Positive,Resolved,2025-06-26,2025-06-30
+GRV0076,P001,D005,Yavatmal,Safety,Prototype citizen feedback concerning ambulance dispatch visibility in Yavatmal.,Negative,Resolved,2026-08-13,
+GRV0077,P012,D027,Kolhapur,Water,Prototype citizen feedback concerning accessible government building audit in Kolhapur.,Neutral,Resolved,2026-05-28,2026-06-03
+GRV0078,P021,D002,Yavatmal,Waste,Prototype citizen feedback concerning monsoon road damage triage in Yavatmal.,Positive,Resolved,2025-05-26,2025-06-02
+GRV0079,P034,D001,Mumbai City,Transport,Prototype citizen feedback concerning citizen satisfaction pulse in Mumbai.,Negative,Resolved,2026-04-24,2026-05-02
+GRV0080,P043,D001,Parbhani,Service Delay,Prototype citizen feedback concerning public building energy baseline in Parbhani.,Neutral,In Review,2025-04-22,
+GRV0081,P057,D007,Kolhapur,Accessibility,Prototype citizen feedback concerning school attendance early warning in Kolhapur.,Positive,Resolved,2025-05-05,2025-05-15
+GRV0082,P008,D031,Parbhani,Quality,Prototype citizen feedback concerning construction waste tracking in Parbhani.,Negative,Resolved,2025-11-14,2025-11-25
+GRV0083,P016,D010,Yavatmal,Information,Prototype citizen feedback concerning village water point monitoring in Yavatmal.,Neutral,Resolved,2025-09-08,2025-09-20
+GRV0084,P029,D006,Mumbai City,Safety,Prototype citizen feedback concerning hospital infection control audit support in Mumbai.,Positive,Open,2026-08-16,
+GRV0085,P039,D004,Mumbai City,Water,Prototype citizen feedback concerning flood citizen alert workflow in Mumbai.,Negative,Resolved,2026-02-11,2026-02-13
+GRV0086,P051,D005,Yavatmal,Waste,Prototype citizen feedback concerning ambulance dispatch visibility in Yavatmal.,Neutral,Resolved,2026-09-12,2026-09-15
+GRV0087,P002,D003,Kolhapur,Transport,Prototype citizen feedback concerning urban water supply reliability monitoring in Kolhapur.,Positive,Resolved,2025-09-10,2025-09-14
+GRV0088,P013,D019,Parbhani,Service Delay,Prototype citizen feedback concerning child protection case workflow in Parbhani.,Negative,Resolved,2025-08-14,
+GRV0089,P024,D011,Mumbai City,Accessibility,Prototype citizen feedback concerning traffic incident response coordination in Mumbai.,Neutral,Resolved,2025-08-07,2025-08-13
+GRV0090,P036,D028,Yavatmal,Quality,Prototype citizen feedback concerning industrial emission exception dashboard in Yavatmal.,Positive,Resolved,2026-01-17,2026-01-24
+GRV0091,P044,D017,Mumbai City,Information,Prototype citizen feedback concerning tourism feedback analytics in Mumbai.,Negative,Resolved,2025-11-11,2025-11-19
+GRV0092,P058,D031,Parbhani,Safety,Prototype citizen feedback concerning construction waste tracking in Parbhani.,Neutral,In Review,2025-12-14,
+GRV0093,P009,D001,Mumbai City,Water,Prototype citizen feedback concerning citizen satisfaction pulse in Mumbai.,Positive,Resolved,2026-06-05,2026-06-15
+GRV0094,P018,D001,Parbhani,Waste,Prototype citizen feedback concerning public building energy baseline in Parbhani.,Negative,Resolved,2025-03-25,2025-04-05
+GRV0095,P032,D007,Kolhapur,Transport,Prototype citizen feedback concerning school attendance early warning in Kolhapur.,Neutral,Resolved,2025-04-07,2025-04-19
+GRV0096,P040,D024,Akola,Service Delay,Prototype citizen feedback concerning food distribution route monitoring in Akola.,Positive,Open,2026-06-24,
+GRV0097,P052,D003,Kolhapur,Accessibility,Prototype citizen feedback concerning urban water supply reliability monitoring in Kolhapur.,Negative,Resolved,2025-08-01,2025-08-03
+GRV0098,P004,D006,Mumbai City,Quality,Prototype citizen feedback concerning hospital infection control audit support in Mumbai.,Neutral,Resolved,2026-09-17,2026-09-20
+GRV0099,P014,D004,Mumbai City,Information,Prototype citizen feedback concerning flood citizen alert workflow in Mumbai.,Positive,Resolved,2026-01-14,2026-01-18
+GRV0100,P026,D005,Yavatmal,Safety,Prototype citizen feedback concerning ambulance dispatch visibility in Yavatmal.,Negative,Resolved,2026-08-15,
+GRV0101,P037,D027,Kolhapur,Water,Prototype citizen feedback concerning accessible government building audit in Kolhapur.,Neutral,Resolved,2026-05-30,2026-06-05
+GRV0102,P046,D002,Yavatmal,Waste,Prototype citizen feedback concerning monsoon road damage triage in Yavatmal.,Positive,Resolved,2025-05-28,2025-06-04
+GRV0103,P059,D001,Mumbai City,Transport,Prototype citizen feedback concerning citizen satisfaction pulse in Mumbai.,Negative,Resolved,2026-04-26,2026-05-04
+GRV0104,P011,D028,Yavatmal,Service Delay,Prototype citizen feedback concerning industrial emission exception dashboard in Yavatmal.,Neutral,In Review,2025-12-20,
+GRV0105,P019,D017,Mumbai City,Accessibility,Prototype citizen feedback concerning tourism feedback analytics in Mumbai.,Positive,Resolved,2025-10-14,2025-10-24
+GRV0106,P033,D031,Parbhani,Quality,Prototype citizen feedback concerning construction waste tracking in Parbhani.,Negative,Resolved,2025-11-16,2025-11-27
+GRV0107,P041,D010,Yavatmal,Information,Prototype citizen feedback concerning village water point monitoring in Yavatmal.,Neutral,Resolved,2025-09-10,2025-09-22
+GRV0108,P054,D006,Mumbai City,Safety,Prototype citizen feedback concerning hospital infection control audit support in Mumbai.,Positive,Open,2026-10-17,
+GRV0109,P007,D007,Kolhapur,Water,Prototype citizen feedback concerning school attendance early warning in Kolhapur.,Negative,Resolved,2025-05-19,2025-05-21
+GRV0110,P015,D024,Akola,Waste,Prototype citizen feedback concerning food distribution route monitoring in Akola.,Neutral,Resolved,2026-08-05,2026-08-08
+GRV0111,P027,D003,Kolhapur,Transport,Prototype citizen feedback concerning urban water supply reliability monitoring in Kolhapur.,Positive,Resolved,2025-09-12,2025-09-16
+GRV0112,P038,D019,Parbhani,Service Delay,Prototype citizen feedback concerning child protection case workflow in Parbhani.,Negative,Resolved,2025-08-16,
+GRV0113,P049,D011,Mumbai City,Accessibility,Prototype citizen feedback concerning traffic incident response coordination in Mumbai.,Neutral,Resolved,2025-08-09,2025-08-15
+GRV0114,P001,D005,Yavatmal,Quality,Prototype citizen feedback concerning ambulance dispatch visibility in Yavatmal.,Positive,Resolved,2026-09-26,2026-10-03
+GRV0115,P012,D027,Kolhapur,Information,Prototype citizen feedback concerning accessible government building audit in Kolhapur.,Negative,Resolved,2026-07-11,2026-07-19
+GRV0116,P021,D002,Yavatmal,Safety,Prototype citizen feedback concerning monsoon road damage triage in Yavatmal.,Neutral,In Review,2025-07-09,
+GRV0117,P034,D001,Mumbai City,Water,Prototype citizen feedback concerning citizen satisfaction pulse in Mumbai.,Positive,Resolved,2026-03-29,2026-04-08
+GRV0118,P043,D001,Parbhani,Waste,Prototype citizen feedback concerning public building energy baseline in Parbhani.,Negative,Resolved,2025-03-27,2025-04-07
+GRV0119,P057,D007,Kolhapur,Transport,Prototype citizen feedback concerning school attendance early warning in Kolhapur.,Neutral,Resolved,2025-04-09,2025-04-21
+GRV0120,P008,D031,Parbhani,Service Delay,Prototype citizen feedback concerning construction waste tracking in Parbhani.,Positive,Open,2025-10-19,
+GRV0121,P016,D010,Yavatmal,Accessibility,Prototype citizen feedback concerning village water point monitoring in Yavatmal.,Negative,Resolved,2025-08-13,2025-08-15
+GRV0122,P029,D006,Mumbai City,Quality,Prototype citizen feedback concerning hospital infection control audit support in Mumbai.,Neutral,Resolved,2026-07-21,2026-07-24
+GRV0123,P039,D004,Mumbai City,Information,Prototype citizen feedback concerning flood citizen alert workflow in Mumbai.,Positive,Resolved,2026-01-16,2026-01-20
+GRV0124,P051,D005,Yavatmal,Safety,Prototype citizen feedback concerning ambulance dispatch visibility in Yavatmal.,Negative,Resolved,2026-08-17,
+GRV0125,P002,D003,Kolhapur,Water,Prototype citizen feedback concerning urban water supply reliability monitoring in Kolhapur.,Neutral,Resolved,2025-08-15,2025-08-21
+GRV0126,P013,D019,Parbhani,Waste,Prototype citizen feedback concerning child protection case workflow in Parbhani.,Positive,Resolved,2025-07-19,2025-07-26
+GRV0127,P024,D011,Mumbai City,Transport,Prototype citizen feedback concerning traffic incident response coordination in Mumbai.,Negative,Resolved,2025-07-12,2025-07-20
+GRV0128,P036,D028,Yavatmal,Service Delay,Prototype citizen feedback concerning industrial emission exception dashboard in Yavatmal.,Neutral,In Review,2025-12-22,
+GRV0129,P044,D017,Mumbai City,Accessibility,Prototype citizen feedback concerning tourism feedback analytics in Mumbai.,Positive,Resolved,2025-10-16,2025-10-26
+GRV0130,P058,D031,Parbhani,Quality,Prototype citizen feedback concerning construction waste tracking in Parbhani.,Negative,Resolved,2025-11-18,2025-11-29
+GRV0131,P009,D001,Mumbai City,Information,Prototype citizen feedback concerning citizen satisfaction pulse in Mumbai.,Neutral,Resolved,2026-05-10,2026-05-22
+GRV0132,P018,D001,Parbhani,Safety,Prototype citizen feedback concerning public building energy baseline in Parbhani.,Positive,Open,2025-05-08,
+GRV0133,P032,D007,Kolhapur,Water,Prototype citizen feedback concerning school attendance early warning in Kolhapur.,Negative,Resolved,2025-05-21,2025-05-23
+GRV0134,P040,D024,Akola,Waste,Prototype citizen feedback concerning food distribution route monitoring in Akola.,Neutral,Resolved,2026-08-07,2026-08-10
+GRV0135,P052,D003,Kolhapur,Transport,Prototype citizen feedback concerning urban water supply reliability monitoring in Kolhapur.,Positive,Resolved,2025-09-14,2025-09-18
+GRV0136,P004,D006,Mumbai City,Service Delay,Prototype citizen feedback concerning hospital infection control audit support in Mumbai.,Negative,Resolved,2026-10-31,
+GRV0137,P014,D004,Mumbai City,Accessibility,Prototype citizen feedback concerning flood citizen alert workflow in Mumbai.,Neutral,Resolved,2026-02-27,2026-03-05
+GRV0138,P026,D005,Yavatmal,Quality,Prototype citizen feedback concerning ambulance dispatch visibility in Yavatmal.,Positive,Resolved,2026-09-28,2026-10-05
+GRV0139,P037,D027,Kolhapur,Information,Prototype citizen feedback concerning accessible government building audit in Kolhapur.,Negative,Resolved,2026-07-13,2026-07-21
+GRV0140,P046,D002,Yavatmal,Safety,Prototype citizen feedback concerning monsoon road damage triage in Yavatmal.,Neutral,In Review,2025-05-02,
+GRV0141,P059,D001,Mumbai City,Water,Prototype citizen feedback concerning citizen satisfaction pulse in Mumbai.,Positive,Resolved,2026-03-31,2026-04-10
+GRV0142,P011,D028,Yavatmal,Waste,Prototype citizen feedback concerning industrial emission exception dashboard in Yavatmal.,Negative,Resolved,2025-11-24,2025-12-05
+GRV0143,P019,D017,Mumbai City,Transport,Prototype citizen feedback concerning tourism feedback analytics in Mumbai.,Neutral,Resolved,2025-09-18,2025-09-30
+GRV0144,P033,D031,Parbhani,Service Delay,Prototype citizen feedback concerning construction waste tracking in Parbhani.,Positive,Open,2025-10-21,
+GRV0145,P041,D010,Yavatmal,Accessibility,Prototype citizen feedback concerning village water point monitoring in Yavatmal.,Negative,Resolved,2025-08-15,2025-08-17
+GRV0146,P054,D006,Mumbai City,Quality,Prototype citizen feedback concerning hospital infection control audit support in Mumbai.,Neutral,Resolved,2026-09-21,2026-09-24
+GRV0147,P007,D007,Kolhapur,Information,Prototype citizen feedback concerning school attendance early warning in Kolhapur.,Positive,Resolved,2025-04-23,2025-04-27
+GRV0148,P015,D024,Akola,Safety,Prototype citizen feedback concerning food distribution route monitoring in Akola.,Negative,Resolved,2026-07-10,
+GRV0149,P027,D003,Kolhapur,Water,Prototype citizen feedback concerning urban water supply reliability monitoring in Kolhapur.,Neutral,Resolved,2025-08-17,2025-08-23
+GRV0150,P038,D019,Parbhani,Waste,Prototype citizen feedback concerning child protection case workflow in Parbhani.,Positive,Resolved,2025-07-21,2025-07-28
+GRV0151,P049,D011,Mumbai City,Transport,Prototype citizen feedback concerning traffic incident response coordination in Mumbai.,Negative,Resolved,2025-07-14,2025-07-22
+GRV0152,P001,D005,Yavatmal,Service Delay,Prototype citizen feedback concerning ambulance dispatch visibility in Yavatmal.,Neutral,In Review,2026-08-31,
+GRV0153,P012,D027,Kolhapur,Accessibility,Prototype citizen feedback concerning accessible government building audit in Kolhapur.,Positive,Resolved,2026-06-15,2026-06-25
+GRV0154,P021,D002,Yavatmal,Quality,Prototype citizen feedback concerning monsoon road damage triage in Yavatmal.,Negative,Resolved,2025-06-13,2025-06-24
+GRV0155,P034,D001,Mumbai City,Information,Prototype citizen feedback concerning citizen satisfaction pulse in Mumbai.,Neutral,Resolved,2026-05-12,2026-05-24
+GRV0156,P043,D001,Parbhani,Safety,Prototype citizen feedback concerning public building energy baseline in Parbhani.,Positive,Open,2025-05-10,
+GRV0157,P057,D007,Kolhapur,Water,Prototype citizen feedback concerning school attendance early warning in Kolhapur.,Negative,Resolved,2025-05-23,2025-05-25
+GRV0158,P008,D031,Parbhani,Waste,Prototype citizen feedback concerning construction waste tracking in Parbhani.,Neutral,Resolved,2025-12-02,2025-12-05
+GRV0159,P016,D010,Yavatmal,Transport,Prototype citizen feedback concerning village water point monitoring in Yavatmal.,Positive,Resolved,2025-09-26,2025-09-30
+GRV0160,P029,D006,Mumbai City,Service Delay,Prototype citizen feedback concerning hospital infection control audit support in Mumbai.,Negative,Resolved,2026-09-03,
+GRV0161,P039,D004,Mumbai City,Accessibility,Prototype citizen feedback concerning flood citizen alert workflow in Mumbai.,Neutral,Resolved,2026-03-01,2026-03-07
+GRV0162,P051,D005,Yavatmal,Quality,Prototype citizen feedback concerning ambulance dispatch visibility in Yavatmal.,Positive,Resolved,2026-09-30,2026-10-07
+GRV0163,P002,D003,Kolhapur,Information,Prototype citizen feedback concerning urban water supply reliability monitoring in Kolhapur.,Negative,Resolved,2025-09-28,2025-10-06
+GRV0164,P013,D019,Parbhani,Safety,Prototype citizen feedback concerning child protection case workflow in Parbhani.,Neutral,In Review,2025-06-23,
+GRV0165,P024,D011,Mumbai City,Water,Prototype citizen feedback concerning traffic incident response coordination in Mumbai.,Positive,Resolved,2025-06-16,2025-06-26
+GRV0166,P036,D028,Yavatmal,Waste,Prototype citizen feedback concerning industrial emission exception dashboard in Yavatmal.,Negative,Resolved,2025-11-26,2025-12-07
+GRV0167,P044,D017,Mumbai City,Transport,Prototype citizen feedback concerning tourism feedback analytics in Mumbai.,Neutral,Resolved,2025-09-20,2025-10-02
+GRV0168,P058,D031,Parbhani,Service Delay,Prototype citizen feedback concerning construction waste tracking in Parbhani.,Positive,Open,2025-10-23,
+GRV0169,P009,D001,Mumbai City,Accessibility,Prototype citizen feedback concerning citizen satisfaction pulse in Mumbai.,Negative,Resolved,2026-04-14,2026-04-16
+GRV0170,P018,D001,Parbhani,Quality,Prototype citizen feedback concerning public building energy baseline in Parbhani.,Neutral,Resolved,2025-04-12,2025-04-15
+GRV0171,P032,D007,Kolhapur,Information,Prototype citizen feedback concerning school attendance early warning in Kolhapur.,Positive,Resolved,2025-04-25,2025-04-29
+GRV0172,P040,D024,Akola,Safety,Prototype citizen feedback concerning food distribution route monitoring in Akola.,Negative,Resolved,2026-07-12,
+GRV0173,P052,D003,Kolhapur,Water,Prototype citizen feedback concerning urban water supply reliability monitoring in Kolhapur.,Neutral,Resolved,2025-08-19,2025-08-25
+GRV0174,P004,D006,Mumbai City,Waste,Prototype citizen feedback concerning hospital infection control audit support in Mumbai.,Positive,Resolved,2026-10-05,2026-10-12
+GRV0175,P014,D004,Mumbai City,Transport,Prototype citizen feedback concerning flood citizen alert workflow in Mumbai.,Negative,Resolved,2026-02-01,2026-02-09
+GRV0176,P026,D005,Yavatmal,Service Delay,Prototype citizen feedback concerning ambulance dispatch visibility in Yavatmal.,Neutral,In Review,2026-09-02,
+GRV0177,P037,D027,Kolhapur,Accessibility,Prototype citizen feedback concerning accessible government building audit in Kolhapur.,Positive,Resolved,2026-06-17,2026-06-27
+GRV0178,P046,D002,Yavatmal,Quality,Prototype citizen feedback concerning monsoon road damage triage in Yavatmal.,Negative,Resolved,2025-06-15,2025-06-26
+GRV0179,P059,D001,Mumbai City,Information,Prototype citizen feedback concerning citizen satisfaction pulse in Mumbai.,Neutral,Resolved,2026-05-14,2026-05-26
+GRV0180,P011,D028,Yavatmal,Safety,Prototype citizen feedback concerning industrial emission exception dashboard in Yavatmal.,Positive,Open,2026-01-07,
+GRV0181,P019,D017,Mumbai City,Water,Prototype citizen feedback concerning tourism feedback analytics in Mumbai.,Negative,Resolved,2025-11-01,2025-11-03
+GRV0182,P033,D031,Parbhani,Waste,Prototype citizen feedback concerning construction waste tracking in Parbhani.,Neutral,Resolved,2025-12-04,2025-12-07
+GRV0183,P041,D010,Yavatmal,Transport,Prototype citizen feedback concerning village water point monitoring in Yavatmal.,Positive,Resolved,2025-09-28,2025-10-02
+GRV0184,P054,D006,Mumbai City,Service Delay,Prototype citizen feedback concerning hospital infection control audit support in Mumbai.,Negative,Resolved,2026-11-04,
+GRV0185,P007,D007,Kolhapur,Accessibility,Prototype citizen feedback concerning school attendance early warning in Kolhapur.,Neutral,Resolved,2025-06-06,2025-06-12
+GRV0186,P015,D024,Akola,Quality,Prototype citizen feedback concerning food distribution route monitoring in Akola.,Positive,Resolved,2026-08-23,2026-08-30
+GRV0187,P027,D003,Kolhapur,Information,Prototype citizen feedback concerning urban water supply reliability monitoring in Kolhapur.,Negative,Resolved,2025-07-22,2025-07-30
+GRV0188,P038,D019,Parbhani,Safety,Prototype citizen feedback concerning child protection case workflow in Parbhani.,Neutral,In Review,2025-06-25,
+GRV0189,P049,D011,Mumbai City,Water,Prototype citizen feedback concerning traffic incident response coordination in Mumbai.,Positive,Resolved,2025-06-18,2025-06-28
+GRV0190,P001,D005,Yavatmal,Waste,Prototype citizen feedback concerning ambulance dispatch visibility in Yavatmal.,Negative,Resolved,2026-08-05,2026-08-16
+GRV0191,P012,D027,Kolhapur,Transport,Prototype citizen feedback concerning accessible government building audit in Kolhapur.,Neutral,Resolved,2026-05-20,2026-06-01
+GRV0192,P021,D002,Yavatmal,Service Delay,Prototype citizen feedback concerning monsoon road damage triage in Yavatmal.,Positive,Open,2025-05-18,
+GRV0193,P034,D001,Mumbai City,Accessibility,Prototype citizen feedback concerning citizen satisfaction pulse in Mumbai.,Negative,Resolved,2026-04-16,2026-04-18
+GRV0194,P043,D001,Parbhani,Quality,Prototype citizen feedback concerning public building energy baseline in Parbhani.,Neutral,Resolved,2025-04-14,2025-04-17
+GRV0195,P057,D007,Kolhapur,Information,Prototype citizen feedback concerning school attendance early warning in Kolhapur.,Positive,Resolved,2025-04-27,2025-05-01
+GRV0196,P008,D031,Parbhani,Safety,Prototype citizen feedback concerning construction waste tracking in Parbhani.,Negative,Resolved,2025-11-06,
+GRV0197,P016,D010,Yavatmal,Water,Prototype citizen feedback concerning village water point monitoring in Yavatmal.,Neutral,Resolved,2025-08-31,2025-09-06
+GRV0198,P029,D006,Mumbai City,Waste,Prototype citizen feedback concerning hospital infection control audit support in Mumbai.,Positive,Resolved,2026-08-08,2026-08-15
+GRV0199,P039,D004,Mumbai City,Transport,Prototype citizen feedback concerning flood citizen alert workflow in Mumbai.,Negative,Resolved,2026-02-03,2026-02-11
+GRV0200,P051,D005,Yavatmal,Service Delay,Prototype citizen feedback concerning ambulance dispatch visibility in Yavatmal.,Neutral,In Review,2026-09-04,

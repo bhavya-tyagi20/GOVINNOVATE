@@ -1,0 +1,13 @@
+﻿federation_id,pilot_id,department_ids,cost_split,status,prototype_label
+FED001,P005,D004|D005,59%/41%,Active,Prototype federated pilot
+FED002,P009,D001|D002,58%/42%,Active,Prototype federated pilot
+FED003,P013,D019|D020,57%/43%,Completed,Prototype federated pilot
+FED004,P017,D009|D010,56%/44%,Active,Prototype federated pilot
+FED005,P021,D002|D003,55%/45%,Active,Prototype federated pilot
+FED006,P025,D014|D015,54%/46%,Completed,Prototype federated pilot
+FED007,P029,D006|D007,53%/47%,Active,Prototype federated pilot
+FED008,P033,D031|D032,52%/48%,Active,Prototype federated pilot
+FED009,P037,D027|D028,51%/49%,Completed,Prototype federated pilot
+FED010,P041,D010|D011,50%/50%,Active,Prototype federated pilot
+FED011,P045,D004|D005,49%/51%,Active,Prototype federated pilot
+FED012,P049,D011|D012,48%/52%,Completed,Prototype federated pilot

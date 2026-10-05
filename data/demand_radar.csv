@@ -1,0 +1,301 @@
+﻿sector,keyword,district,frequency,recent_frequency,demand_level
+Accessibility,Accessibility,Akola,2,2,Medium
+Accessibility,Accessibility,Kolhapur,2,2,Medium
+Accessibility,Accessibility,Mumbai City,2,2,Medium
+Accessibility,Accessibility,Parbhani,2,2,Medium
+Accessibility,Accessibility,Yavatmal,2,2,Medium
+Cybersecurity,Cybersecurity,Akola,2,0,Medium
+Cybersecurity,Cybersecurity,Kolhapur,2,0,Medium
+Cybersecurity,Cybersecurity,Mumbai City,2,0,Medium
+Cybersecurity,Cybersecurity,Parbhani,2,0,Medium
+Cybersecurity,Cybersecurity,Yavatmal,2,0,Medium
+Renewable Energy,Renewable Energy,Akola,2,0,Medium
+Renewable Energy,Renewable Energy,Kolhapur,2,0,Medium
+Renewable Energy,Renewable Energy,Mumbai City,2,0,Medium
+Renewable Energy,Renewable Energy,Parbhani,2,0,Medium
+Renewable Energy,Renewable Energy,Yavatmal,2,0,Medium
+Waste Management,Waste Management,Akola,2,0,Medium
+Waste Management,Waste Management,Yavatmal,2,0,Medium
+Accessibility,Akola,Akola,1,1,Emerging
+Accessibility,Citizen Engagement,Parbhani,1,1,Emerging
+Accessibility,GIS,Akola,1,1,Emerging
+Accessibility,GIS,Kolhapur,1,1,Emerging
+Accessibility,GIS,Mumbai City,1,1,Emerging
+Accessibility,Kolhapur,Kolhapur,1,1,Emerging
+Accessibility,Mobile Development,Akola,1,1,Emerging
+Accessibility,Mobile Development,Kolhapur,1,1,Emerging
+Accessibility,Mobile Development,Mumbai City,1,1,Emerging
+Accessibility,Mumbai City,Mumbai City,1,1,Emerging
+Accessibility,Parbhani,Parbhani,1,1,Emerging
+Accessibility,Web Development,Yavatmal,1,1,Emerging
+Accessibility,Workflow Automation,Parbhani,1,1,Emerging
+Accessibility,Workflow Automation,Yavatmal,1,1,Emerging
+Accessibility,Yavatmal,Yavatmal,1,1,Emerging
+Agriculture,Agriculture,Akola,1,1,Emerging
+Agriculture,Agriculture,Kolhapur,1,1,Emerging
+Agriculture,Agriculture,Mumbai City,1,1,Emerging
+Agriculture,Agriculture,Parbhani,1,1,Emerging
+Agriculture,Agriculture,Yavatmal,1,1,Emerging
+Agriculture,Agritech,Akola,1,1,Emerging
+Agriculture,Agritech,Kolhapur,1,1,Emerging
+Agriculture,Agritech,Mumbai City,1,1,Emerging
+Agriculture,Agritech,Yavatmal,1,1,Emerging
+Agriculture,Akola,Akola,1,1,Emerging
+Agriculture,Data Analytics,Yavatmal,1,1,Emerging
+Agriculture,GIS,Kolhapur,1,1,Emerging
+Agriculture,GIS,Yavatmal,1,1,Emerging
+Agriculture,Kolhapur,Kolhapur,1,1,Emerging
+Agriculture,Mobile Development,Akola,1,1,Emerging
+Agriculture,Mobile Development,Parbhani,1,1,Emerging
+Agriculture,Mumbai City,Mumbai City,1,1,Emerging
+Agriculture,NLP,Akola,1,1,Emerging
+Agriculture,NLP,Parbhani,1,1,Emerging
+Agriculture,Parbhani,Parbhani,1,1,Emerging
+Agriculture,Predictive Analytics,Mumbai City,1,1,Emerging
+Agriculture,Remote Sensing,Kolhapur,1,1,Emerging
+Agriculture,Remote Sensing,Mumbai City,1,1,Emerging
+Agriculture,Workflow Automation,Parbhani,1,1,Emerging
+Agriculture,Yavatmal,Yavatmal,1,1,Emerging
+Air Quality,Air Quality,Akola,1,0,Emerging
+Air Quality,Air Quality,Kolhapur,1,0,Emerging
+Air Quality,Air Quality,Mumbai City,1,0,Emerging
+Air Quality,Air Quality,Parbhani,1,0,Emerging
+Air Quality,Air Quality,Yavatmal,1,0,Emerging
+Air Quality,Akola,Akola,1,0,Emerging
+Air Quality,Citizen Engagement,Mumbai City,1,0,Emerging
+Air Quality,Citizen Engagement,Parbhani,1,0,Emerging
+Air Quality,Computer Vision,Akola,1,0,Emerging
+Air Quality,Data Analytics,Kolhapur,1,0,Emerging
+Air Quality,Data Analytics,Parbhani,1,0,Emerging
+Air Quality,Data Analytics,Yavatmal,1,0,Emerging
+Air Quality,Environmental Monitoring,Kolhapur,1,0,Emerging
+Air Quality,GIS,Akola,1,0,Emerging
+Air Quality,GIS,Mumbai City,1,0,Emerging
+Air Quality,IoT,Kolhapur,1,0,Emerging
+Air Quality,IoT,Parbhani,1,0,Emerging
+Air Quality,IoT,Yavatmal,1,0,Emerging
+Air Quality,Kolhapur,Kolhapur,1,0,Emerging
+Air Quality,Mobile Development,Akola,1,0,Emerging
+Air Quality,Mumbai City,Mumbai City,1,0,Emerging
+Air Quality,NLP,Mumbai City,1,0,Emerging
+Air Quality,Parbhani,Parbhani,1,0,Emerging
+Air Quality,Workflow Automation,Yavatmal,1,0,Emerging
+Air Quality,Yavatmal,Yavatmal,1,0,Emerging
+Citizen Grievance Management,Akola,Akola,1,1,Emerging
+Citizen Grievance Management,Citizen Engagement,Akola,1,1,Emerging
+Citizen Grievance Management,Citizen Engagement,Kolhapur,1,1,Emerging
+Citizen Grievance Management,Citizen Engagement,Mumbai City,1,1,Emerging
+Citizen Grievance Management,Citizen Engagement,Parbhani,1,1,Emerging
+Citizen Grievance Management,Citizen Engagement,Yavatmal,1,1,Emerging
+Citizen Grievance Management,Citizen Grievance Management,Akola,1,1,Emerging
+Citizen Grievance Management,Citizen Grievance Management,Kolhapur,1,1,Emerging
+Citizen Grievance Management,Citizen Grievance Management,Mumbai City,1,1,Emerging
+Citizen Grievance Management,Citizen Grievance Management,Parbhani,1,1,Emerging
+Citizen Grievance Management,Citizen Grievance Management,Yavatmal,1,1,Emerging
+Citizen Grievance Management,Data Analytics,Akola,1,1,Emerging
+Citizen Grievance Management,Data Analytics,Mumbai City,1,1,Emerging
+Citizen Grievance Management,Data Analytics,Parbhani,1,1,Emerging
+Citizen Grievance Management,Data Analytics,Yavatmal,1,1,Emerging
+Citizen Grievance Management,GIS,Akola,1,1,Emerging
+Citizen Grievance Management,Kolhapur,Kolhapur,1,1,Emerging
+Citizen Grievance Management,Mobile Development,Mumbai City,1,1,Emerging
+Citizen Grievance Management,Mumbai City,Mumbai City,1,1,Emerging
+Citizen Grievance Management,NLP,Kolhapur,1,1,Emerging
+Citizen Grievance Management,NLP,Yavatmal,1,1,Emerging
+Citizen Grievance Management,Parbhani,Parbhani,1,1,Emerging
+Citizen Grievance Management,Workflow Automation,Kolhapur,1,1,Emerging
+Citizen Grievance Management,Workflow Automation,Parbhani,1,1,Emerging
+Citizen Grievance Management,Yavatmal,Yavatmal,1,1,Emerging
+Crop Monitoring,Agritech,Akola,1,1,Emerging
+Crop Monitoring,Agritech,Kolhapur,1,1,Emerging
+Crop Monitoring,Agritech,Yavatmal,1,1,Emerging
+Crop Monitoring,Akola,Akola,1,1,Emerging
+Crop Monitoring,Computer Vision,Kolhapur,1,1,Emerging
+Crop Monitoring,Crop Monitoring,Akola,1,1,Emerging
+Crop Monitoring,Crop Monitoring,Kolhapur,1,1,Emerging
+Crop Monitoring,Crop Monitoring,Mumbai City,1,1,Emerging
+Crop Monitoring,Crop Monitoring,Parbhani,1,1,Emerging
+Crop Monitoring,Crop Monitoring,Yavatmal,1,1,Emerging
+Crop Monitoring,Data Analytics,Mumbai City,1,1,Emerging
+Crop Monitoring,Data Analytics,Yavatmal,1,1,Emerging
+Crop Monitoring,GIS,Parbhani,1,1,Emerging
+Crop Monitoring,IoT,Mumbai City,1,1,Emerging
+Crop Monitoring,Kolhapur,Kolhapur,1,1,Emerging
+Crop Monitoring,Mobile Development,Akola,1,1,Emerging
+Crop Monitoring,Mobile Development,Mumbai City,1,1,Emerging
+Crop Monitoring,Mumbai City,Mumbai City,1,1,Emerging
+Crop Monitoring,Parbhani,Parbhani,1,1,Emerging
+Crop Monitoring,Predictive Analytics,Akola,1,1,Emerging
+Crop Monitoring,Predictive Analytics,Parbhani,1,1,Emerging
+Crop Monitoring,Remote Sensing,Kolhapur,1,1,Emerging
+Crop Monitoring,Remote Sensing,Parbhani,1,1,Emerging
+Crop Monitoring,Web Development,Yavatmal,1,1,Emerging
+Crop Monitoring,Yavatmal,Yavatmal,1,1,Emerging
+Cybersecurity,Akola,Akola,1,0,Emerging
+Cybersecurity,Cloud,Kolhapur,1,0,Emerging
+Cybersecurity,Cloud,Mumbai City,1,0,Emerging
+Cybersecurity,Cloud,Parbhani,1,0,Emerging
+Cybersecurity,Data Analytics,Akola,1,0,Emerging
+Cybersecurity,Data Analytics,Parbhani,1,0,Emerging
+Cybersecurity,Data Analytics,Yavatmal,1,0,Emerging
+Cybersecurity,Kolhapur,Kolhapur,1,0,Emerging
+Cybersecurity,Mumbai City,Mumbai City,1,0,Emerging
+Cybersecurity,Parbhani,Parbhani,1,0,Emerging
+Cybersecurity,Web Development,Yavatmal,1,0,Emerging
+Cybersecurity,Workflow Automation,Akola,1,0,Emerging
+Cybersecurity,Workflow Automation,Kolhapur,1,0,Emerging
+Cybersecurity,Workflow Automation,Mumbai City,1,0,Emerging
+Cybersecurity,Yavatmal,Yavatmal,1,0,Emerging
+Digital Governance,Accessibility,Mumbai City,1,0,Emerging
+Digital Governance,Akola,Akola,1,0,Emerging
+Digital Governance,Data Analytics,Akola,1,0,Emerging
+Digital Governance,Data Analytics,Kolhapur,1,0,Emerging
+Digital Governance,Data Analytics,Yavatmal,1,0,Emerging
+Digital Governance,Data Governance,Yavatmal,1,0,Emerging
+Digital Governance,Digital Governance,Akola,1,0,Emerging
+Digital Governance,Digital Governance,Kolhapur,1,0,Emerging
+Digital Governance,Digital Governance,Mumbai City,1,0,Emerging
+Digital Governance,Digital Governance,Parbhani,1,0,Emerging
+Digital Governance,Digital Governance,Yavatmal,1,0,Emerging
+Digital Governance,Kolhapur,Kolhapur,1,0,Emerging
+Digital Governance,Mobile Development,Mumbai City,1,0,Emerging
+Digital Governance,Mumbai City,Mumbai City,1,0,Emerging
+Digital Governance,NLP,Akola,1,0,Emerging
+Digital Governance,NLP,Parbhani,1,0,Emerging
+Digital Governance,OCR,Parbhani,1,0,Emerging
+Digital Governance,Parbhani,Parbhani,1,0,Emerging
+Digital Governance,Web Development,Kolhapur,1,0,Emerging
+Digital Governance,Web Development,Mumbai City,1,0,Emerging
+Digital Governance,Web Development,Yavatmal,1,0,Emerging
+Digital Governance,Workflow Automation,Akola,1,0,Emerging
+Digital Governance,Workflow Automation,Kolhapur,1,0,Emerging
+Digital Governance,Workflow Automation,Parbhani,1,0,Emerging
+Digital Governance,Yavatmal,Yavatmal,1,0,Emerging
+Disaster Management,Akola,Akola,1,0,Emerging
+Disaster Management,Cloud,Akola,1,0,Emerging
+Disaster Management,Computer Vision,Parbhani,1,0,Emerging
+Disaster Management,Data Analytics,Kolhapur,1,0,Emerging
+Disaster Management,Data Analytics,Mumbai City,1,0,Emerging
+Disaster Management,Disaster Management,Akola,1,0,Emerging
+Disaster Management,Disaster Management,Kolhapur,1,0,Emerging
+Disaster Management,Disaster Management,Mumbai City,1,0,Emerging
+Disaster Management,Disaster Management,Parbhani,1,0,Emerging
+Disaster Management,Disaster Management,Yavatmal,1,0,Emerging
+Disaster Management,GIS,Akola,1,0,Emerging
+Disaster Management,GIS,Kolhapur,1,0,Emerging
+Disaster Management,GIS,Parbhani,1,0,Emerging
+Disaster Management,GIS,Yavatmal,1,0,Emerging
+Disaster Management,Kolhapur,Kolhapur,1,0,Emerging
+Disaster Management,Mobile Development,Akola,1,0,Emerging
+Disaster Management,Mobile Development,Mumbai City,1,0,Emerging
+Disaster Management,Mobile Development,Parbhani,1,0,Emerging
+Disaster Management,Mobile Development,Yavatmal,1,0,Emerging
+Disaster Management,Mumbai City,Mumbai City,1,0,Emerging
+Disaster Management,Parbhani,Parbhani,1,0,Emerging
+Disaster Management,Workflow Automation,Kolhapur,1,0,Emerging
+Disaster Management,Workflow Automation,Mumbai City,1,0,Emerging
+Disaster Management,Workflow Automation,Yavatmal,1,0,Emerging
+Disaster Management,Yavatmal,Yavatmal,1,0,Emerging
+Disease Surveillance,Akola,Akola,1,1,Emerging
+Disease Surveillance,Data Analytics,Akola,1,1,Emerging
+Disease Surveillance,Data Analytics,Kolhapur,1,1,Emerging
+Disease Surveillance,Data Analytics,Mumbai City,1,0,Emerging
+Disease Surveillance,Disease Surveillance,Akola,1,1,Emerging
+Disease Surveillance,Disease Surveillance,Kolhapur,1,1,Emerging
+Disease Surveillance,Disease Surveillance,Mumbai City,1,0,Emerging
+Disease Surveillance,Disease Surveillance,Parbhani,1,1,Emerging
+Disease Surveillance,Disease Surveillance,Yavatmal,1,1,Emerging
+Disease Surveillance,GIS,Akola,1,1,Emerging
+Disease Surveillance,GIS,Parbhani,1,1,Emerging
+Disease Surveillance,Healthcare Technology,Akola,1,1,Emerging
+Disease Surveillance,Healthcare Technology,Kolhapur,1,1,Emerging
+Disease Surveillance,Healthcare Technology,Mumbai City,1,0,Emerging
+Disease Surveillance,Healthcare Technology,Yavatmal,1,1,Emerging
+Disease Surveillance,Kolhapur,Kolhapur,1,1,Emerging
+Disease Surveillance,Mobile Development,Mumbai City,1,0,Emerging
+Disease Surveillance,Mobile Development,Parbhani,1,1,Emerging
+Disease Surveillance,Mobile Development,Yavatmal,1,1,Emerging
+Disease Surveillance,Mumbai City,Mumbai City,1,0,Emerging
+Disease Surveillance,Parbhani,Parbhani,1,1,Emerging
+Disease Surveillance,Predictive Analytics,Kolhapur,1,1,Emerging
+Disease Surveillance,Workflow Automation,Parbhani,1,1,Emerging
+Disease Surveillance,Workflow Automation,Yavatmal,1,1,Emerging
+Disease Surveillance,Yavatmal,Yavatmal,1,1,Emerging
+Education,Akola,Akola,1,0,Emerging
+Education,Data Analytics,Akola,1,0,Emerging
+Education,Data Analytics,Kolhapur,1,0,Emerging
+Education,Data Analytics,Mumbai City,1,0,Emerging
+Education,Data Analytics,Yavatmal,1,0,Emerging
+Education,Edtech,Akola,1,0,Emerging
+Education,Edtech,Kolhapur,1,0,Emerging
+Education,Edtech,Mumbai City,1,0,Emerging
+Education,Edtech,Parbhani,1,0,Emerging
+Education,Edtech,Yavatmal,1,0,Emerging
+Education,Education,Akola,1,0,Emerging
+Education,Education,Kolhapur,1,0,Emerging
+Education,Education,Mumbai City,1,0,Emerging
+Education,Education,Parbhani,1,0,Emerging
+Education,Education,Yavatmal,1,0,Emerging
+Education,Kolhapur,Kolhapur,1,0,Emerging
+Education,Mobile Development,Parbhani,1,0,Emerging
+Education,Mumbai City,Mumbai City,1,0,Emerging
+Education,NLP,Akola,1,0,Emerging
+Education,Parbhani,Parbhani,1,0,Emerging
+Education,Predictive Analytics,Kolhapur,1,0,Emerging
+Education,Web Development,Yavatmal,1,0,Emerging
+Education,Workflow Automation,Mumbai City,1,0,Emerging
+Education,Workflow Automation,Parbhani,1,0,Emerging
+Education,Yavatmal,Yavatmal,1,0,Emerging
+Electricity Distribution,Akola,Akola,1,0,Emerging
+Electricity Distribution,Citizen Engagement,Mumbai City,1,0,Emerging
+Electricity Distribution,Data Analytics,Kolhapur,1,0,Emerging
+Electricity Distribution,Data Analytics,Yavatmal,1,0,Emerging
+Electricity Distribution,Electricity Distribution,Akola,1,0,Emerging
+Electricity Distribution,Electricity Distribution,Kolhapur,1,0,Emerging
+Electricity Distribution,Electricity Distribution,Mumbai City,1,0,Emerging
+Electricity Distribution,Electricity Distribution,Parbhani,1,0,Emerging
+Electricity Distribution,Electricity Distribution,Yavatmal,1,0,Emerging
+Electricity Distribution,Energy,Akola,1,0,Emerging
+Electricity Distribution,Energy,Parbhani,1,0,Emerging
+Electricity Distribution,Energy,Yavatmal,1,0,Emerging
+Electricity Distribution,IoT,Akola,1,0,Emerging
+Electricity Distribution,IoT,Kolhapur,1,0,Emerging
+Electricity Distribution,IoT,Parbhani,1,0,Emerging
+Electricity Distribution,Kolhapur,Kolhapur,1,0,Emerging
+Electricity Distribution,Mobile Development,Mumbai City,1,0,Emerging
+Electricity Distribution,Mumbai City,Mumbai City,1,0,Emerging
+Electricity Distribution,Parbhani,Parbhani,1,0,Emerging
+Electricity Distribution,Predictive Analytics,Akola,1,0,Emerging
+Electricity Distribution,Predictive Analytics,Kolhapur,1,0,Emerging
+Electricity Distribution,Workflow Automation,Mumbai City,1,0,Emerging
+Electricity Distribution,Workflow Automation,Parbhani,1,0,Emerging
+Electricity Distribution,Workflow Automation,Yavatmal,1,0,Emerging
+Electricity Distribution,Yavatmal,Yavatmal,1,0,Emerging
+Environment,Akola,Akola,1,0,Emerging
+Environment,Data Analytics,Mumbai City,1,0,Emerging
+Environment,Data Analytics,Parbhani,1,0,Emerging
+Environment,Environment,Akola,1,0,Emerging
+Environment,Environment,Kolhapur,1,0,Emerging
+Environment,Environment,Mumbai City,1,0,Emerging
+Environment,Environment,Parbhani,1,0,Emerging
+Environment,Environment,Yavatmal,1,0,Emerging
+Environment,Environmental Monitoring,Akola,1,0,Emerging
+Environment,Environmental Monitoring,Kolhapur,1,0,Emerging
+Environment,Environmental Monitoring,Parbhani,1,0,Emerging
+Environment,Environmental Monitoring,Yavatmal,1,0,Emerging
+Environment,GIS,Akola,1,0,Emerging
+Environment,GIS,Kolhapur,1,0,Emerging
+Environment,GIS,Mumbai City,1,0,Emerging
+Environment,GIS,Parbhani,1,0,Emerging
+Environment,GIS,Yavatmal,1,0,Emerging
+Environment,Kolhapur,Kolhapur,1,0,Emerging
+Environment,Mobile Development,Kolhapur,1,0,Emerging
+Environment,Mobile Development,Yavatmal,1,0,Emerging
+Environment,Mumbai City,Mumbai City,1,0,Emerging
+Environment,Parbhani,Parbhani,1,0,Emerging
+Environment,Predictive Analytics,Mumbai City,1,0,Emerging
+Environment,Remote Sensing,Akola,1,0,Emerging
+Environment,Yavatmal,Yavatmal,1,0,Emerging
+Flood Management,Akola,Akola,1,0,Emerging
+Flood Management,Citizen Engagement,Mumbai City,1,0,Emerging
+Flood Management,Cloud,Akola,1,0,Emerging

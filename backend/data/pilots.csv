@@ -1,0 +1,62 @@
+﻿pilot_id,challenge_id,application_id,startup_id,department_id,pilot_name,start_date,end_date,budget,status,overall_status,citizen_facing,security_status,validation_status,data_label
+P001,CH069,APP0004,S0149,D005,Maharashtra Ambulance Dispatch Visibility — Prototype Pilot 01,2026-07-26,2026-11-03,5220000,Completed,Completed,Yes,SECURITY_CLEARED,Passed,Prototype Demonstration Data
+P002,CH021,APP0010,S0371,D003,Maharashtra Urban Water Supply Reliability Monitoring — Prototype Pilot 02,2025-07-21,2025-11-18,6525000,At Risk,At Risk,Yes,NEEDS_REVIEW,Passed,Prototype Demonstration Data
+P003,CH123,APP0016,S0093,D016,Maharashtra Third-Party Dependency Risk Review — Prototype Pilot 03,2026-01-07,2026-04-17,3915000,Completed,Completed,No,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P004,CH075,APP0022,S0315,D006,Maharashtra Hospital Infection Control Audit Support — Prototype Pilot 04,2026-09-03,2026-12-12,3480000,Pilot Ready,Pilot Ready,Yes,SECURITY_CLEARED,Passed,Prototype Demonstration Data
+P005,CH027,APP0028,S0037,D004,Maharashtra Reservoir Inflow Monitoring — Prototype Pilot 05,2025-08-30,2025-12-28,4785000,In Progress,In Progress,No,NEEDS_REVIEW,Pending,Prototype Demonstration Data
+P006,CH129,APP0034,S0259,D016,Maharashtra Open Data Quality Monitoring — Prototype Pilot 06,2026-02-16,2026-05-27,3480000,Completed,Completed,No,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P007,CH081,APP0040,S0481,D007,Maharashtra School Attendance Early Warning — Prototype Pilot 07,2025-04-02,2025-07-31,3915000,At Risk,At Risk,Yes,SECURITY_CLEARED,Failed,Prototype Demonstration Data
+P008,CH033,APP0046,S0203,D031,Maharashtra Construction Waste Tracking — Prototype Pilot 08,2025-10-09,2026-02-06,4350000,Completed,Completed,Yes,NEEDS_REVIEW,Passed,Prototype Demonstration Data
+P009,CH135,APP0052,S0425,D001,Maharashtra Citizen Satisfaction Pulse — Prototype Pilot 09,2026-03-28,2026-06-26,2610000,Pilot Ready,Pilot Ready,Yes,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P010,CH087,APP0058,S0147,D018,Maharashtra Skill Course Outcome Tracking — Prototype Pilot 10,2025-05-12,2025-09-09,4350000,In Progress,In Progress,No,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P011,CH039,APP0064,S0369,D028,Maharashtra Industrial Emission Exception Dashboard — Prototype Pilot 11,2025-11-18,2026-04-17,5655000,Completed,Completed,Yes,NEEDS_REVIEW,Pending,Prototype Demonstration Data
+P012,CH141,APP0070,S0091,D027,Maharashtra Accessible Government Building Audit — Prototype Pilot 12,2026-05-07,2026-09-04,3045000,At Risk,At Risk,Yes,SECURITY_CLEARED,Passed,Prototype Demonstration Data
+P013,CH093,APP0076,S0313,D019,Maharashtra Child Protection Case Workflow — Prototype Pilot 13,2025-06-21,2025-10-19,4785000,Completed,Completed,Yes,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P014,CH045,APP0082,S0035,D004,Maharashtra Flood Citizen Alert Workflow — Prototype Pilot 14,2025-12-28,2026-03-28,3480000,Pilot Ready,Pilot Ready,Yes,NEEDS_REVIEW,Failed,Prototype Demonstration Data
+P015,CH147,APP0088,S0257,D024,Maharashtra Food Distribution Route Monitoring — Prototype Pilot 15,2026-06-16,2026-09-14,3480000,In Progress,In Progress,Yes,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P016,CH099,APP0094,S0479,D010,Maharashtra Village Water Point Monitoring — Prototype Pilot 16,2025-07-31,2025-11-08,3915000,Completed,Completed,Yes,SECURITY_CLEARED,Passed,Prototype Demonstration Data
+P017,CH051,APP0100,S0201,D009,Maharashtra Crop Stress Monitoring — Prototype Pilot 17,2026-02-06,2026-07-06,5655000,At Risk,At Risk,No,NEEDS_REVIEW,Pending,Prototype Demonstration Data
+P018,CH003,APP0106,S0423,D001,Maharashtra Public Building Energy Baseline — Prototype Pilot 18,2025-03-23,2025-07-21,5220000,Completed,Completed,Yes,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P019,CH105,APP0112,S0145,D017,Maharashtra Tourism Feedback Analytics — Prototype Pilot 19,2025-09-09,2025-12-08,2610000,Pilot Ready,Pilot Ready,Yes,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P020,CH057,APP0118,S0367,D004,Maharashtra Command Area Water Delivery Monitoring — Prototype Pilot 20,2026-05-07,2026-10-04,5220000,In Progress,In Progress,No,NEEDS_REVIEW,Passed,Prototype Demonstration Data
+P021,CH009,APP0124,S0089,D002,Maharashtra Monsoon Road Damage Triage — Prototype Pilot 21,2025-05-02,2025-08-10,5220000,Completed,Completed,Yes,SECURITY_CLEARED,Failed,Prototype Demonstration Data
+P022,CH111,APP0130,S0311,D014,Maharashtra Solar Rooftop Performance Monitoring — Prototype Pilot 22,2025-10-19,2026-02-16,5655000,At Risk,At Risk,No,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P023,CH063,APP0136,S0033,D009,Maharashtra Soybean Yield Risk Mapping — Prototype Pilot 23,2026-06-16,2026-10-14,4350000,Completed,Completed,No,NEEDS_REVIEW,Pending,Prototype Demonstration Data
+P024,CH015,APP0142,S0255,D011,Maharashtra Traffic Incident Response Coordination — Prototype Pilot 24,2025-06-11,2025-09-19,4785000,Pilot Ready,Pilot Ready,Yes,SECURITY_CLEARED,Passed,Prototype Demonstration Data
+P025,CH117,APP0148,S0477,D014,Maharashtra Transformer Health Monitoring — Prototype Pilot 25,2025-11-28,2026-04-27,5655000,In Progress,In Progress,No,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P026,CH069,APP0154,S0199,D005,Maharashtra Ambulance Dispatch Visibility — Prototype Pilot 26,2026-07-26,2026-11-03,5220000,Completed,Completed,Yes,NEEDS_REVIEW,Pending,Prototype Demonstration Data
+P027,CH021,APP0160,S0421,D003,Maharashtra Urban Water Supply Reliability Monitoring — Prototype Pilot 27,2025-07-21,2025-11-18,6525000,At Risk,At Risk,Yes,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P028,CH123,APP0166,S0143,D016,Maharashtra Third-Party Dependency Risk Review — Prototype Pilot 28,2026-01-07,2026-04-17,3915000,Completed,Completed,No,SECURITY_CLEARED,Failed,Prototype Demonstration Data
+P029,CH075,APP0172,S0365,D006,Maharashtra Hospital Infection Control Audit Support — Prototype Pilot 29,2026-07-05,2026-10-13,3480000,Pilot Ready,Pilot Ready,Yes,NEEDS_REVIEW,Pending,Prototype Demonstration Data
+P030,CH027,APP0178,S0087,D004,Maharashtra Reservoir Inflow Monitoring — Prototype Pilot 30,2025-08-30,2025-12-28,4785000,In Progress,In Progress,No,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P031,CH129,APP0184,S0309,D016,Maharashtra Open Data Quality Monitoring — Prototype Pilot 31,2026-02-16,2026-05-27,3480000,Completed,Completed,No,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P032,CH081,APP0190,S0031,D007,Maharashtra School Attendance Early Warning — Prototype Pilot 32,2025-04-02,2025-07-31,3915000,At Risk,At Risk,Yes,NEEDS_REVIEW,Passed,Prototype Demonstration Data
+P033,CH033,APP0196,S0253,D031,Maharashtra Construction Waste Tracking — Prototype Pilot 33,2025-10-09,2026-02-06,4350000,Completed,Completed,Yes,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P034,CH135,APP0202,S0475,D001,Maharashtra Citizen Satisfaction Pulse — Prototype Pilot 34,2026-03-28,2026-06-26,2610000,Pilot Ready,Pilot Ready,Yes,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P035,CH087,APP0208,S0197,D018,Maharashtra Skill Course Outcome Tracking — Prototype Pilot 35,2025-05-12,2025-09-09,4350000,In Progress,In Progress,No,NEEDS_REVIEW,Failed,Prototype Demonstration Data
+P036,CH039,APP0214,S0419,D028,Maharashtra Industrial Emission Exception Dashboard — Prototype Pilot 36,2025-11-18,2026-04-17,5655000,Completed,Completed,Yes,SECURITY_CLEARED,Passed,Prototype Demonstration Data
+P037,CH141,APP0220,S0141,D027,Maharashtra Accessible Government Building Audit — Prototype Pilot 37,2026-05-07,2026-09-04,3045000,At Risk,At Risk,Yes,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P038,CH093,APP0226,S0363,D019,Maharashtra Child Protection Case Workflow — Prototype Pilot 38,2025-06-21,2025-10-19,4785000,Completed,Completed,Yes,NEEDS_REVIEW,Pending,Prototype Demonstration Data
+P039,CH045,APP0232,S0085,D004,Maharashtra Flood Citizen Alert Workflow — Prototype Pilot 39,2025-12-28,2026-03-28,3480000,Pilot Ready,Pilot Ready,Yes,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P040,CH147,APP0238,S0307,D024,Maharashtra Food Distribution Route Monitoring — Prototype Pilot 40,2026-06-16,2026-09-14,3480000,In Progress,In Progress,Yes,SECURITY_CLEARED,Passed,Prototype Demonstration Data
+P041,CH099,APP0244,S0029,D010,Maharashtra Village Water Point Monitoring — Prototype Pilot 41,2025-07-31,2025-11-08,3915000,Completed,Completed,Yes,NEEDS_REVIEW,Pending,Prototype Demonstration Data
+P042,CH051,APP0250,S0251,D009,Maharashtra Crop Stress Monitoring — Prototype Pilot 42,2026-02-06,2026-07-06,5655000,At Risk,At Risk,No,SECURITY_CLEARED,Failed,Prototype Demonstration Data
+P043,CH003,APP0256,S0473,D001,Maharashtra Public Building Energy Baseline — Prototype Pilot 43,2025-03-23,2025-07-21,5220000,Completed,Completed,Yes,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P044,CH105,APP0262,S0195,D017,Maharashtra Tourism Feedback Analytics — Prototype Pilot 44,2025-09-09,2025-12-08,2610000,Pilot Ready,Pilot Ready,Yes,NEEDS_REVIEW,Passed,Prototype Demonstration Data
+P045,CH057,APP0268,S0417,D004,Maharashtra Command Area Water Delivery Monitoring — Prototype Pilot 45,2026-05-07,2026-10-04,5220000,In Progress,In Progress,No,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P046,CH009,APP0274,S0139,D002,Maharashtra Monsoon Road Damage Triage — Prototype Pilot 46,2025-05-02,2025-08-10,5220000,Completed,Completed,Yes,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P047,CH111,APP0280,S0361,D014,Maharashtra Solar Rooftop Performance Monitoring — Prototype Pilot 47,2025-10-19,2026-02-16,5655000,At Risk,At Risk,No,NEEDS_REVIEW,Pending,Prototype Demonstration Data
+P048,CH063,APP0286,S0083,D009,Maharashtra Soybean Yield Risk Mapping — Prototype Pilot 48,2026-06-16,2026-10-14,4350000,Completed,Completed,No,SECURITY_CLEARED,Passed,Prototype Demonstration Data
+P049,CH015,APP0292,S0305,D011,Maharashtra Traffic Incident Response Coordination — Prototype Pilot 49,2025-06-11,2025-09-19,4785000,Pilot Ready,Pilot Ready,Yes,SECURITY_CLEARED,Failed,Prototype Demonstration Data
+P050,CH117,APP0298,S0027,D014,Maharashtra Transformer Health Monitoring — Prototype Pilot 50,2025-11-28,2026-04-27,5655000,In Progress,In Progress,No,NEEDS_REVIEW,Pending,Prototype Demonstration Data
+P051,CH069,APP0304,S0249,D005,Maharashtra Ambulance Dispatch Visibility — Prototype Pilot 51,2026-07-26,2026-11-03,5220000,Completed,Completed,Yes,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P052,CH021,APP0310,S0471,D003,Maharashtra Urban Water Supply Reliability Monitoring — Prototype Pilot 52,2025-07-21,2025-11-18,6525000,At Risk,At Risk,Yes,SECURITY_CLEARED,Passed,Prototype Demonstration Data
+P053,CH123,APP0316,S0193,D016,Maharashtra Third-Party Dependency Risk Review — Prototype Pilot 53,2026-01-07,2026-04-17,3915000,Completed,Completed,No,NEEDS_REVIEW,Pending,Prototype Demonstration Data
+P054,CH075,APP0322,S0415,D006,Maharashtra Hospital Infection Control Audit Support — Prototype Pilot 54,2026-09-03,2026-12-12,3480000,Pilot Ready,Pilot Ready,Yes,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P055,CH027,APP0328,S0137,D004,Maharashtra Reservoir Inflow Monitoring — Prototype Pilot 55,2025-08-30,2025-12-28,4785000,In Progress,In Progress,No,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P056,CH129,APP0334,S0359,D016,Maharashtra Open Data Quality Monitoring — Prototype Pilot 56,2026-02-16,2026-05-27,3480000,Completed,Completed,No,NEEDS_REVIEW,Failed,Prototype Demonstration Data
+P057,CH081,APP0340,S0081,D007,Maharashtra School Attendance Early Warning — Prototype Pilot 57,2025-04-02,2025-07-31,3915000,At Risk,At Risk,Yes,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P058,CH033,APP0346,S0303,D031,Maharashtra Construction Waste Tracking — Prototype Pilot 58,2025-10-09,2026-02-06,4350000,Completed,Completed,Yes,SECURITY_CLEARED,Pending,Prototype Demonstration Data
+P059,CH135,APP0352,S0025,D001,Maharashtra Citizen Satisfaction Pulse — Prototype Pilot 59,2026-03-28,2026-06-26,2610000,Pilot Ready,Pilot Ready,Yes,NEEDS_REVIEW,Pending,Prototype Demonstration Data
+P060,CH087,APP0358,S0247,D018,Maharashtra Skill Course Outcome Tracking — Prototype Pilot 60,2025-05-12,2025-09-09,4350000,In Progress,In Progress,No,SECURITY_CLEARED,Passed,Prototype Demonstration Data
+P061,CH018,APP0001,S0038,D011,Maharashtra Depot Maintenance Scheduling — Pilot P061,2026-09-27,2027-01-25,4350000,In Progress,In Progress,Yes,NEEDS_REVIEW,Pending,Prototype Demonstration Data

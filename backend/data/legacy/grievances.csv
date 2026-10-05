@@ -1,0 +1,3 @@
+grievance_id,application_id,status,reason
+G001,A004,Open,Eligibility decision review requested
+G002,A011,Resolved,Clarification requested

@@ -1,0 +1,11 @@
+department_id,department_name,sector
+D001,Urban Development Department,Urban Infrastructure
+D002,Public Works Department,Infrastructure
+D003,Agriculture Department,Agriculture
+D004,Water Resources Department,Water
+D005,Public Health Department,Healthcare
+D006,School Education Department,Education
+D007,Transport Department,Transport
+D008,Environment Department,Environment
+D009,Rural Development Department,Rural Development
+D010,Information Technology Department,Technology

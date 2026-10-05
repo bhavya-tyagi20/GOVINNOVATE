@@ -1,0 +1,450 @@
+﻿requirement_id,challenge_id,requirement,mandatory,weight
+REQ00201,CH002,GIS,Yes,0.45
+REQ00202,CH002,Computer Vision,Yes,0.3
+REQ00203,CH002,Accessibility,No,0.25
+REQ00301,CH003,IoT,Yes,0.45
+REQ00302,CH003,Data Analytics,Yes,0.3
+REQ00303,CH003,Renewable Energy,No,0.25
+REQ00401,CH004,GIS,Yes,0.45
+REQ00402,CH004,Workflow Automation,Yes,0.3
+REQ00403,CH004,Mobile Development,No,0.25
+REQ00501,CH005,IoT,Yes,0.45
+REQ00502,CH005,Mobile Development,Yes,0.3
+REQ00503,CH005,Workflow Automation,No,0.25
+REQ00601,CH006,Computer Vision,Yes,0.45
+REQ00602,CH006,GIS,Yes,0.3
+REQ00603,CH006,Mobile Development,No,0.25
+REQ00701,CH007,Computer Vision,Yes,0.45
+REQ00702,CH007,Mobile Development,Yes,0.3
+REQ00703,CH007,Data Analytics,No,0.25
+REQ00801,CH008,Mobile Development,Yes,0.45
+REQ00802,CH008,Data Analytics,Yes,0.3
+REQ00803,CH008,Workflow Automation,No,0.25
+REQ00901,CH009,GIS,Yes,0.45
+REQ00902,CH009,Remote Sensing,Yes,0.3
+REQ00903,CH009,Mobile Development,No,0.25
+REQ01001,CH010,Data Analytics,Yes,0.45
+REQ01002,CH010,GIS,Yes,0.3
+REQ01003,CH010,Workflow Automation,No,0.25
+REQ01101,CH011,IoT,Yes,0.45
+REQ01102,CH011,Computer Vision,Yes,0.3
+REQ01103,CH011,Data Analytics,No,0.25
+REQ01201,CH012,Data Analytics,Yes,0.45
+REQ01202,CH012,GIS,Yes,0.3
+REQ01203,CH012,Web Development,No,0.25
+REQ01301,CH013,IoT,Yes,0.45
+REQ01302,CH013,Mobile Development,Yes,0.3
+REQ01303,CH013,Data Analytics,No,0.25
+REQ01401,CH014,Computer Vision,Yes,0.45
+REQ01402,CH014,GIS,Yes,0.3
+REQ01403,CH014,Citizen Engagement,No,0.25
+REQ01501,CH015,Workflow Automation,Yes,0.45
+REQ01502,CH015,Mobile Development,Yes,0.3
+REQ01503,CH015,GIS,No,0.25
+REQ01601,CH016,GIS,Yes,0.45
+REQ01602,CH016,Mobile Development,Yes,0.3
+REQ01603,CH016,Accessibility,No,0.25
+REQ01701,CH017,Mobile Development,Yes,0.45
+REQ01702,CH017,Workflow Automation,Yes,0.3
+REQ01703,CH017,Citizen Engagement,No,0.25
+REQ01801,CH018,Workflow Automation,Yes,0.45
+REQ01802,CH018,Data Analytics,Yes,0.3
+REQ01803,CH018,IoT,No,0.25
+REQ01901,CH019,IoT,Yes,0.45
+REQ01902,CH019,Data Analytics,Yes,0.3
+REQ01903,CH019,Renewable Energy,No,0.25
+REQ02001,CH020,Citizen Engagement,Yes,0.45
+REQ02002,CH020,NLP,Yes,0.3
+REQ02003,CH020,Mobile Development,No,0.25
+REQ02101,CH021,IoT,Yes,0.45
+REQ02102,CH021,Data Analytics,Yes,0.3
+REQ02103,CH021,Water Monitoring,No,0.25
+REQ02201,CH022,IoT,Yes,0.45
+REQ02202,CH022,GIS,Yes,0.3
+REQ02203,CH022,Water Monitoring,No,0.25
+REQ02301,CH023,Mobile Development,Yes,0.45
+REQ02302,CH023,Data Analytics,Yes,0.3
+REQ02303,CH023,Water Monitoring,No,0.25
+REQ02401,CH024,IoT,Yes,0.45
+REQ02402,CH024,Water Monitoring,Yes,0.3
+REQ02403,CH024,Cloud,No,0.25
+REQ02501,CH025,NLP,Yes,0.45
+REQ02502,CH025,Workflow Automation,Yes,0.3
+REQ02503,CH025,Citizen Engagement,No,0.25
+REQ02601,CH026,Remote Sensing,Yes,0.45
+REQ02602,CH026,IoT,Yes,0.3
+REQ02603,CH026,GIS,No,0.25
+REQ02701,CH027,IoT,Yes,0.45
+REQ02702,CH027,Data Analytics,Yes,0.3
+REQ02703,CH027,Water Monitoring,No,0.25
+REQ02801,CH028,IoT,Yes,0.45
+REQ02802,CH028,Mobile Development,Yes,0.3
+REQ02803,CH028,Workflow Automation,No,0.25
+REQ02901,CH029,GIS,Yes,0.45
+REQ02902,CH029,Data Analytics,Yes,0.3
+REQ02903,CH029,Remote Sensing,No,0.25
+REQ03001,CH030,Data Analytics,Yes,0.45
+REQ03002,CH030,Workflow Automation,Yes,0.3
+REQ03003,CH030,GIS,No,0.25
+REQ03101,CH031,GIS,Yes,0.45
+REQ03102,CH031,Mobile Development,Yes,0.3
+REQ03103,CH031,IoT,No,0.25
+REQ03201,CH032,Data Analytics,Yes,0.45
+REQ03202,CH032,Mobile Development,Yes,0.3
+REQ03203,CH032,Waste Management,No,0.25
+REQ03301,CH033,Workflow Automation,Yes,0.45
+REQ03302,CH033,Mobile Development,Yes,0.3
+REQ03303,CH033,GIS,No,0.25
+REQ03401,CH034,Data Analytics,Yes,0.45
+REQ03402,CH034,Predictive Analytics,Yes,0.3
+REQ03403,CH034,Waste Management,No,0.25
+REQ03501,CH035,Citizen Engagement,Yes,0.45
+REQ03502,CH035,Workflow Automation,Yes,0.3
+REQ03503,CH035,Mobile Development,No,0.25
+REQ03601,CH036,IoT,Yes,0.45
+REQ03602,CH036,Data Analytics,Yes,0.3
+REQ03603,CH036,Environmental Monitoring,No,0.25
+REQ03701,CH037,Mobile Development,Yes,0.45
+REQ03702,CH037,Computer Vision,Yes,0.3
+REQ03703,CH037,GIS,No,0.25
+REQ03801,CH038,IoT,Yes,0.45
+REQ03802,CH038,Citizen Engagement,Yes,0.3
+REQ03803,CH038,Data Analytics,No,0.25
+REQ03901,CH039,Data Analytics,Yes,0.45
+REQ03902,CH039,IoT,Yes,0.3
+REQ03903,CH039,Workflow Automation,No,0.25
+REQ04001,CH040,NLP,Yes,0.45
+REQ04002,CH040,Citizen Engagement,Yes,0.3
+REQ04003,CH040,GIS,No,0.25
+REQ04101,CH041,GIS,Yes,0.45
+REQ04102,CH041,Remote Sensing,Yes,0.3
+REQ04103,CH041,Predictive Analytics,No,0.25
+REQ04201,CH042,IoT,Yes,0.45
+REQ04202,CH042,Data Analytics,Yes,0.3
+REQ04203,CH042,Cloud,No,0.25
+REQ04301,CH043,IoT,Yes,0.45
+REQ04302,CH043,Workflow Automation,Yes,0.3
+REQ04303,CH043,Mobile Development,No,0.25
+REQ04401,CH044,GIS,Yes,0.45
+REQ04402,CH044,Data Analytics,Yes,0.3
+REQ04403,CH044,Predictive Analytics,No,0.25
+REQ04501,CH045,Workflow Automation,Yes,0.45
+REQ04502,CH045,Citizen Engagement,Yes,0.3
+REQ04503,CH045,Mobile Development,No,0.25
+REQ04601,CH046,Data Analytics,Yes,0.45
+REQ04602,CH046,GIS,Yes,0.3
+REQ04603,CH046,Workflow Automation,No,0.25
+REQ04701,CH047,Mobile Development,Yes,0.45
+REQ04702,CH047,GIS,Yes,0.3
+REQ04703,CH047,Cloud,No,0.25
+REQ04801,CH048,Mobile Development,Yes,0.45
+REQ04802,CH048,Computer Vision,Yes,0.3
+REQ04803,CH048,GIS,No,0.25
+REQ04901,CH049,Workflow Automation,Yes,0.45
+REQ04902,CH049,Mobile Development,Yes,0.3
+REQ04903,CH049,GIS,No,0.25
+REQ05001,CH050,Workflow Automation,Yes,0.45
+REQ05002,CH050,Data Analytics,Yes,0.3
+REQ05003,CH050,Mobile Development,No,0.25
+REQ05101,CH051,Remote Sensing,Yes,0.45
+REQ05102,CH051,GIS,Yes,0.3
+REQ05103,CH051,Agritech,No,0.25
+REQ05201,CH052,Mobile Development,Yes,0.45
+REQ05202,CH052,NLP,Yes,0.3
+REQ05203,CH052,Agritech,No,0.25
+REQ05301,CH053,NLP,Yes,0.45
+REQ05302,CH053,Workflow Automation,Yes,0.3
+REQ05303,CH053,Mobile Development,No,0.25
+REQ05401,CH054,GIS,Yes,0.45
+REQ05402,CH054,Data Analytics,Yes,0.3
+REQ05403,CH054,Agritech,No,0.25
+REQ05501,CH055,Predictive Analytics,Yes,0.45
+REQ05502,CH055,Remote Sensing,Yes,0.3
+REQ05503,CH055,Agritech,No,0.25
+REQ05601,CH056,Mobile Development,Yes,0.45
+REQ05602,CH056,GIS,Yes,0.3
+REQ05603,CH056,Agritech,No,0.25
+REQ05701,CH057,IoT,Yes,0.45
+REQ05702,CH057,GIS,Yes,0.3
+REQ05703,CH057,Data Analytics,No,0.25
+REQ05801,CH058,GIS,Yes,0.45
+REQ05802,CH058,Data Analytics,Yes,0.3
+REQ05803,CH058,Predictive Analytics,No,0.25
+REQ05901,CH059,Citizen Engagement,Yes,0.45
+REQ05902,CH059,Workflow Automation,Yes,0.3
+REQ05903,CH059,Mobile Development,No,0.25
+REQ06001,CH060,Web Development,Yes,0.45
+REQ06002,CH060,Workflow Automation,Yes,0.3
+REQ06003,CH060,Data Analytics,No,0.25
+REQ06101,CH061,Remote Sensing,Yes,0.45
+REQ06102,CH061,Computer Vision,Yes,0.3
+REQ06103,CH061,Agritech,No,0.25
+REQ06201,CH062,Agritech,Yes,0.45
+REQ06202,CH062,Mobile Development,Yes,0.3
+REQ06203,CH062,Predictive Analytics,No,0.25
+REQ06301,CH063,Remote Sensing,Yes,0.45
+REQ06302,CH063,GIS,Yes,0.3
+REQ06303,CH063,Predictive Analytics,No,0.25
+REQ06401,CH064,Data Analytics,Yes,0.45
+REQ06402,CH064,Web Development,Yes,0.3
+REQ06403,CH064,Agritech,No,0.25
+REQ06501,CH065,IoT,Yes,0.45
+REQ06502,CH065,Mobile Development,Yes,0.3
+REQ06503,CH065,Data Analytics,No,0.25
+REQ06601,CH066,Workflow Automation,Yes,0.45
+REQ06602,CH066,Mobile Development,Yes,0.3
+REQ06603,CH066,Healthcare Technology,No,0.25
+REQ06701,CH067,Data Analytics,Yes,0.45
+REQ06702,CH067,Workflow Automation,Yes,0.3
+REQ06703,CH067,Healthcare Technology,No,0.25
+REQ06801,CH068,Data Analytics,Yes,0.45
+REQ06802,CH068,Predictive Analytics,Yes,0.3
+REQ06803,CH068,Healthcare Technology,No,0.25
+REQ06901,CH069,Mobile Development,Yes,0.45
+REQ06902,CH069,GIS,Yes,0.3
+REQ06903,CH069,Workflow Automation,No,0.25
+REQ07001,CH070,NLP,Yes,0.45
+REQ07002,CH070,Citizen Engagement,Yes,0.3
+REQ07003,CH070,Healthcare Technology,No,0.25
+REQ07101,CH071,Workflow Automation,Yes,0.45
+REQ07102,CH071,Mobile Development,Yes,0.3
+REQ07103,CH071,Healthcare Technology,No,0.25
+REQ07201,CH072,Data Analytics,Yes,0.45
+REQ07202,CH072,Workflow Automation,Yes,0.3
+REQ07203,CH072,Healthcare Technology,No,0.25
+REQ07301,CH073,IoT,Yes,0.45
+REQ07302,CH073,Workflow Automation,Yes,0.3
+REQ07303,CH073,Healthcare Technology,No,0.25
+REQ07401,CH074,Data Analytics,Yes,0.45
+REQ07402,CH074,Mobile Development,Yes,0.3
+REQ07403,CH074,Healthcare Technology,No,0.25
+REQ07501,CH075,Mobile Development,Yes,0.45
+REQ07502,CH075,Workflow Automation,Yes,0.3
+REQ07503,CH075,Healthcare Technology,No,0.25
+REQ07601,CH076,Data Analytics,Yes,0.45
+REQ07602,CH076,Predictive Analytics,Yes,0.3
+REQ07603,CH076,Healthcare Technology,No,0.25
+REQ07701,CH077,GIS,Yes,0.45
+REQ07702,CH077,Data Analytics,Yes,0.3
+REQ07703,CH077,Healthcare Technology,No,0.25
+REQ07801,CH078,Workflow Automation,Yes,0.45
+REQ07802,CH078,Mobile Development,Yes,0.3
+REQ07803,CH078,GIS,No,0.25
+REQ07901,CH079,Workflow Automation,Yes,0.45
+REQ07902,CH079,Healthcare Technology,Yes,0.3
+REQ07903,CH079,Mobile Development,No,0.25
+REQ08001,CH080,Data Analytics,Yes,0.45
+REQ08002,CH080,Mobile Development,Yes,0.3
+REQ08003,CH080,Healthcare Technology,No,0.25
+REQ08101,CH081,Data Analytics,Yes,0.45
+REQ08102,CH081,Predictive Analytics,Yes,0.3
+REQ08103,CH081,Edtech,No,0.25
+REQ08201,CH082,Data Analytics,Yes,0.45
+REQ08202,CH082,Edtech,Yes,0.3
+REQ08203,CH082,NLP,No,0.25
+REQ08301,CH083,Workflow Automation,Yes,0.45
+REQ08302,CH083,Mobile Development,Yes,0.3
+REQ08303,CH083,Edtech,No,0.25
+REQ08401,CH084,Data Analytics,Yes,0.45
+REQ08402,CH084,Web Development,Yes,0.3
+REQ08403,CH084,Edtech,No,0.25
+REQ08501,CH085,Workflow Automation,Yes,0.45
+REQ08502,CH085,Data Analytics,Yes,0.3
+REQ08503,CH085,Edtech,No,0.25
+REQ08601,CH086,Mobile Development,Yes,0.45
+REQ08602,CH086,Data Analytics,Yes,0.3
+REQ08603,CH086,Edtech,No,0.25
+REQ08701,CH087,Data Analytics,Yes,0.45
+REQ08702,CH087,Workflow Automation,Yes,0.3
+REQ08703,CH087,Edtech,No,0.25
+REQ08801,CH088,Matching,Yes,0.45
+REQ08802,CH088,Data Analytics,Yes,0.3
+REQ08803,CH088,Web Development,No,0.25
+REQ08901,CH089,Citizen Engagement,Yes,0.45
+REQ08902,CH089,Data Analytics,Yes,0.3
+REQ08903,CH089,Edtech,No,0.25
+REQ09001,CH090,NLP,Yes,0.45
+REQ09002,CH090,Data Analytics,Yes,0.3
+REQ09003,CH090,Web Development,No,0.25
+REQ09101,CH091,Mobile Development,Yes,0.45
+REQ09102,CH091,Data Analytics,Yes,0.3
+REQ09103,CH091,Citizen Engagement,No,0.25
+REQ09201,CH092,Data Analytics,Yes,0.45
+REQ09202,CH092,Predictive Analytics,Yes,0.3
+REQ09203,CH092,Healthcare Technology,No,0.25
+REQ09301,CH093,Workflow Automation,Yes,0.45
+REQ09302,CH093,Mobile Development,Yes,0.3
+REQ09303,CH093,Cybersecurity,No,0.25
+REQ09401,CH094,Workflow Automation,Yes,0.45
+REQ09402,CH094,Mobile Development,Yes,0.3
+REQ09403,CH094,Citizen Engagement,No,0.25
+REQ09501,CH095,Data Analytics,Yes,0.45
+REQ09502,CH095,Mobile Development,Yes,0.3
+REQ09503,CH095,Citizen Engagement,No,0.25
+REQ09601,CH096,Mobile Development,Yes,0.45
+REQ09602,CH096,GIS,Yes,0.3
+REQ09603,CH096,Workflow Automation,No,0.25
+REQ09701,CH097,GIS,Yes,0.45
+REQ09702,CH097,Mobile Development,Yes,0.3
+REQ09703,CH097,Remote Sensing,No,0.25
+REQ09801,CH098,Data Analytics,Yes,0.45
+REQ09802,CH098,GIS,Yes,0.3
+REQ09803,CH098,Workflow Automation,No,0.25
+REQ09901,CH099,Mobile Development,Yes,0.45
+REQ09902,CH099,IoT,Yes,0.3
+REQ09903,CH099,Water Monitoring,No,0.25
+REQ10001,CH100,Citizen Engagement,Yes,0.45
+REQ10002,CH100,Workflow Automation,Yes,0.3
+REQ10003,CH100,Mobile Development,No,0.25
+REQ10101,CH101,Data Analytics,Yes,0.45
+REQ10102,CH101,IoT,Yes,0.3
+REQ10103,CH101,Tourism Technology,No,0.25
+REQ10201,CH102,Mobile Development,Yes,0.45
+REQ10202,CH102,Workflow Automation,Yes,0.3
+REQ10203,CH102,Citizen Engagement,No,0.25
+REQ10301,CH103,GIS,Yes,0.45
+REQ10302,CH103,Mobile Development,Yes,0.3
+REQ10303,CH103,Accessibility,No,0.25
+REQ10401,CH104,Data Analytics,Yes,0.45
+REQ10402,CH104,IoT,Yes,0.3
+REQ10403,CH104,Tourism Technology,No,0.25
+REQ10501,CH105,NLP,Yes,0.45
+REQ10502,CH105,Citizen Engagement,Yes,0.3
+REQ10503,CH105,Data Analytics,No,0.25
+REQ10601,CH106,GIS,Yes,0.45
+REQ10602,CH106,Mobile Development,Yes,0.3
+REQ10603,CH106,Environmental Monitoring,No,0.25
+REQ10701,CH107,Remote Sensing,Yes,0.45
+REQ10702,CH107,GIS,Yes,0.3
+REQ10703,CH107,Environmental Monitoring,No,0.25
+REQ10801,CH108,Data Analytics,Yes,0.45
+REQ10802,CH108,GIS,Yes,0.3
+REQ10803,CH108,Environmental Monitoring,No,0.25
+REQ10901,CH109,Mobile Development,Yes,0.45
+REQ10902,CH109,GIS,Yes,0.3
+REQ10903,CH109,Environmental Monitoring,No,0.25
+REQ11001,CH110,GIS,Yes,0.45
+REQ11002,CH110,Data Analytics,Yes,0.3
+REQ11003,CH110,Predictive Analytics,No,0.25
+REQ11101,CH111,IoT,Yes,0.45
+REQ11102,CH111,Data Analytics,Yes,0.3
+REQ11103,CH111,Renewable Energy,No,0.25
+REQ11201,CH112,Data Analytics,Yes,0.45
+REQ11202,CH112,GIS,Yes,0.3
+REQ11203,CH112,Renewable Energy,No,0.25
+REQ11301,CH113,IoT,Yes,0.45
+REQ11302,CH113,Data Analytics,Yes,0.3
+REQ11303,CH113,Renewable Energy,No,0.25
+REQ11401,CH114,Workflow Automation,Yes,0.45
+REQ11402,CH114,Data Analytics,Yes,0.3
+REQ11403,CH114,Renewable Energy,No,0.25
+REQ11501,CH115,IoT,Yes,0.45
+REQ11502,CH115,Data Analytics,Yes,0.3
+REQ11503,CH115,Renewable Energy,No,0.25
+REQ11601,CH116,Data Analytics,Yes,0.45
+REQ11602,CH116,IoT,Yes,0.3
+REQ11603,CH116,Predictive Analytics,No,0.25
+REQ11701,CH117,IoT,Yes,0.45
+REQ11702,CH117,Predictive Analytics,Yes,0.3
+REQ11703,CH117,Energy,No,0.25
+REQ11801,CH118,IoT,Yes,0.45
+REQ11802,CH118,Workflow Automation,Yes,0.3
+REQ11803,CH118,Energy,No,0.25
+REQ11901,CH119,Data Analytics,Yes,0.45
+REQ11902,CH119,Workflow Automation,Yes,0.3
+REQ11903,CH119,Energy,No,0.25
+REQ12001,CH120,Workflow Automation,Yes,0.45
+REQ12002,CH120,Citizen Engagement,Yes,0.3
+REQ12003,CH120,Mobile Development,No,0.25
+REQ12101,CH121,Cybersecurity,Yes,0.45
+REQ12102,CH121,Cloud,Yes,0.3
+REQ12103,CH121,Workflow Automation,No,0.25
+REQ12201,CH122,Cybersecurity,Yes,0.45
+REQ12202,CH122,Workflow Automation,Yes,0.3
+REQ12203,CH122,Data Analytics,No,0.25
+REQ12301,CH123,Cybersecurity,Yes,0.45
+REQ12302,CH123,Data Analytics,Yes,0.3
+REQ12303,CH123,Cloud,No,0.25
+REQ12401,CH124,Cybersecurity,Yes,0.45
+REQ12402,CH124,Data Analytics,Yes,0.3
+REQ12403,CH124,Web Development,No,0.25
+REQ12501,CH125,Cybersecurity,Yes,0.45
+REQ12502,CH125,Cloud,Yes,0.3
+REQ12503,CH125,Workflow Automation,No,0.25
+REQ12601,CH126,Data Analytics,Yes,0.45
+REQ12602,CH126,Workflow Automation,Yes,0.3
+REQ12603,CH126,Web Development,No,0.25
+REQ12701,CH127,NLP,Yes,0.45
+REQ12702,CH127,Data Analytics,Yes,0.3
+REQ12703,CH127,Workflow Automation,No,0.25
+REQ12801,CH128,NLP,Yes,0.45
+REQ12802,CH128,Workflow Automation,Yes,0.3
+REQ12803,CH128,OCR,No,0.25
+REQ12901,CH129,Data Analytics,Yes,0.45
+REQ12902,CH129,Web Development,Yes,0.3
+REQ12903,CH129,Data Governance,No,0.25
+REQ13001,CH130,Accessibility,Yes,0.45
+REQ13002,CH130,Web Development,Yes,0.3
+REQ13003,CH130,Mobile Development,No,0.25
+REQ13101,CH131,NLP,Yes,0.45
+REQ13102,CH131,Workflow Automation,Yes,0.3
+REQ13103,CH131,Citizen Engagement,No,0.25
+REQ13201,CH132,GIS,Yes,0.45
+REQ13202,CH132,Data Analytics,Yes,0.3
+REQ13203,CH132,Citizen Engagement,No,0.25
+REQ13301,CH133,Workflow Automation,Yes,0.45
+REQ13302,CH133,Data Analytics,Yes,0.3
+REQ13303,CH133,Citizen Engagement,No,0.25
+REQ13401,CH134,NLP,Yes,0.45
+REQ13402,CH134,Data Analytics,Yes,0.3
+REQ13403,CH134,Citizen Engagement,No,0.25
+REQ13501,CH135,Citizen Engagement,Yes,0.45
+REQ13502,CH135,Mobile Development,Yes,0.3
+REQ13503,CH135,Data Analytics,No,0.25
+REQ13601,CH136,GIS,Yes,0.45
+REQ13602,CH136,Mobile Development,Yes,0.3
+REQ13603,CH136,Workflow Automation,No,0.25
+REQ13701,CH137,Computer Vision,Yes,0.45
+REQ13702,CH137,GIS,Yes,0.3
+REQ13703,CH137,Data Analytics,No,0.25
+REQ13801,CH138,Workflow Automation,Yes,0.45
+REQ13802,CH138,Mobile Development,Yes,0.3
+REQ13803,CH138,Cybersecurity,No,0.25
+REQ13901,CH139,GIS,Yes,0.45
+REQ13902,CH139,Citizen Engagement,Yes,0.3
+REQ13903,CH139,Data Analytics,No,0.25
+REQ14001,CH140,GIS,Yes,0.45
+REQ14002,CH140,Predictive Analytics,Yes,0.3
+REQ14003,CH140,Mobile Development,No,0.25
+REQ14101,CH141,Accessibility,Yes,0.45
+REQ14102,CH141,Mobile Development,Yes,0.3
+REQ14103,CH141,GIS,No,0.25
+REQ14201,CH142,GIS,Yes,0.45
+REQ14202,CH142,Accessibility,Yes,0.3
+REQ14203,CH142,Mobile Development,No,0.25
+REQ14301,CH143,Accessibility,Yes,0.45
+REQ14302,CH143,Workflow Automation,Yes,0.3
+REQ14303,CH143,Citizen Engagement,No,0.25
+REQ14401,CH144,Accessibility,Yes,0.45
+REQ14402,CH144,Web Development,Yes,0.3
+REQ14403,CH144,Workflow Automation,No,0.25
+REQ14501,CH145,Mobile Development,Yes,0.45
+REQ14502,CH145,GIS,Yes,0.3
+REQ14503,CH145,Accessibility,No,0.25
+REQ14601,CH146,Data Analytics,Yes,0.45
+REQ14602,CH146,Mobile Development,Yes,0.3
+REQ14603,CH146,Workflow Automation,No,0.25
+REQ14701,CH147,GIS,Yes,0.45
+REQ14702,CH147,Mobile Development,Yes,0.3
+REQ14703,CH147,Data Analytics,No,0.25
+REQ14801,CH148,NLP,Yes,0.45
+REQ14802,CH148,Workflow Automation,Yes,0.3
+REQ14803,CH148,Citizen Engagement,No,0.25
+REQ14901,CH149,IoT,Yes,0.45
+REQ14902,CH149,Data Analytics,Yes,0.3
+REQ14903,CH149,Cloud,No,0.25
+REQ15001,CH150,Data Analytics,Yes,0.45
+REQ15002,CH150,Predictive Analytics,Yes,0.3
+REQ15003,CH150,Workflow Automation,No,0.25
+CH00101,CH001,Computer Vision,Yes,0.5
+CH00102,CH001,Gis,Yes,0.5

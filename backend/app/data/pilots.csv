@@ -1,0 +1,6 @@
+pilot_id,challenge_id,startup_id,location,duration_days,status
+PIL001,CH001,ST001,Pune,90,In Progress
+PIL002,CH002,ST002,Nashik,120,In Progress
+PIL003,CH003,ST003,Nagpur,90,Completed
+PIL004,CH004,ST004,Mumbai,120,In Progress
+PIL005,CH006,ST006,Pune,120,Completed

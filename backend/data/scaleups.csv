@@ -1,0 +1,21 @@
+﻿scaleup_id,source_pilot_id,source_department_id,adopting_department_id,startup_id,reuse_reason,budget,status,created_date
+SCU001,P001,D005,D007,S0149,Prototype validated KPI and similar Maharashtra service context,10440000,Planned,2026-09-23
+SCU002,P002,D003,D006,S0371,Prototype validated KPI and similar Maharashtra service context,13050000,Planned,2026-09-19
+SCU003,P004,D006,D010,S0315,Prototype validated KPI and similar Maharashtra service context,6960000,Approved,2026-09-15
+SCU004,P006,D016,D021,S0259,Prototype validated KPI and similar Maharashtra service context,6960000,Planned,2026-09-11
+SCU005,P008,D031,D005,S0203,Prototype validated KPI and similar Maharashtra service context,8700000,Planned,2026-09-07
+SCU006,P010,D018,D025,S0147,Prototype validated KPI and similar Maharashtra service context,8700000,Approved,2026-09-03
+SCU007,P011,D028,D004,S0369,Prototype validated KPI and similar Maharashtra service context,11310000,Planned,2026-08-30
+SCU008,P012,D027,D004,S0091,Prototype validated KPI and similar Maharashtra service context,6090000,Planned,2026-08-26
+SCU009,P016,D010,D020,S0479,Prototype validated KPI and similar Maharashtra service context,7830000,Approved,2026-08-22
+SCU010,P017,D009,D020,S0201,Prototype validated KPI and similar Maharashtra service context,11310000,Planned,2026-08-18
+SCU011,P022,D014,D026,S0311,Prototype validated KPI and similar Maharashtra service context,11310000,Planned,2026-08-14
+SCU012,P023,D009,D022,S0033,Prototype validated KPI and similar Maharashtra service context,8700000,Approved,2026-08-10
+SCU013,P024,D011,D025,S0255,Prototype validated KPI and similar Maharashtra service context,9570000,Planned,2026-08-06
+SCU014,P025,D014,D029,S0477,Prototype validated KPI and similar Maharashtra service context,11310000,Planned,2026-08-02
+SCU015,P028,D016,D032,S0143,Prototype validated KPI and similar Maharashtra service context,7830000,Approved,2026-07-29
+SCU016,P029,D006,D023,S0365,Prototype validated KPI and similar Maharashtra service context,6960000,Planned,2026-07-25
+SCU017,P032,D007,D025,S0031,Prototype validated KPI and similar Maharashtra service context,7830000,Planned,2026-07-21
+SCU018,P033,D031,D018,S0253,Prototype validated KPI and similar Maharashtra service context,8700000,Approved,2026-07-17
+SCU019,P034,D001,D021,S0475,Prototype validated KPI and similar Maharashtra service context,5220000,Planned,2026-07-13
+SCU020,P035,D018,D007,S0197,Prototype validated KPI and similar Maharashtra service context,8700000,Planned,2026-07-09

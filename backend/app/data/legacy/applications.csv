@@ -1,0 +1,11 @@
+application_id,startup_id,challenge_id,status
+APP001,ST001,CH001,Shortlisted
+APP002,ST002,CH002,Shortlisted
+APP003,ST003,CH003,Shortlisted
+APP004,ST004,CH004,Shortlisted
+APP005,ST005,CH005,Under Review
+APP006,ST006,CH006,Submitted
+APP007,ST007,CH007,Shortlisted
+APP008,ST008,CH008,Submitted
+APP009,ST009,CH009,Under Review
+APP010,ST010,CH010,Shortlisted

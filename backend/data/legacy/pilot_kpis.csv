@@ -1,0 +1,37 @@
+pilot_id,metric,target,actual,unit,status
+P001,Detection accuracy,90,89,%,Below Target
+P001,Response time,30,14,min,Met
+P001,Coverage,90,98,%,Met
+P002,Detection accuracy,90,83,%,Below Target
+P002,Response time,30,32,min,Below Target
+P002,Coverage,90,89,%,Below Target
+P003,Detection accuracy,90,78,%,Below Target
+P003,Response time,30,13,min,Met
+P003,Coverage,90,72,%,Below Target
+P004,Detection accuracy,90,77,%,Below Target
+P004,Response time,30,13,min,Met
+P004,Coverage,90,94,%,Met
+P005,Detection accuracy,90,91,%,Met
+P005,Response time,30,29,min,Met
+P005,Coverage,90,88,%,Below Target
+P006,Detection accuracy,90,71,%,Below Target
+P006,Response time,30,23,min,Met
+P006,Coverage,90,85,%,Below Target
+P007,Detection accuracy,90,86,%,Below Target
+P007,Response time,30,40,min,Below Target
+P007,Coverage,90,78,%,Below Target
+P008,Detection accuracy,90,75,%,Below Target
+P008,Response time,30,39,min,Below Target
+P008,Coverage,90,90,%,Met
+P009,Detection accuracy,90,96,%,Met
+P009,Response time,30,43,min,Below Target
+P009,Coverage,90,72,%,Below Target
+P010,Detection accuracy,90,85,%,Below Target
+P010,Response time,30,34,min,Below Target
+P010,Coverage,90,83,%,Below Target
+P011,Detection accuracy,90,80,%,Below Target
+P011,Response time,30,32,min,Below Target
+P011,Coverage,90,91,%,Met
+P012,Detection accuracy,90,73,%,Below Target
+P012,Response time,30,22,min,Met
+P012,Coverage,90,80,%,Below Target

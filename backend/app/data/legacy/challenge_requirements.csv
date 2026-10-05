@@ -1,0 +1,151 @@
+challenge_id,requirement,weight
+CH001,Computer Vision,35
+CH001,AI/ML,30
+CH001,GIS,15
+CH002,IoT,35
+CH002,Sensors,25
+CH002,Machine Learning,25
+CH003,Computer Vision,35
+CH003,AI/ML,30
+CH003,Remote Sensing,25
+CH004,AI/ML,30
+CH004,Computer Vision,35
+CH004,Analytics,25
+CH005,AI/ML,30
+CH005,Analytics,25
+CH005,Data Platform,25
+CH006,IoT,35
+CH006,Sensors,25
+CH006,Analytics,25
+CH007,Natural Language Processing,30
+CH007,AI/ML,30
+CH007,Analytics,25
+CH008,AI/ML,30
+CH008,NLP,30
+CH008,Document Intelligence,25
+CH009,AI/ML,30
+CH009,IoT,35
+CH009,Predictive Analytics,30
+CH010,IoT,35
+CH010,Energy Analytics,30
+CH010,Automation,20
+CH011,Computer Vision,35
+CH011,IoT,35
+CH011,Analytics,25
+CH012,IoT,35
+CH012,Analytics,25
+CH012,Traceability,25
+CH013,IoT,35
+CH013,Sensors,25
+CH013,Analytics,25
+CH014,Data Analytics,25
+CH014,AI/ML,30
+CH014,Dashboard,25
+CH015,GIS,15
+CH015,Remote Sensing,25
+CH015,AI/ML,30
+CH016,IoT,35
+CH016,Sensors,25
+CH016,Analytics,25
+CH017,IoT,35
+CH017,Sensors,25
+CH017,AI/ML,30
+CH018,IoT,35
+CH018,Analytics,25
+CH018,Traceability,25
+CH019,IoT,35
+CH019,Sensors,25
+CH019,Analytics,25
+CH020,Computer Vision,35
+CH020,Sensors,25
+CH020,Analytics,25
+CH021,IoT,35
+CH021,RFID,25
+CH021,Analytics,25
+CH022,Cloud,25
+CH022,Workflow Automation,30
+CH022,Analytics,25
+CH023,APIs,20
+CH023,Data Integration,30
+CH023,Analytics,25
+CH024,AI/ML,30
+CH024,Learning Analytics,30
+CH024,Content Platform,25
+CH025,AI/ML,30
+CH025,Analytics,25
+CH025,Assessment,25
+CH026,Telemedicine,30
+CH026,Cloud,25
+CH026,Analytics,25
+CH027,Accessibility,30
+CH027,Digital Platform,30
+CH027,Analytics,25
+CH028,AI/ML,30
+CH028,Analytics,25
+CH028,Digital Platform,30
+CH029,Digital Platform,30
+CH029,Analytics,25
+CH029,Recommendation,25
+CH030,AI/ML,30
+CH030,Analytics,25
+CH030,Forecasting,30
+CH031,Digital Platform,30
+CH031,GIS,15
+CH031,Analytics,25
+CH032,AR/VR,35
+CH032,Computer Vision,35
+CH032,Digital Platform,30
+CH033,IoT,35
+CH033,Sensors,25
+CH033,Analytics,25
+CH034,Laboratory Informatics,30
+CH034,Analytics,25
+CH034,Automation,20
+CH035,Computer Vision,35
+CH035,Sensors,25
+CH035,AI/ML,30
+CH036,Drones,30
+CH036,Computer Vision,35
+CH036,GIS,15
+CH037,IoT,35
+CH037,GPS,25
+CH037,Analytics,25
+CH038,AI/ML,30
+CH038,Route Optimisation,30
+CH038,Analytics,25
+CH039,Computer Vision,35
+CH039,GIS,15
+CH039,Analytics,25
+CH040,Mobile Platform,25
+CH040,Workflow Automation,30
+CH040,Analytics,25
+CH041,Analytics,25
+CH041,AI/ML,30
+CH041,Digital Platform,30
+CH042,IoT,35
+CH042,Analytics,25
+CH042,Computer Vision,35
+CH043,AR/VR,35
+CH043,Simulation,25
+CH043,Analytics,25
+CH044,3D Modelling,30
+CH044,GIS,15
+CH044,Digital Platform,30
+CH045,Digital Asset Management,30
+CH045,Search,20
+CH045,Analytics,25
+CH046,AI/ML,30
+CH046,Matching,30
+CH046,Analytics,25
+CH047,IoT,35
+CH047,Sensors,25
+CH047,Device Management,30
+CH048,Computer Vision,35
+CH048,Analytics,25
+CH048,Mobile Platform,25
+CH049,Digital Platform,30
+CH049,Accessibility,30
+CH049,Analytics,25
+CH050,RFID,25
+CH050,Inventory Management,25
+CH050,Analytics,25

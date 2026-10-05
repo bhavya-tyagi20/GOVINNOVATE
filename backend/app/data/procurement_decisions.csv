@@ -1,0 +1,5 @@
+decision_id,pilot_id,decision,reason,status
+PR001,PIL001,SCALE,Pilot KPI performance above target; validation passed,Recommended
+PR002,PIL002,ITERATE,Most KPIs positive; improve detection reliability,Conditional
+PR003,PIL003,SCALE,Successful pilot and independent validation,Recommended
+PR004,PIL005,SCALE,Performance above target,Recommended

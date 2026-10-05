@@ -1,0 +1,13 @@
+pilot_id,challenge_id,startup_id,pilot_location,status,progress,start_date,end_date
+P001,C003,S004,Dispur,At Risk,63,2026-02-05,2027-02-05
+P002,C005,S007,Raipur,At Risk,54,2026-03-05,2027-03-05
+P003,C007,S010,Gandhinagar,Completed,53,2026-04-05,2027-04-05
+P004,C009,S013,Shimla,In Progress,42,2026-05-05,2027-05-05
+P005,C011,S016,Bengaluru,In Progress,74,2026-06-05,2027-06-05
+P006,C013,S019,Bhopal,At Risk,71,2026-07-05,2027-07-05
+P007,C015,S022,Imphal,Completed,50,2026-08-05,2027-08-05
+P008,C017,S025,Aizawl,Completed,73,2026-01-05,2027-01-05
+P009,C019,S028,Bhubaneswar,At Risk,86,2026-02-05,2027-02-05
+P010,C021,S031,Jaipur,Completed,99,2026-03-05,2027-03-05
+P011,C023,S034,Chennai,At Risk,98,2026-04-05,2027-04-05
+P012,C025,S037,Agartala,Completed,45,2026-05-05,2027-05-05

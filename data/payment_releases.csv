@@ -1,0 +1,62 @@
+﻿payment_release_id,milestone_id,pilot_id,amount,release_status,release_date,workflow_label
+PAY0001,MS0014,P001,1305000,Released,2026-10-31,Prototype Payment Workflow / Escrow Simulation
+PAY0002,MS0023,P002,1631250,Released,2025-10-16,Prototype Payment Workflow / Escrow Simulation
+PAY0003,MS0032,P003,978750,Released,2026-02-23,Prototype Payment Workflow / Escrow Simulation
+PAY0004,MS0041,P004,870000,Released,2026-09-25,Prototype Payment Workflow / Escrow Simulation
+PAY0005,MS0044,P004,870000,Released,2026-12-14,Prototype Payment Workflow / Escrow Simulation
+PAY0006,MS0064,P006,870000,Pending Review,2026-05-27,Prototype Payment Workflow / Escrow Simulation
+PAY0007,MS0073,P007,978750,Released,2025-07-01,Prototype Payment Workflow / Escrow Simulation
+PAY0008,MS0082,P008,1087500,Pending Review,2025-12-08,Prototype Payment Workflow / Escrow Simulation
+PAY0009,MS0084,P008,1087500,Released,2026-02-04,Prototype Payment Workflow / Escrow Simulation
+PAY0010,MS0091,P009,652500,Released,2026-04-19,Prototype Payment Workflow / Escrow Simulation
+PAY0011,MS0114,P011,1413750,Released,2026-04-12,Prototype Payment Workflow / Escrow Simulation
+PAY0012,MS0123,P012,761250,Released,2026-07-31,Prototype Payment Workflow / Escrow Simulation
+PAY0013,MS0124,P012,761250,Pending Review,2026-09-06,Prototype Payment Workflow / Escrow Simulation
+PAY0014,MS0132,P013,1196250,Released,2025-08-15,Prototype Payment Workflow / Escrow Simulation
+PAY0015,MS0141,P014,870000,Released,2026-01-14,Prototype Payment Workflow / Escrow Simulation
+PAY0016,MS0164,P016,978750,Released,2025-11-06,Prototype Payment Workflow / Escrow Simulation
+PAY0017,MS0173,P017,1413750,Released,2026-05-27,Prototype Payment Workflow / Escrow Simulation
+PAY0018,MS0182,P018,1305000,Released,2025-05-20,Prototype Payment Workflow / Escrow Simulation
+PAY0019,MS0191,P019,652500,Released,2025-09-29,Prototype Payment Workflow / Escrow Simulation
+PAY0020,MS0204,P020,1305000,Released,2026-10-06,Prototype Payment Workflow / Escrow Simulation
+PAY0021,MS0214,P021,1305000,Pending Review,2025-08-11,Prototype Payment Workflow / Escrow Simulation
+PAY0022,MS0223,P022,1413750,Released,2026-01-18,Prototype Payment Workflow / Escrow Simulation
+PAY0023,MS0232,P023,1087500,Pending Review,2026-08-16,Prototype Payment Workflow / Escrow Simulation
+PAY0024,MS0241,P024,1196250,Released,2025-07-07,Prototype Payment Workflow / Escrow Simulation
+PAY0025,MS0244,P024,1196250,Pending Review,2025-09-17,Prototype Payment Workflow / Escrow Simulation
+PAY0026,MS0264,P026,1305000,Released,2026-10-30,Prototype Payment Workflow / Escrow Simulation
+PAY0027,MS0273,P027,1631250,Released,2025-10-15,Prototype Payment Workflow / Escrow Simulation
+PAY0028,MS0282,P028,978750,Released,2026-02-22,Prototype Payment Workflow / Escrow Simulation
+PAY0029,MS0291,P029,870000,Released,2026-07-26,Prototype Payment Workflow / Escrow Simulation
+PAY0030,MS0314,P031,870000,Released,2026-05-26,Prototype Payment Workflow / Escrow Simulation
+PAY0031,MS0323,P032,978750,Released,2025-06-30,Prototype Payment Workflow / Escrow Simulation
+PAY0032,MS0324,P032,978750,Released,2025-07-29,Prototype Payment Workflow / Escrow Simulation
+PAY0033,MS0332,P033,1087500,Released,2025-12-07,Prototype Payment Workflow / Escrow Simulation
+PAY0034,MS0341,P034,652500,Released,2026-04-18,Prototype Payment Workflow / Escrow Simulation
+PAY0035,MS0364,P036,1413750,Pending Review,2026-04-19,Prototype Payment Workflow / Escrow Simulation
+PAY0036,MS0373,P037,761250,Released,2026-08-07,Prototype Payment Workflow / Escrow Simulation
+PAY0037,MS0382,P038,1196250,Pending Review,2025-08-22,Prototype Payment Workflow / Escrow Simulation
+PAY0038,MS0391,P039,870000,Released,2026-01-21,Prototype Payment Workflow / Escrow Simulation
+PAY0039,MS0404,P040,870000,Released,2026-09-12,Prototype Payment Workflow / Escrow Simulation
+PAY0040,MS0414,P041,978750,Released,2025-11-05,Prototype Payment Workflow / Escrow Simulation
+PAY0041,MS0423,P042,1413750,Released,2026-05-26,Prototype Payment Workflow / Escrow Simulation
+PAY0042,MS0432,P043,1305000,Released,2025-05-19,Prototype Payment Workflow / Escrow Simulation
+PAY0043,MS0441,P044,652500,Released,2025-09-28,Prototype Payment Workflow / Escrow Simulation
+PAY0044,MS0444,P044,652500,Released,2025-12-10,Prototype Payment Workflow / Escrow Simulation
+PAY0045,MS0464,P046,1305000,Released,2025-08-10,Prototype Payment Workflow / Escrow Simulation
+PAY0046,MS0473,P047,1413750,Released,2026-01-17,Prototype Payment Workflow / Escrow Simulation
+PAY0047,MS0482,P048,1087500,Released,2026-08-15,Prototype Payment Workflow / Escrow Simulation
+PAY0048,MS0484,P048,1087500,Pending Review,2026-10-12,Prototype Payment Workflow / Escrow Simulation
+PAY0049,MS0491,P049,1196250,Released,2025-07-06,Prototype Payment Workflow / Escrow Simulation
+PAY0050,MS0514,P051,1305000,Pending Review,2026-10-29,Prototype Payment Workflow / Escrow Simulation
+PAY0051,MS0523,P052,1631250,Released,2025-10-14,Prototype Payment Workflow / Escrow Simulation
+PAY0052,MS0524,P052,1631250,Released,2025-11-20,Prototype Payment Workflow / Escrow Simulation
+PAY0053,MS0532,P053,978750,Pending Review,2026-02-21,Prototype Payment Workflow / Escrow Simulation
+PAY0054,MS0541,P054,870000,Released,2026-09-23,Prototype Payment Workflow / Escrow Simulation
+PAY0055,MS0564,P056,870000,Released,2026-05-25,Prototype Payment Workflow / Escrow Simulation
+PAY0056,MS0573,P057,978750,Released,2025-06-29,Prototype Payment Workflow / Escrow Simulation
+PAY0057,MS0582,P058,1087500,Released,2025-12-06,Prototype Payment Workflow / Escrow Simulation
+PAY0058,MS0591,P059,652500,Released,2026-04-17,Prototype Payment Workflow / Escrow Simulation
+PAY0059,MS0604,P060,1087500,Pending Review,2025-09-11,Prototype Payment Workflow / Escrow Simulation
+PAY0060,MS0011,P001,1305000,Released,2026-09-27,Prototype Payment Workflow / Escrow Simulation
+PAY0061,P0611,P061,1087500,Released,2026-09-27,Prototype Payment Workflow / Escrow Simulation

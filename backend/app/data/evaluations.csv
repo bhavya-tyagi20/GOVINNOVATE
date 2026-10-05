@@ -1,0 +1,11 @@
+evaluation_id,application_id,technical_score,innovation_score,scalability_score,security_score,overall_score,decision
+EV001,APP001,92,88,90,86,89,Shortlisted
+EV002,APP002,90,85,88,90,88,Shortlisted
+EV003,APP003,91,90,87,88,89,Shortlisted
+EV004,APP004,89,86,91,87,89,Shortlisted
+EV005,APP005,84,88,82,90,86,Under Review
+EV006,APP006,86,91,84,85,87,Shortlisted
+EV007,APP007,88,84,89,86,87,Shortlisted
+EV008,APP008,90,87,86,89,88,Shortlisted
+EV009,APP009,85,89,88,87,87,Under Review
+EV010,APP010,87,85,90,88,88,Shortlisted

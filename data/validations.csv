@@ -1,0 +1,62 @@
+﻿validation_id,pilot_id,expert_id,metric,target,actual,result,validation_date,comments
+VAL001,P001,E035,Water Leakage Detection,85,93,PASS,2026-09-14,Independent prototype validation; validator differs from original application evaluator.
+VAL002,P002,E022,School Attendance,88,93,PASS,2025-09-24,Independent prototype validation; validator differs from original application evaluator.
+VAL003,P003,E009,Route Reliability,90,80,FAIL,2026-02-11,Independent prototype validation; validator differs from original application evaluator.
+VAL004,P004,E056,Citizen Satisfaction,80,88,PASS,2026-10-23,Independent prototype validation; validator differs from original application evaluator.
+VAL005,P005,E043,Energy Consumption,85,90,FAIL,2025-11-03,Independent prototype validation; validator differs from original application evaluator.
+VAL006,P006,E030,Hospital Waiting Time,60,50,PASS,2026-03-23,Independent prototype validation; validator differs from original application evaluator.
+VAL007,P007,E017,Response Time,30,38,FAIL,2025-05-22,Independent prototype validation; validator differs from original application evaluator.
+VAL008,P008,E004,Water Leakage Detection,85,90,PASS,2025-12-13,Independent prototype validation; validator differs from original application evaluator.
+VAL009,P009,E051,Waste Collection Efficiency,90,80,FAIL,2026-05-02,Independent prototype validation; validator differs from original application evaluator.
+VAL010,P010,E038,Route Reliability,90,98,PASS,2025-07-01,Independent prototype validation; validator differs from original application evaluator.
+VAL011,P011,E025,Citizen Satisfaction,80,85,PASS,2026-01-22,Independent prototype validation; validator differs from original application evaluator.
+VAL012,P012,E012,Resolution Time,36,26,PASS,2026-06-11,Independent prototype validation; validator differs from original application evaluator.
+VAL013,P013,E059,Hospital Waiting Time,60,68,FAIL,2025-08-10,Independent prototype validation; validator differs from original application evaluator.
+VAL014,P014,E046,Response Time,30,35,FAIL,2026-03-03,Independent prototype validation; validator differs from original application evaluator.
+VAL015,P015,E033,Detection Accuracy,90,80,FAIL,2026-07-21,Independent prototype validation; validator differs from original application evaluator.
+VAL016,P016,E020,Waste Collection Efficiency,90,98,PASS,2025-09-19,Independent prototype validation; validator differs from original application evaluator.
+VAL017,P017,E007,Route Reliability,90,95,PASS,2026-04-12,Independent prototype validation; validator differs from original application evaluator.
+VAL018,P018,E054,Data Availability,95,85,FAIL,2025-04-27,Independent prototype validation; validator differs from original application evaluator.
+VAL019,P019,E041,Resolution Time,36,44,FAIL,2025-10-29,Independent prototype validation; validator differs from original application evaluator.
+VAL020,P020,E028,Hospital Waiting Time,60,65,FAIL,2026-07-11,Independent prototype validation; validator differs from original application evaluator.
+VAL021,P021,E015,School Attendance,88,76,FAIL,2025-06-06,Independent prototype validation; validator differs from original application evaluator.
+VAL022,P022,E002,Detection Accuracy,90,98,PASS,2025-12-08,Independent prototype validation; validator differs from original application evaluator.
+VAL023,P023,E049,Waste Collection Efficiency,90,95,PASS,2026-08-20,Independent prototype validation; validator differs from original application evaluator.
+VAL024,P024,E036,Energy Consumption,85,75,PASS,2025-07-16,Independent prototype validation; validator differs from original application evaluator.
+VAL025,P025,E023,Data Availability,95,103,PASS,2026-01-17,Independent prototype validation; validator differs from original application evaluator.
+VAL026,P026,E010,Resolution Time,36,41,FAIL,2026-09-29,Independent prototype validation; validator differs from original application evaluator.
+VAL027,P027,E057,Water Leakage Detection,85,75,FAIL,2025-08-25,Independent prototype validation; validator differs from original application evaluator.
+VAL028,P028,E044,School Attendance,88,96,PASS,2026-02-26,Independent prototype validation; validator differs from original application evaluator.
+VAL029,P029,E031,Detection Accuracy,90,95,PASS,2026-09-08,Independent prototype validation; validator differs from original application evaluator.
+VAL030,P030,E018,Citizen Satisfaction,80,70,FAIL,2025-10-04,Independent prototype validation; validator differs from original application evaluator.
+VAL031,P031,E005,Energy Consumption,85,93,FAIL,2026-04-07,Independent prototype validation; validator differs from original application evaluator.
+VAL032,P032,E052,Data Availability,95,100,PASS,2025-06-06,Independent prototype validation; validator differs from original application evaluator.
+VAL033,P033,E039,Response Time,30,20,PASS,2025-11-13,Independent prototype validation; validator differs from original application evaluator.
+VAL034,P034,E026,Water Leakage Detection,85,93,PASS,2026-05-17,Independent prototype validation; validator differs from original application evaluator.
+VAL035,P035,E013,School Attendance,88,93,PASS,2025-07-16,Independent prototype validation; validator differs from original application evaluator.
+VAL036,P036,E060,Route Reliability,90,80,FAIL,2025-12-23,Independent prototype validation; validator differs from original application evaluator.
+VAL037,P037,E047,Citizen Satisfaction,80,88,PASS,2026-06-26,Independent prototype validation; validator differs from original application evaluator.
+VAL038,P038,E034,Energy Consumption,85,90,FAIL,2025-08-25,Independent prototype validation; validator differs from original application evaluator.
+VAL039,P039,E021,Hospital Waiting Time,60,50,PASS,2026-02-01,Independent prototype validation; validator differs from original application evaluator.
+VAL040,P040,E008,Response Time,30,38,FAIL,2026-08-05,Independent prototype validation; validator differs from original application evaluator.
+VAL041,P041,E055,Water Leakage Detection,85,90,PASS,2025-10-04,Independent prototype validation; validator differs from original application evaluator.
+VAL042,P042,E042,Waste Collection Efficiency,90,78,FAIL,2026-03-13,Independent prototype validation; validator differs from original application evaluator.
+VAL043,P043,E029,Route Reliability,90,98,PASS,2025-05-12,Independent prototype validation; validator differs from original application evaluator.
+VAL044,P044,E016,Citizen Satisfaction,80,85,PASS,2025-11-13,Independent prototype validation; validator differs from original application evaluator.
+VAL045,P045,E003,Resolution Time,36,26,PASS,2026-06-11,Independent prototype validation; validator differs from original application evaluator.
+VAL046,P046,E050,Hospital Waiting Time,60,68,FAIL,2025-06-21,Independent prototype validation; validator differs from original application evaluator.
+VAL047,P047,E037,Response Time,30,35,FAIL,2025-12-23,Independent prototype validation; validator differs from original application evaluator.
+VAL048,P048,E024,Detection Accuracy,90,80,FAIL,2026-07-21,Independent prototype validation; validator differs from original application evaluator.
+VAL049,P049,E011,Waste Collection Efficiency,90,98,PASS,2025-07-31,Independent prototype validation; validator differs from original application evaluator.
+VAL050,P050,E058,Route Reliability,90,95,PASS,2026-02-01,Independent prototype validation; validator differs from original application evaluator.
+VAL051,P051,E045,Data Availability,95,85,FAIL,2026-08-30,Independent prototype validation; validator differs from original application evaluator.
+VAL052,P052,E032,Resolution Time,36,44,FAIL,2025-09-09,Independent prototype validation; validator differs from original application evaluator.
+VAL053,P053,E019,Hospital Waiting Time,60,65,FAIL,2026-03-13,Independent prototype validation; validator differs from original application evaluator.
+VAL054,P054,E006,School Attendance,88,78,FAIL,2026-10-08,Independent prototype validation; validator differs from original application evaluator.
+VAL055,P055,E053,Detection Accuracy,90,98,PASS,2025-10-19,Independent prototype validation; validator differs from original application evaluator.
+VAL056,P056,E040,Waste Collection Efficiency,90,95,PASS,2026-04-22,Independent prototype validation; validator differs from original application evaluator.
+VAL057,P057,E027,Energy Consumption,85,75,PASS,2025-05-07,Independent prototype validation; validator differs from original application evaluator.
+VAL058,P058,E014,Data Availability,95,103,PASS,2025-11-28,Independent prototype validation; validator differs from original application evaluator.
+VAL059,P059,E001,Resolution Time,36,41,FAIL,2026-06-01,Independent prototype validation; validator differs from original application evaluator.
+VAL060,P060,E048,Water Leakage Detection,85,75,FAIL,2025-06-16,Independent prototype validation; validator differs from original application evaluator.
+VAL061,P061,E003,Response Time,30.0,24.0,PASS,2026-09-27,Independent end-to-end validation.

@@ -1,0 +1,37 @@
+application_id,challenge_id,startup_id,status,submitted_on,notes
+A001,C003,S004,Pilot Selected,2026-02-02,Prototype application record
+A002,C005,S007,Under Review,2026-03-03,Prototype application record
+A003,C007,S010,Under Review,2026-04-04,Prototype application record
+A004,C009,S013,Under Review,2026-05-05,Prototype application record
+A005,C011,S016,Rejected,2026-06-06,Prototype application record
+A006,C013,S019,Shortlisted,2026-07-07,Prototype application record
+A007,C015,S022,Pilot Selected,2026-08-08,Prototype application record
+A008,C017,S025,Pilot Selected,2026-09-09,Prototype application record
+A009,C019,S028,Pilot Selected,2026-01-10,Prototype application record
+A010,C021,S031,Shortlisted,2026-02-11,Prototype application record
+A011,C023,S034,Submitted,2026-03-12,Prototype application record
+A012,C025,S037,Under Review,2026-04-13,Prototype application record
+A013,C027,S040,Shortlisted,2026-05-14,Prototype application record
+A014,C029,S043,Under Review,2026-06-15,Prototype application record
+A015,C031,S046,Shortlisted,2026-07-16,Prototype application record
+A016,C033,S049,Under Review,2026-08-17,Prototype application record
+A017,C035,S052,Shortlisted,2026-09-18,Prototype application record
+A018,C037,S055,Submitted,2026-01-19,Prototype application record
+A019,C039,S058,Pilot Selected,2026-02-20,Prototype application record
+A020,C041,S061,Under Review,2026-03-21,Prototype application record
+A021,C043,S064,Shortlisted,2026-04-22,Prototype application record
+A022,C045,S067,Submitted,2026-05-23,Prototype application record
+A023,C047,S070,Submitted,2026-06-24,Prototype application record
+A024,C049,S073,Pilot Selected,2026-07-25,Prototype application record
+A025,C051,S076,Shortlisted,2026-08-01,Prototype application record
+A026,C053,S079,Under Review,2026-09-02,Prototype application record
+A027,C055,S082,Rejected,2026-01-03,Prototype application record
+A028,C057,S085,Submitted,2026-02-04,Prototype application record
+A029,C059,S088,Submitted,2026-03-05,Prototype application record
+A030,C001,S091,Pilot Selected,2026-04-06,Prototype application record
+A031,C001,S001,Submitted,2026-09-15,Submitted from Startup Opportunity Hub
+A032,C002,S001,Submitted,2026-09-15,Submitted from Startup Opportunity Hub
+A033,C001,S001,Submitted,2026-09-15,Submitted from Startup Opportunity Hub
+A034,C001,S001,Submitted,2026-09-16,Submitted from Startup Opportunity Hub
+A035,C001,S001,Submitted,2026-09-16,Submitted from challenge detail
+A036,C004,S001,Submitted,2026-09-17,Submitted from Startup Opportunity Hub

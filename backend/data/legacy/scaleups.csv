@@ -1,0 +1,8 @@
+scaleup_id,pilot_id,scale_state,status,target_units
+SU001,P001,Gandhinagar,In Progress,96
+SU002,P002,Chandigarh,In Progress,145
+SU003,P003,Shimla,Planning,134
+SU004,P004,Ranchi,In Progress,143
+SU005,P005,Bengaluru,Approved,105
+SU006,P006,Thiruvananthapuram,In Progress,116
+SU007,P007,Bhopal,Approved,102

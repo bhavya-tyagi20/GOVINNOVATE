@@ -1,0 +1,19 @@
+expert_id,expert_name,domain,state,availability,conflict_status
+E001,Expert Panel Member 01,Water,Arunachal Pradesh,Limited,Clear
+E002,Expert Panel Member 02,Health,Assam,Limited,Clear
+E003,Expert Panel Member 03,Agriculture,Bihar,Limited,Clear
+E004,Expert Panel Member 04,Education,Chhattisgarh,Limited,Clear
+E005,Expert Panel Member 05,Mobility,Goa,Limited,Clear
+E006,Expert Panel Member 06,Energy,Gujarat,Available,Clear
+E007,Expert Panel Member 07,Environment,Haryana,Available,Clear
+E008,Expert Panel Member 08,Public Safety,Himachal Pradesh,Limited,Clear
+E009,Expert Panel Member 09,Governance,Jharkhand,Limited,Clear
+E010,Expert Panel Member 10,Tourism,Karnataka,Available,Clear
+E011,Expert Panel Member 11,Waste Management,Kerala,Available,Clear
+E012,Expert Panel Member 12,Infrastructure,Madhya Pradesh,Limited,Clear
+E013,Expert Panel Member 13,Water,Maharashtra,Limited,Clear
+E014,Expert Panel Member 14,Health,Manipur,Available,Clear
+E015,Expert Panel Member 15,Agriculture,Meghalaya,Assigned,Clear
+E016,Expert Panel Member 16,Education,Mizoram,Assigned,Clear
+E017,Expert Panel Member 17,Mobility,Nagaland,Assigned,Clear
+E018,Expert Panel Member 18,Energy,Odisha,Available,Clear

@@ -1,0 +1,11 @@
+milestone_id,pilot_id,milestone_name,status,completion_percent
+M001,PIL001,Prototype deployed,Completed,100
+M002,PIL001,10 vehicles connected,Completed,100
+M003,PIL001,"50,000 images processed",In Progress,70
+M004,PIL001,Accuracy target achieved,Pending,0
+M005,PIL001,Independent validation,Pending,0
+M006,PIL002,Sensor deployment,Completed,100
+M007,PIL002,Pipeline monitoring,In Progress,60
+M008,PIL003,Field trial,Completed,100
+M009,PIL003,Independent validation,Completed,100
+M010,PIL004,Fleet integration,In Progress,75

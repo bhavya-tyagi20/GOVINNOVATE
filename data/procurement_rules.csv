@@ -1,0 +1,4 @@
+rule_id,rule
+PR001,Security gate before pilot In Progress
+PR002,Independent validation before scale-up
+PR003,Milestone approval before prototype payment release

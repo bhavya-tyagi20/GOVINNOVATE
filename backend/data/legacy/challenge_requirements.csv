@@ -1,0 +1,241 @@
+challenge_id,requirement_id,requirement,mandatory
+C001,C001-R1,GIS,Yes
+C001,C001-R2,AI,Yes
+C001,C001-R3,Drones,Preferred
+C001,C001-R4,Geospatial,Preferred
+C002,C002-R1,Digital Twin,Yes
+C002,C002-R2,IoT,Yes
+C002,C002-R3,Mobile,Preferred
+C002,C002-R4,Analytics,Preferred
+C003,C003-R1,Sensors,Yes
+C003,C003-R2,Drones,Yes
+C003,C003-R3,Cybersecurity,Preferred
+C003,C003-R4,Robotics,Preferred
+C004,C004-R1,Computer Vision,Yes
+C004,C004-R2,NLP,Yes
+C004,C004-R3,Analytics,Preferred
+C004,C004-R4,AI,Preferred
+C005,C005-R1,Robotics,Yes
+C005,C005-R2,Blockchain,Yes
+C005,C005-R3,Mobile,Preferred
+C005,C005-R4,Geospatial,Preferred
+C006,C006-R1,IoT,Yes
+C006,C006-R2,Sensors,Yes
+C006,C006-R3,NLP,Preferred
+C006,C006-R4,GIS,Preferred
+C007,C007-R1,Sensors,Yes
+C007,C007-R2,AI,Yes
+C007,C007-R3,Cybersecurity,Preferred
+C007,C007-R4,Mobile,Preferred
+C008,C008-R1,IoT,Yes
+C008,C008-R2,Drones,Yes
+C008,C008-R3,Robotics,Preferred
+C008,C008-R4,NLP,Preferred
+C009,C009-R1,Blockchain,Yes
+C009,C009-R2,Analytics,Yes
+C009,C009-R3,Cybersecurity,Preferred
+C009,C009-R4,Digital Twin,Preferred
+C010,C010-R1,Blockchain,Yes
+C010,C010-R2,Analytics,Yes
+C010,C010-R3,Cybersecurity,Preferred
+C010,C010-R4,Computer Vision,Preferred
+C011,C011-R1,Sensors,Yes
+C011,C011-R2,Drones,Yes
+C011,C011-R3,Blockchain,Preferred
+C011,C011-R4,Computer Vision,Preferred
+C012,C012-R1,Digital Twin,Yes
+C012,C012-R2,AI,Yes
+C012,C012-R3,Analytics,Preferred
+C012,C012-R4,Mobile,Preferred
+C013,C013-R1,NLP,Yes
+C013,C013-R2,Drones,Yes
+C013,C013-R3,Robotics,Preferred
+C013,C013-R4,Cloud,Preferred
+C014,C014-R1,GIS,Yes
+C014,C014-R2,Cybersecurity,Yes
+C014,C014-R3,Cloud,Preferred
+C014,C014-R4,Blockchain,Preferred
+C015,C015-R1,Analytics,Yes
+C015,C015-R2,Cybersecurity,Yes
+C015,C015-R3,Drones,Preferred
+C015,C015-R4,Mobile,Preferred
+C016,C016-R1,Drones,Yes
+C016,C016-R2,Analytics,Yes
+C016,C016-R3,GIS,Preferred
+C016,C016-R4,Mobile,Preferred
+C017,C017-R1,GIS,Yes
+C017,C017-R2,Cloud,Yes
+C017,C017-R3,NLP,Preferred
+C017,C017-R4,IoT,Preferred
+C018,C018-R1,NLP,Yes
+C018,C018-R2,GIS,Yes
+C018,C018-R3,Blockchain,Preferred
+C018,C018-R4,Mobile,Preferred
+C019,C019-R1,GIS,Yes
+C019,C019-R2,Computer Vision,Yes
+C019,C019-R3,Drones,Preferred
+C019,C019-R4,Blockchain,Preferred
+C020,C020-R1,GIS,Yes
+C020,C020-R2,Computer Vision,Yes
+C020,C020-R3,Mobile,Preferred
+C020,C020-R4,Blockchain,Preferred
+C021,C021-R1,GIS,Yes
+C021,C021-R2,Digital Twin,Yes
+C021,C021-R3,IoT,Preferred
+C021,C021-R4,Cloud,Preferred
+C022,C022-R1,Cybersecurity,Yes
+C022,C022-R2,Geospatial,Yes
+C022,C022-R3,NLP,Preferred
+C022,C022-R4,Robotics,Preferred
+C023,C023-R1,Geospatial,Yes
+C023,C023-R2,Cybersecurity,Yes
+C023,C023-R3,Sensors,Preferred
+C023,C023-R4,Digital Twin,Preferred
+C024,C024-R1,Digital Twin,Yes
+C024,C024-R2,Cloud,Yes
+C024,C024-R3,Geospatial,Preferred
+C024,C024-R4,Analytics,Preferred
+C025,C025-R1,Mobile,Yes
+C025,C025-R2,Geospatial,Yes
+C025,C025-R3,Cybersecurity,Preferred
+C025,C025-R4,Cloud,Preferred
+C026,C026-R1,IoT,Yes
+C026,C026-R2,Blockchain,Yes
+C026,C026-R3,Analytics,Preferred
+C026,C026-R4,GIS,Preferred
+C027,C027-R1,Geospatial,Yes
+C027,C027-R2,Cybersecurity,Yes
+C027,C027-R3,IoT,Preferred
+C027,C027-R4,Computer Vision,Preferred
+C028,C028-R1,Blockchain,Yes
+C028,C028-R2,Computer Vision,Yes
+C028,C028-R3,Geospatial,Preferred
+C028,C028-R4,GIS,Preferred
+C029,C029-R1,Robotics,Yes
+C029,C029-R2,Cybersecurity,Yes
+C029,C029-R3,Cloud,Preferred
+C029,C029-R4,Sensors,Preferred
+C030,C030-R1,Sensors,Yes
+C030,C030-R2,Mobile,Yes
+C030,C030-R3,NLP,Preferred
+C030,C030-R4,Blockchain,Preferred
+C031,C031-R1,Cloud,Yes
+C031,C031-R2,AI,Yes
+C031,C031-R3,Robotics,Preferred
+C031,C031-R4,Analytics,Preferred
+C032,C032-R1,Blockchain,Yes
+C032,C032-R2,Geospatial,Yes
+C032,C032-R3,Cybersecurity,Preferred
+C032,C032-R4,NLP,Preferred
+C033,C033-R1,Analytics,Yes
+C033,C033-R2,Sensors,Yes
+C033,C033-R3,Cloud,Preferred
+C033,C033-R4,AI,Preferred
+C034,C034-R1,Drones,Yes
+C034,C034-R2,Mobile,Yes
+C034,C034-R3,Sensors,Preferred
+C034,C034-R4,Blockchain,Preferred
+C035,C035-R1,NLP,Yes
+C035,C035-R2,Cybersecurity,Yes
+C035,C035-R3,AI,Preferred
+C035,C035-R4,Sensors,Preferred
+C036,C036-R1,Sensors,Yes
+C036,C036-R2,Computer Vision,Yes
+C036,C036-R3,Cloud,Preferred
+C036,C036-R4,Digital Twin,Preferred
+C037,C037-R1,Robotics,Yes
+C037,C037-R2,GIS,Yes
+C037,C037-R3,Cloud,Preferred
+C037,C037-R4,Geospatial,Preferred
+C038,C038-R1,Mobile,Yes
+C038,C038-R2,Digital Twin,Yes
+C038,C038-R3,Sensors,Preferred
+C038,C038-R4,Analytics,Preferred
+C039,C039-R1,Blockchain,Yes
+C039,C039-R2,Cybersecurity,Yes
+C039,C039-R3,AI,Preferred
+C039,C039-R4,Robotics,Preferred
+C040,C040-R1,Mobile,Yes
+C040,C040-R2,Drones,Yes
+C040,C040-R3,AI,Preferred
+C040,C040-R4,Geospatial,Preferred
+C041,C041-R1,NLP,Yes
+C041,C041-R2,Computer Vision,Yes
+C041,C041-R3,GIS,Preferred
+C041,C041-R4,Digital Twin,Preferred
+C042,C042-R1,NLP,Yes
+C042,C042-R2,GIS,Yes
+C042,C042-R3,Cloud,Preferred
+C042,C042-R4,Blockchain,Preferred
+C043,C043-R1,NLP,Yes
+C043,C043-R2,Geospatial,Yes
+C043,C043-R3,Blockchain,Preferred
+C043,C043-R4,Mobile,Preferred
+C044,C044-R1,IoT,Yes
+C044,C044-R2,NLP,Yes
+C044,C044-R3,AI,Preferred
+C044,C044-R4,Analytics,Preferred
+C045,C045-R1,GIS,Yes
+C045,C045-R2,IoT,Yes
+C045,C045-R3,NLP,Preferred
+C045,C045-R4,Blockchain,Preferred
+C046,C046-R1,Mobile,Yes
+C046,C046-R2,Analytics,Yes
+C046,C046-R3,Drones,Preferred
+C046,C046-R4,NLP,Preferred
+C047,C047-R1,Robotics,Yes
+C047,C047-R2,Cybersecurity,Yes
+C047,C047-R3,Sensors,Preferred
+C047,C047-R4,Drones,Preferred
+C048,C048-R1,Drones,Yes
+C048,C048-R2,Robotics,Yes
+C048,C048-R3,AI,Preferred
+C048,C048-R4,Sensors,Preferred
+C049,C049-R1,Robotics,Yes
+C049,C049-R2,Drones,Yes
+C049,C049-R3,Cloud,Preferred
+C049,C049-R4,Blockchain,Preferred
+C050,C050-R1,Blockchain,Yes
+C050,C050-R2,Cybersecurity,Yes
+C050,C050-R3,Drones,Preferred
+C050,C050-R4,Analytics,Preferred
+C051,C051-R1,Digital Twin,Yes
+C051,C051-R2,Blockchain,Yes
+C051,C051-R3,NLP,Preferred
+C051,C051-R4,Analytics,Preferred
+C052,C052-R1,Analytics,Yes
+C052,C052-R2,Cloud,Yes
+C052,C052-R3,GIS,Preferred
+C052,C052-R4,Digital Twin,Preferred
+C053,C053-R1,Cloud,Yes
+C053,C053-R2,Digital Twin,Yes
+C053,C053-R3,Robotics,Preferred
+C053,C053-R4,Computer Vision,Preferred
+C054,C054-R1,Mobile,Yes
+C054,C054-R2,Analytics,Yes
+C054,C054-R3,Robotics,Preferred
+C054,C054-R4,Digital Twin,Preferred
+C055,C055-R1,Cybersecurity,Yes
+C055,C055-R2,GIS,Yes
+C055,C055-R3,IoT,Preferred
+C055,C055-R4,Digital Twin,Preferred
+C056,C056-R1,Mobile,Yes
+C056,C056-R2,GIS,Yes
+C056,C056-R3,Blockchain,Preferred
+C056,C056-R4,Cloud,Preferred
+C057,C057-R1,IoT,Yes
+C057,C057-R2,Analytics,Yes
+C057,C057-R3,GIS,Preferred
+C057,C057-R4,Sensors,Preferred
+C058,C058-R1,NLP,Yes
+C058,C058-R2,Robotics,Yes
+C058,C058-R3,Cloud,Preferred
+C058,C058-R4,Cybersecurity,Preferred
+C059,C059-R1,Cybersecurity,Yes
+C059,C059-R2,Robotics,Yes
+C059,C059-R3,Digital Twin,Preferred
+C059,C059-R4,Blockchain,Preferred
+C060,C060-R1,Analytics,Yes
+C060,C060-R2,GIS,Yes
+C060,C060-R3,IoT,Preferred
+C060,C060-R4,Blockchain,Preferred

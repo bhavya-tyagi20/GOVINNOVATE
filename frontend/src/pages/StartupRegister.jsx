@@ -1,0 +1,13 @@
+import { useState } from "react";
+import { useNavigate } from "react-router-dom";
+import { registerStartup } from "../services/api";
+import { useAuth } from "../context/AuthContext";
+
+export default function StartupRegister() {
+  const navigate = useNavigate(); const { selectStartup } = useAuth();
+  const [form,setForm]=useState({startup_name:"",state:"",city:"",industry:"",sector:"",capabilities:"",solution_description:"",stage:""});
+  const [error,setError]=useState(""); const [saving,setSaving]=useState(false);
+  function update(k,v){setForm(f=>({...f,[k]:v}));}
+  async function submit(e){e.preventDefault();setSaving(true);setError("");try{const r=await registerStartup(form);selectStartup(r.startup);navigate("/startup-dashboard");}catch(e){setError(e.message)}finally{setSaving(false)}}
+  return <div className="p-8"><div className="max-w-4xl"><p className="text-xs font-semibold uppercase tracking-widest text-purple-700">Startup Onboarding</p><h1 className="mt-2 text-3xl font-bold">Register your startup</h1><p className="mt-2 text-slate-500">The registration is saved into the prototype CSV dataset and immediately becomes eligible for challenge matching.</p><form onSubmit={submit} className="mt-6 rounded-xl border bg-white p-6 shadow-sm"><div className="grid gap-4 md:grid-cols-2">{[["startup_name","Startup name"],["state","State"],["city","City"],["industry","Industry"],["sector","Sector"],["stage","Stage"]].map(([k,l])=><label key={k} className="text-sm font-medium text-slate-700">{l}<input required={k==="startup_name"} value={form[k]} onChange={e=>update(k,e.target.value)} className="mt-2 w-full rounded-lg border px-3 py-2 outline-none focus:border-purple-500" /></label>)}<label className="text-sm font-medium text-slate-700 md:col-span-2">Capabilities<input value={form.capabilities} onChange={e=>update("capabilities",e.target.value)} placeholder="AI/ML; Computer Vision; GIS" className="mt-2 w-full rounded-lg border px-3 py-2 outline-none" /></label><label className="text-sm font-medium text-slate-700 md:col-span-2">Solution description<textarea value={form.solution_description} onChange={e=>update("solution_description",e.target.value)} rows="4" className="mt-2 w-full rounded-lg border px-3 py-2 outline-none" /></label></div>{error&&<p className="mt-4 text-sm text-red-600">{error}</p>}<div className="mt-6 flex gap-3"><button disabled={saving} className="rounded-lg bg-purple-700 px-5 py-2.5 text-sm font-semibold text-white disabled:opacity-50">{saving?"Registering...":"Register Startup"}</button><button type="button" onClick={()=>navigate("/startup-dashboard")} className="rounded-lg border px-5 py-2.5 text-sm font-semibold">Cancel</button></div></form></div></div>
+}

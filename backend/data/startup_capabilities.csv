@@ -1,0 +1,2002 @@
+﻿capability_id,startup_id,capability,proficiency
+CAP000101,S0001,Machine Learning,High
+CAP000102,S0001,Accessibility,Medium
+CAP000103,S0001,Web Development,Working
+CAP000104,S0001,Remote Sensing,Working
+CAP000201,S0002,Accessibility,High
+CAP000202,S0002,Digital Payments,Medium
+CAP000203,S0002,Healthcare Technology,Working
+CAP000204,S0002,Robotics,Working
+CAP000205,S0002,Data Analytics,Working
+CAP000301,S0003,Predictive Analytics,High
+CAP000302,S0003,Data Governance,Medium
+CAP000303,S0003,Accessibility,Working
+CAP000401,S0004,Water Monitoring,High
+CAP000402,S0004,OCR,Medium
+CAP000403,S0004,Accessibility,Working
+CAP000404,S0004,GIS,Working
+CAP000501,S0005,Robotics,High
+CAP000502,S0005,Geospatial Analytics,Medium
+CAP000503,S0005,Healthcare Technology,Working
+CAP000504,S0005,Predictive Analytics,Working
+CAP000505,S0005,Cloud,Working
+CAP000601,S0006,Waste Management,High
+CAP000602,S0006,AI,Medium
+CAP000603,S0006,Edtech,Working
+CAP000701,S0007,IoT,High
+CAP000702,S0007,Digital Payments,Medium
+CAP000703,S0007,Remote Sensing,Working
+CAP000704,S0007,Cloud,Working
+CAP000801,S0008,Robotics,High
+CAP000802,S0008,Predictive Analytics,Medium
+CAP000803,S0008,Edtech,Working
+CAP000804,S0008,Computer Vision,Working
+CAP000805,S0008,Cybersecurity,Working
+CAP000901,S0009,Water Monitoring,High
+CAP000902,S0009,Geospatial Analytics,Medium
+CAP000903,S0009,Web Development,Working
+CAP001001,S0010,OCR,High
+CAP001002,S0010,Remote Sensing,Medium
+CAP001003,S0010,GIS,Working
+CAP001004,S0010,Robotics,Working
+CAP001101,S0011,Cloud,High
+CAP001102,S0011,Renewable Energy,Medium
+CAP001103,S0011,Data Analytics,Working
+CAP001104,S0011,Water Monitoring,Working
+CAP001105,S0011,Workflow Automation,Working
+CAP001201,S0012,Predictive Analytics,High
+CAP001202,S0012,Machine Learning,Medium
+CAP001203,S0012,Computer Vision,Working
+CAP001301,S0013,Remote Sensing,High
+CAP001302,S0013,Drones,Medium
+CAP001303,S0013,Predictive Analytics,Working
+CAP001304,S0013,AI,Working
+CAP001401,S0014,Machine Learning,High
+CAP001402,S0014,Edtech,Medium
+CAP001403,S0014,IoT,Working
+CAP001404,S0014,OCR,Working
+CAP001405,S0014,Accessibility,Working
+CAP001501,S0015,Mobile Development,High
+CAP001502,S0015,Waste Management,Medium
+CAP001503,S0015,Geospatial Analytics,Working
+CAP001601,S0016,Web Development,High
+CAP001602,S0016,Citizen Engagement,Medium
+CAP001603,S0016,Remote Sensing,Working
+CAP001604,S0016,Renewable Energy,Working
+CAP001701,S0017,Water Monitoring,High
+CAP001702,S0017,OCR,Medium
+CAP001703,S0017,Data Governance,Working
+CAP001704,S0017,Waste Management,Working
+CAP001705,S0017,Cybersecurity,Working
+CAP001801,S0018,Healthcare Technology,High
+CAP001802,S0018,Accessibility,Medium
+CAP001803,S0018,Data Analytics,Working
+CAP001901,S0019,Workflow Automation,High
+CAP001902,S0019,Cloud,Medium
+CAP001903,S0019,Predictive Analytics,Working
+CAP001904,S0019,IoT,Working
+CAP002001,S0020,IoT,High
+CAP002002,S0020,Predictive Analytics,Medium
+CAP002003,S0020,OCR,Working
+CAP002004,S0020,Drones,Working
+CAP002005,S0020,Data Analytics,Working
+CAP002101,S0021,Accessibility,High
+CAP002102,S0021,Predictive Analytics,Medium
+CAP002103,S0021,Cybersecurity,Working
+CAP002201,S0022,Water Monitoring,High
+CAP002202,S0022,GIS,Medium
+CAP002203,S0022,Remote Sensing,Working
+CAP002204,S0022,Cybersecurity,Working
+CAP002301,S0023,Edtech,High
+CAP002302,S0023,Web Development,Medium
+CAP002303,S0023,Renewable Energy,Working
+CAP002304,S0023,IoT,Working
+CAP002305,S0023,Digital Payments,Working
+CAP002401,S0024,Drones,High
+CAP002402,S0024,Machine Learning,Medium
+CAP002403,S0024,Mobile Development,Working
+CAP002501,S0025,GIS,High
+CAP002502,S0025,Computer Vision,Medium
+CAP002503,S0025,Healthcare Technology,Working
+CAP002504,S0025,Predictive Analytics,Working
+CAP002601,S0026,Digital Payments,High
+CAP002602,S0026,Citizen Engagement,Medium
+CAP002603,S0026,Web Development,Working
+CAP002604,S0026,OCR,Working
+CAP002605,S0026,Water Monitoring,Working
+CAP002701,S0027,Cybersecurity,High
+CAP002702,S0027,Robotics,Medium
+CAP002703,S0027,Data Analytics,Working
+CAP002801,S0028,Web Development,High
+CAP002802,S0028,Cloud,Medium
+CAP002803,S0028,OCR,Working
+CAP002804,S0028,Geospatial Analytics,Working
+CAP002901,S0029,Water Monitoring,High
+CAP002902,S0029,Predictive Analytics,Medium
+CAP002903,S0029,AI,Working
+CAP002904,S0029,Geospatial Analytics,Working
+CAP002905,S0029,Cloud,Working
+CAP003001,S0030,Web Development,High
+CAP003002,S0030,Computer Vision,Medium
+CAP003003,S0030,NLP,Working
+CAP003101,S0031,Predictive Analytics,High
+CAP003102,S0031,OCR,Medium
+CAP003103,S0031,Water Monitoring,Working
+CAP003104,S0031,Renewable Energy,Working
+CAP003201,S0032,Computer Vision,High
+CAP003202,S0032,Robotics,Medium
+CAP003203,S0032,Data Analytics,Working
+CAP003204,S0032,Water Monitoring,Working
+CAP003205,S0032,AI,Working
+CAP003301,S0033,Data Analytics,High
+CAP003302,S0033,Healthcare Technology,Medium
+CAP003303,S0033,Edtech,Working
+CAP003401,S0034,Edtech,High
+CAP003402,S0034,Agritech,Medium
+CAP003403,S0034,Accessibility,Working
+CAP003404,S0034,Workflow Automation,Working
+CAP003501,S0035,Drones,High
+CAP003502,S0035,Mobile Development,Medium
+CAP003503,S0035,Computer Vision,Working
+CAP003504,S0035,IoT,Working
+CAP003505,S0035,Agritech,Working
+CAP003601,S0036,Mobile Development,High
+CAP003602,S0036,Data Analytics,Medium
+CAP003603,S0036,Cloud,Working
+CAP003701,S0037,Edtech,High
+CAP003702,S0037,GIS,Medium
+CAP003703,S0037,Water Monitoring,Working
+CAP003704,S0037,Machine Learning,Working
+CAP003801,S0038,Agritech,High
+CAP003802,S0038,Accessibility,Medium
+CAP003803,S0038,Cloud,Working
+CAP003804,S0038,Data Analytics,Working
+CAP003805,S0038,Geospatial Analytics,Working
+CAP003901,S0039,Waste Management,High
+CAP003902,S0039,Remote Sensing,Medium
+CAP003903,S0039,Robotics,Working
+CAP004001,S0040,OCR,High
+CAP004002,S0040,Renewable Energy,Medium
+CAP004003,S0040,Remote Sensing,Working
+CAP004004,S0040,Agritech,Working
+CAP004101,S0041,Cybersecurity,High
+CAP004102,S0041,OCR,Medium
+CAP004103,S0041,Robotics,Working
+CAP004104,S0041,Citizen Engagement,Working
+CAP004105,S0041,Predictive Analytics,Working
+CAP004201,S0042,IoT,High
+CAP004202,S0042,Cybersecurity,Medium
+CAP004203,S0042,Agritech,Working
+CAP004301,S0043,AI,High
+CAP004302,S0043,Predictive Analytics,Medium
+CAP004303,S0043,Data Analytics,Working
+CAP004304,S0043,Edtech,Working
+CAP004401,S0044,Cloud,High
+CAP004402,S0044,Machine Learning,Medium
+CAP004403,S0044,Citizen Engagement,Working
+CAP004404,S0044,Data Governance,Working
+CAP004405,S0044,Digital Payments,Working
+CAP004501,S0045,Web Development,High
+CAP004502,S0045,Data Governance,Medium
+CAP004503,S0045,Cloud,Working
+CAP004601,S0046,Drones,High
+CAP004602,S0046,Renewable Energy,Medium
+CAP004603,S0046,Accessibility,Working
+CAP004604,S0046,Robotics,Working
+CAP004701,S0047,Digital Payments,High
+CAP004702,S0047,Mobile Development,Medium
+CAP004703,S0047,GIS,Working
+CAP004704,S0047,Computer Vision,Working
+CAP004705,S0047,Water Monitoring,Working
+CAP004801,S0048,OCR,High
+CAP004802,S0048,Waste Management,Medium
+CAP004803,S0048,Citizen Engagement,Working
+CAP004901,S0049,Accessibility,High
+CAP004902,S0049,Cloud,Medium
+CAP004903,S0049,Predictive Analytics,Working
+CAP004904,S0049,Geospatial Analytics,Working
+CAP005001,S0050,Accessibility,High
+CAP005002,S0050,Healthcare Technology,Medium
+CAP005003,S0050,Agritech,Working
+CAP005004,S0050,Citizen Engagement,Working
+CAP005005,S0050,Predictive Analytics,Working
+CAP005101,S0051,Workflow Automation,High
+CAP005102,S0051,Agritech,Medium
+CAP005103,S0051,Remote Sensing,Working
+CAP005201,S0052,Computer Vision,High
+CAP005202,S0052,Cloud,Medium
+CAP005203,S0052,GIS,Working
+CAP005204,S0052,Digital Payments,Working
+CAP005301,S0053,Agritech,High
+CAP005302,S0053,Data Governance,Medium
+CAP005303,S0053,Web Development,Working
+CAP005304,S0053,Healthcare Technology,Working
+CAP005305,S0053,Accessibility,Working
+CAP005401,S0054,Citizen Engagement,High
+CAP005402,S0054,Web Development,Medium
+CAP005403,S0054,IoT,Working
+CAP005501,S0055,GIS,High
+CAP005502,S0055,Edtech,Medium
+CAP005503,S0055,Renewable Energy,Working
+CAP005504,S0055,Remote Sensing,Working
+CAP005601,S0056,Renewable Energy,High
+CAP005602,S0056,Predictive Analytics,Medium
+CAP005603,S0056,Robotics,Working
+CAP005604,S0056,Mobile Development,Working
+CAP005605,S0056,NLP,Working
+CAP005701,S0057,Mobile Development,High
+CAP005702,S0057,Digital Payments,Medium
+CAP005703,S0057,Water Monitoring,Working
+CAP005801,S0058,Cybersecurity,High
+CAP005802,S0058,AI,Medium
+CAP005803,S0058,GIS,Working
+CAP005804,S0058,Edtech,Working
+CAP005901,S0059,Cloud,High
+CAP005902,S0059,Cybersecurity,Medium
+CAP005903,S0059,Drones,Working
+CAP005904,S0059,Renewable Energy,Working
+CAP005905,S0059,OCR,Working
+CAP006001,S0060,Healthcare Technology,High
+CAP006002,S0060,OCR,Medium
+CAP006003,S0060,Accessibility,Working
+CAP006101,S0061,Remote Sensing,High
+CAP006102,S0061,Cybersecurity,Medium
+CAP006103,S0061,Healthcare Technology,Working
+CAP006104,S0061,OCR,Working
+CAP006201,S0062,NLP,High
+CAP006202,S0062,Machine Learning,Medium
+CAP006203,S0062,Cybersecurity,Working
+CAP006204,S0062,AI,Working
+CAP006205,S0062,Accessibility,Working
+CAP006301,S0063,Drones,High
+CAP006302,S0063,Machine Learning,Medium
+CAP006303,S0063,Remote Sensing,Working
+CAP006401,S0064,Water Monitoring,High
+CAP006402,S0064,Computer Vision,Medium
+CAP006403,S0064,Drones,Working
+CAP006404,S0064,Workflow Automation,Working
+CAP006501,S0065,Data Governance,High
+CAP006502,S0065,Accessibility,Medium
+CAP006503,S0065,Water Monitoring,Working
+CAP006504,S0065,Machine Learning,Working
+CAP006505,S0065,Predictive Analytics,Working
+CAP006601,S0066,OCR,High
+CAP006602,S0066,Workflow Automation,Medium
+CAP006603,S0066,Cloud,Working
+CAP006701,S0067,GIS,High
+CAP006702,S0067,Waste Management,Medium
+CAP006703,S0067,Remote Sensing,Working
+CAP006704,S0067,IoT,Working
+CAP006801,S0068,Digital Payments,High
+CAP006802,S0068,Citizen Engagement,Medium
+CAP006803,S0068,IoT,Working
+CAP006804,S0068,NLP,Working
+CAP006805,S0068,Drones,Working
+CAP006901,S0069,Cybersecurity,High
+CAP006902,S0069,Edtech,Medium
+CAP006903,S0069,IoT,Working
+CAP007001,S0070,Predictive Analytics,High
+CAP007002,S0070,Workflow Automation,Medium
+CAP007003,S0070,OCR,Working
+CAP007004,S0070,Computer Vision,Working
+CAP007101,S0071,Agritech,High
+CAP007102,S0071,Cybersecurity,Medium
+CAP007103,S0071,Digital Payments,Working
+CAP007104,S0071,Predictive Analytics,Working
+CAP007105,S0071,GIS,Working
+CAP007201,S0072,Cybersecurity,High
+CAP007202,S0072,GIS,Medium
+CAP007203,S0072,NLP,Working
+CAP007301,S0073,Waste Management,High
+CAP007302,S0073,IoT,Medium
+CAP007303,S0073,Cybersecurity,Working
+CAP007304,S0073,NLP,Working
+CAP007401,S0074,Agritech,High
+CAP007402,S0074,Computer Vision,Medium
+CAP007403,S0074,OCR,Working
+CAP007404,S0074,Healthcare Technology,Working
+CAP007405,S0074,Mobile Development,Working
+CAP007501,S0075,Workflow Automation,High
+CAP007502,S0075,Data Analytics,Medium
+CAP007503,S0075,Computer Vision,Working
+CAP007601,S0076,Machine Learning,High
+CAP007602,S0076,Data Governance,Medium
+CAP007603,S0076,Mobile Development,Working
+CAP007604,S0076,Edtech,Working
+CAP007701,S0077,Mobile Development,High
+CAP007702,S0077,Data Analytics,Medium
+CAP007703,S0077,AI,Working
+CAP007704,S0077,GIS,Working
+CAP007705,S0077,Data Governance,Working
+CAP007801,S0078,Water Monitoring,High
+CAP007802,S0078,Data Analytics,Medium
+CAP007803,S0078,Machine Learning,Working
+CAP007901,S0079,Data Governance,High
+CAP007902,S0079,Agritech,Medium
+CAP007903,S0079,Remote Sensing,Working
+CAP007904,S0079,Edtech,Working
+CAP008001,S0080,Computer Vision,High
+CAP008002,S0080,Predictive Analytics,Medium
+CAP008003,S0080,Citizen Engagement,Working
+CAP008004,S0080,Healthcare Technology,Working
+CAP008005,S0080,Cloud,Working
+CAP008101,S0081,NLP,High
+CAP008102,S0081,Cloud,Medium
+CAP008103,S0081,AI,Working
+CAP008201,S0082,Digital Payments,High
+CAP008202,S0082,Cybersecurity,Medium
+CAP008203,S0082,OCR,Working
+CAP008204,S0082,Agritech,Working
+CAP008301,S0083,Agritech,High
+CAP008302,S0083,Mobile Development,Medium
+CAP008303,S0083,Renewable Energy,Working
+CAP008304,S0083,Drones,Working
+CAP008305,S0083,Edtech,Working
+CAP008401,S0084,Citizen Engagement,High
+CAP008402,S0084,Geospatial Analytics,Medium
+CAP008403,S0084,OCR,Working
+CAP008501,S0085,Citizen Engagement,High
+CAP008502,S0085,Web Development,Medium
+CAP008503,S0085,Data Governance,Working
+CAP008504,S0085,Geospatial Analytics,Working
+CAP008601,S0086,Citizen Engagement,High
+CAP008602,S0086,OCR,Medium
+CAP008603,S0086,GIS,Working
+CAP008604,S0086,Machine Learning,Working
+CAP008605,S0086,Computer Vision,Working
+CAP008701,S0087,Web Development,High
+CAP008702,S0087,Drones,Medium
+CAP008703,S0087,AI,Working
+CAP008801,S0088,Accessibility,High
+CAP008802,S0088,Citizen Engagement,Medium
+CAP008803,S0088,IoT,Working
+CAP008804,S0088,Renewable Energy,Working
+CAP008901,S0089,Water Monitoring,High
+CAP008902,S0089,Robotics,Medium
+CAP008903,S0089,Data Governance,Working
+CAP008904,S0089,NLP,Working
+CAP008905,S0089,Computer Vision,Working
+CAP009001,S0090,Digital Payments,High
+CAP009002,S0090,Accessibility,Medium
+CAP009003,S0090,Predictive Analytics,Working
+CAP009101,S0091,Computer Vision,High
+CAP009102,S0091,AI,Medium
+CAP009103,S0091,Agritech,Working
+CAP009104,S0091,Workflow Automation,Working
+CAP009201,S0092,Drones,High
+CAP009202,S0092,Agritech,Medium
+CAP009203,S0092,Geospatial Analytics,Working
+CAP009204,S0092,Data Governance,Working
+CAP009205,S0092,Cybersecurity,Working
+CAP009301,S0093,Digital Payments,High
+CAP009302,S0093,GIS,Medium
+CAP009303,S0093,Data Governance,Working
+CAP009401,S0094,Robotics,High
+CAP009402,S0094,Workflow Automation,Medium
+CAP009403,S0094,Cybersecurity,Working
+CAP009404,S0094,Cloud,Working
+CAP009501,S0095,Geospatial Analytics,High
+CAP009502,S0095,Web Development,Medium
+CAP009503,S0095,Robotics,Working
+CAP009504,S0095,Agritech,Working
+CAP009505,S0095,Data Analytics,Working
+CAP009601,S0096,Geospatial Analytics,High
+CAP009602,S0096,Citizen Engagement,Medium
+CAP009603,S0096,GIS,Working
+CAP009701,S0097,Healthcare Technology,High
+CAP009702,S0097,NLP,Medium
+CAP009703,S0097,Remote Sensing,Working
+CAP009704,S0097,Renewable Energy,Working
+CAP009801,S0098,Accessibility,High
+CAP009802,S0098,Workflow Automation,Medium
+CAP009803,S0098,Renewable Energy,Working
+CAP009804,S0098,Citizen Engagement,Working
+CAP009805,S0098,Agritech,Working
+CAP009901,S0099,Renewable Energy,High
+CAP009902,S0099,GIS,Medium
+CAP009903,S0099,Drones,Working
+CAP010001,S0100,Waste Management,High
+CAP010002,S0100,Edtech,Medium
+CAP010003,S0100,Data Analytics,Working
+CAP010004,S0100,Healthcare Technology,Working
+CAP010101,S0101,Remote Sensing,High
+CAP010102,S0101,Robotics,Medium
+CAP010103,S0101,Accessibility,Working
+CAP010104,S0101,Machine Learning,Working
+CAP010105,S0101,Agritech,Working
+CAP010201,S0102,NLP,High
+CAP010202,S0102,Data Analytics,Medium
+CAP010203,S0102,Edtech,Working
+CAP010301,S0103,Data Analytics,High
+CAP010302,S0103,IoT,Medium
+CAP010303,S0103,Cloud,Working
+CAP010304,S0103,Remote Sensing,Working
+CAP010401,S0104,Agritech,High
+CAP010402,S0104,Predictive Analytics,Medium
+CAP010403,S0104,Digital Payments,Working
+CAP010404,S0104,Robotics,Working
+CAP010405,S0104,AI,Working
+CAP010501,S0105,Data Governance,High
+CAP010502,S0105,IoT,Medium
+CAP010503,S0105,Renewable Energy,Working
+CAP010601,S0106,Water Monitoring,High
+CAP010602,S0106,Digital Payments,Medium
+CAP010603,S0106,Workflow Automation,Working
+CAP010604,S0106,Waste Management,Working
+CAP010701,S0107,Mobile Development,High
+CAP010702,S0107,Cloud,Medium
+CAP010703,S0107,Robotics,Working
+CAP010704,S0107,AI,Working
+CAP010705,S0107,Workflow Automation,Working
+CAP010801,S0108,Drones,High
+CAP010802,S0108,Robotics,Medium
+CAP010803,S0108,NLP,Working
+CAP010901,S0109,Machine Learning,High
+CAP010902,S0109,Cloud,Medium
+CAP010903,S0109,GIS,Working
+CAP010904,S0109,Mobile Development,Working
+CAP011001,S0110,Workflow Automation,High
+CAP011002,S0110,Water Monitoring,Medium
+CAP011003,S0110,IoT,Working
+CAP011004,S0110,AI,Working
+CAP011005,S0110,Agritech,Working
+CAP011101,S0111,Healthcare Technology,High
+CAP011102,S0111,Accessibility,Medium
+CAP011103,S0111,Renewable Energy,Working
+CAP011201,S0112,Edtech,High
+CAP011202,S0112,Waste Management,Medium
+CAP011203,S0112,Agritech,Working
+CAP011204,S0112,Cybersecurity,Working
+CAP011301,S0113,Citizen Engagement,High
+CAP011302,S0113,OCR,Medium
+CAP011303,S0113,Water Monitoring,Working
+CAP011304,S0113,Agritech,Working
+CAP011305,S0113,Computer Vision,Working
+CAP011401,S0114,Robotics,High
+CAP011402,S0114,Mobile Development,Medium
+CAP011403,S0114,Citizen Engagement,Working
+CAP011501,S0115,Data Analytics,High
+CAP011502,S0115,Waste Management,Medium
+CAP011503,S0115,IoT,Working
+CAP011504,S0115,Citizen Engagement,Working
+CAP011601,S0116,Data Governance,High
+CAP011602,S0116,Geospatial Analytics,Medium
+CAP011603,S0116,AI,Working
+CAP011604,S0116,Cloud,Working
+CAP011605,S0116,Renewable Energy,Working
+CAP011701,S0117,Remote Sensing,High
+CAP011702,S0117,Agritech,Medium
+CAP011703,S0117,Robotics,Working
+CAP011801,S0118,GIS,High
+CAP011802,S0118,Geospatial Analytics,Medium
+CAP011803,S0118,Predictive Analytics,Working
+CAP011804,S0118,Data Analytics,Working
+CAP011901,S0119,Web Development,High
+CAP011902,S0119,Cybersecurity,Medium
+CAP011903,S0119,Water Monitoring,Working
+CAP011904,S0119,Digital Payments,Working
+CAP011905,S0119,OCR,Working
+CAP012001,S0120,Workflow Automation,High
+CAP012002,S0120,Mobile Development,Medium
+CAP012003,S0120,Geospatial Analytics,Working
+CAP012101,S0121,Computer Vision,High
+CAP012102,S0121,Mobile Development,Medium
+CAP012103,S0121,Water Monitoring,Working
+CAP012104,S0121,Healthcare Technology,Working
+CAP012201,S0122,Remote Sensing,High
+CAP012202,S0122,Data Governance,Medium
+CAP012203,S0122,Machine Learning,Working
+CAP012204,S0122,Citizen Engagement,Working
+CAP012205,S0122,IoT,Working
+CAP012301,S0123,Remote Sensing,High
+CAP012302,S0123,Renewable Energy,Medium
+CAP012303,S0123,Cybersecurity,Working
+CAP012401,S0124,Geospatial Analytics,High
+CAP012402,S0124,OCR,Medium
+CAP012403,S0124,Machine Learning,Working
+CAP012404,S0124,AI,Working
+CAP012501,S0125,Accessibility,High
+CAP012502,S0125,Geospatial Analytics,Medium
+CAP012503,S0125,Data Governance,Working
+CAP012504,S0125,Citizen Engagement,Working
+CAP012505,S0125,Drones,Working
+CAP012601,S0126,IoT,High
+CAP012602,S0126,Healthcare Technology,Medium
+CAP012603,S0126,Data Analytics,Working
+CAP012701,S0127,Workflow Automation,High
+CAP012702,S0127,Drones,Medium
+CAP012703,S0127,Geospatial Analytics,Working
+CAP012704,S0127,Renewable Energy,Working
+CAP012801,S0128,Waste Management,High
+CAP012802,S0128,Edtech,Medium
+CAP012803,S0128,OCR,Working
+CAP012804,S0128,Drones,Working
+CAP012805,S0128,GIS,Working
+CAP012901,S0129,Renewable Energy,High
+CAP012902,S0129,Web Development,Medium
+CAP012903,S0129,Cybersecurity,Working
+CAP013001,S0130,IoT,High
+CAP013002,S0130,AI,Medium
+CAP013003,S0130,Predictive Analytics,Working
+CAP013004,S0130,Waste Management,Working
+CAP013101,S0131,Machine Learning,High
+CAP013102,S0131,IoT,Medium
+CAP013103,S0131,Geospatial Analytics,Working
+CAP013104,S0131,Drones,Working
+CAP013105,S0131,NLP,Working
+CAP013201,S0132,Cybersecurity,High
+CAP013202,S0132,Healthcare Technology,Medium
+CAP013203,S0132,Agritech,Working
+CAP013301,S0133,Citizen Engagement,High
+CAP013302,S0133,Cloud,Medium
+CAP013303,S0133,Data Analytics,Working
+CAP013304,S0133,Web Development,Working
+CAP013401,S0134,Computer Vision,High
+CAP013402,S0134,Edtech,Medium
+CAP013403,S0134,Workflow Automation,Working
+CAP013404,S0134,Healthcare Technology,Working
+CAP013405,S0134,Accessibility,Working
+CAP013501,S0135,AI,High
+CAP013502,S0135,Digital Payments,Medium
+CAP013503,S0135,Drones,Working
+CAP013601,S0136,Water Monitoring,High
+CAP013602,S0136,AI,Medium
+CAP013603,S0136,Cybersecurity,Working
+CAP013604,S0136,Robotics,Working
+CAP013701,S0137,Mobile Development,High
+CAP013702,S0137,Geospatial Analytics,Medium
+CAP013703,S0137,Healthcare Technology,Working
+CAP013704,S0137,IoT,Working
+CAP013705,S0137,Computer Vision,Working
+CAP013801,S0138,AI,High
+CAP013802,S0138,Web Development,Medium
+CAP013803,S0138,Computer Vision,Working
+CAP013901,S0139,OCR,High
+CAP013902,S0139,Digital Payments,Medium
+CAP013903,S0139,Water Monitoring,Working
+CAP013904,S0139,Citizen Engagement,Working
+CAP014001,S0140,Accessibility,High
+CAP014002,S0140,GIS,Medium
+CAP014003,S0140,Edtech,Working
+CAP014004,S0140,Robotics,Working
+CAP014005,S0140,Water Monitoring,Working
+CAP014101,S0141,OCR,High
+CAP014102,S0141,Agritech,Medium
+CAP014103,S0141,Remote Sensing,Working
+CAP014201,S0142,NLP,High
+CAP014202,S0142,Machine Learning,Medium
+CAP014203,S0142,Data Governance,Working
+CAP014204,S0142,Data Analytics,Working
+CAP014301,S0143,Geospatial Analytics,High
+CAP014302,S0143,Web Development,Medium
+CAP014303,S0143,Data Analytics,Working
+CAP014304,S0143,Cloud,Working
+CAP014305,S0143,NLP,Working
+CAP014401,S0144,Digital Payments,High
+CAP014402,S0144,Renewable Energy,Medium
+CAP014403,S0144,Geospatial Analytics,Working
+CAP014501,S0145,Cloud,High
+CAP014502,S0145,Accessibility,Medium
+CAP014503,S0145,IoT,Working
+CAP014504,S0145,Renewable Energy,Working
+CAP014601,S0146,Predictive Analytics,High
+CAP014602,S0146,Web Development,Medium
+CAP014603,S0146,Data Governance,Working
+CAP014604,S0146,Edtech,Working
+CAP014605,S0146,Accessibility,Working
+CAP014701,S0147,Web Development,High
+CAP014702,S0147,Healthcare Technology,Medium
+CAP014703,S0147,Geospatial Analytics,Working
+CAP014801,S0148,Computer Vision,High
+CAP014802,S0148,Renewable Energy,Medium
+CAP014803,S0148,Agritech,Working
+CAP014804,S0148,Remote Sensing,Working
+CAP014901,S0149,Edtech,High
+CAP014902,S0149,Cybersecurity,Medium
+CAP014903,S0149,Accessibility,Working
+CAP014904,S0149,Remote Sensing,Working
+CAP014905,S0149,Healthcare Technology,Working
+CAP015001,S0150,Remote Sensing,High
+CAP015002,S0150,IoT,Medium
+CAP015003,S0150,GIS,Working
+CAP015101,S0151,IoT,High
+CAP015102,S0151,Data Analytics,Medium
+CAP015103,S0151,Edtech,Working
+CAP015104,S0151,Data Governance,Working
+CAP015201,S0152,Drones,High
+CAP015202,S0152,Workflow Automation,Medium
+CAP015203,S0152,Data Governance,Working
+CAP015204,S0152,Water Monitoring,Working
+CAP015205,S0152,Geospatial Analytics,Working
+CAP015301,S0153,Cybersecurity,High
+CAP015302,S0153,Geospatial Analytics,Medium
+CAP015303,S0153,Machine Learning,Working
+CAP015401,S0154,Digital Payments,High
+CAP015402,S0154,Renewable Energy,Medium
+CAP015403,S0154,Water Monitoring,Working
+CAP015404,S0154,Data Governance,Working
+CAP015501,S0155,Web Development,High
+CAP015502,S0155,Waste Management,Medium
+CAP015503,S0155,GIS,Working
+CAP015504,S0155,Predictive Analytics,Working
+CAP015505,S0155,Renewable Energy,Working
+CAP015601,S0156,Drones,High
+CAP015602,S0156,Cybersecurity,Medium
+CAP015603,S0156,Digital Payments,Working
+CAP015701,S0157,Data Analytics,High
+CAP015702,S0157,Geospatial Analytics,Medium
+CAP015703,S0157,Citizen Engagement,Working
+CAP015704,S0157,Data Governance,Working
+CAP015801,S0158,Workflow Automation,High
+CAP015802,S0158,Data Analytics,Medium
+CAP015803,S0158,OCR,Working
+CAP015804,S0158,Machine Learning,Working
+CAP015805,S0158,Waste Management,Working
+CAP015901,S0159,Web Development,High
+CAP015902,S0159,Accessibility,Medium
+CAP015903,S0159,Data Analytics,Working
+CAP016001,S0160,Accessibility,High
+CAP016002,S0160,Geospatial Analytics,Medium
+CAP016003,S0160,Drones,Working
+CAP016004,S0160,AI,Working
+CAP016101,S0161,Web Development,High
+CAP016102,S0161,Water Monitoring,Medium
+CAP016103,S0161,Cybersecurity,Working
+CAP016104,S0161,Mobile Development,Working
+CAP016105,S0161,NLP,Working
+CAP016201,S0162,Cybersecurity,High
+CAP016202,S0162,NLP,Medium
+CAP016203,S0162,Robotics,Working
+CAP016301,S0163,Agritech,High
+CAP016302,S0163,Cloud,Medium
+CAP016303,S0163,Water Monitoring,Working
+CAP016304,S0163,GIS,Working
+CAP016401,S0164,Renewable Energy,High
+CAP016402,S0164,Cloud,Medium
+CAP016403,S0164,AI,Working
+CAP016404,S0164,GIS,Working
+CAP016405,S0164,OCR,Working
+CAP016501,S0165,Waste Management,High
+CAP016502,S0165,Citizen Engagement,Medium
+CAP016503,S0165,Cybersecurity,Working
+CAP016601,S0166,Renewable Energy,High
+CAP016602,S0166,Data Governance,Medium
+CAP016603,S0166,Digital Payments,Working
+CAP016604,S0166,Drones,Working
+CAP016701,S0167,NLP,High
+CAP016702,S0167,Accessibility,Medium
+CAP016703,S0167,Mobile Development,Working
+CAP016704,S0167,OCR,Working
+CAP016705,S0167,Web Development,Working
+CAP016801,S0168,Workflow Automation,High
+CAP016802,S0168,OCR,Medium
+CAP016803,S0168,Waste Management,Working
+CAP016901,S0169,Citizen Engagement,High
+CAP016902,S0169,Robotics,Medium
+CAP016903,S0169,Geospatial Analytics,Working
+CAP016904,S0169,Cloud,Working
+CAP017001,S0170,Citizen Engagement,High
+CAP017002,S0170,Renewable Energy,Medium
+CAP017003,S0170,Water Monitoring,Working
+CAP017004,S0170,Workflow Automation,Working
+CAP017005,S0170,Healthcare Technology,Working
+CAP017101,S0171,Computer Vision,High
+CAP017102,S0171,Healthcare Technology,Medium
+CAP017103,S0171,Robotics,Working
+CAP017201,S0172,Edtech,High
+CAP017202,S0172,Remote Sensing,Medium
+CAP017203,S0172,Web Development,Working
+CAP017204,S0172,Renewable Energy,Working
+CAP017301,S0173,Citizen Engagement,High
+CAP017302,S0173,NLP,Medium
+CAP017303,S0173,Data Analytics,Working
+CAP017304,S0173,Computer Vision,Working
+CAP017305,S0173,Geospatial Analytics,Working
+CAP017401,S0174,AI,High
+CAP017402,S0174,Digital Payments,Medium
+CAP017403,S0174,NLP,Working
+CAP017501,S0175,Computer Vision,High
+CAP017502,S0175,Remote Sensing,Medium
+CAP017503,S0175,Mobile Development,Working
+CAP017504,S0175,Drones,Working
+CAP017601,S0176,AI,High
+CAP017602,S0176,IoT,Medium
+CAP017603,S0176,Cloud,Working
+CAP017604,S0176,Predictive Analytics,Working
+CAP017605,S0176,Drones,Working
+CAP017701,S0177,Edtech,High
+CAP017702,S0177,IoT,Medium
+CAP017703,S0177,Drones,Working
+CAP017801,S0178,Water Monitoring,High
+CAP017802,S0178,Workflow Automation,Medium
+CAP017803,S0178,Agritech,Working
+CAP017804,S0178,OCR,Working
+CAP017901,S0179,Citizen Engagement,High
+CAP017902,S0179,Computer Vision,Medium
+CAP017903,S0179,GIS,Working
+CAP017904,S0179,Cloud,Working
+CAP017905,S0179,Remote Sensing,Working
+CAP018001,S0180,Citizen Engagement,High
+CAP018002,S0180,Remote Sensing,Medium
+CAP018003,S0180,Workflow Automation,Working
+CAP018101,S0181,NLP,High
+CAP018102,S0181,Water Monitoring,Medium
+CAP018103,S0181,Renewable Energy,Working
+CAP018104,S0181,Agritech,Working
+CAP018201,S0182,Machine Learning,High
+CAP018202,S0182,Data Governance,Medium
+CAP018203,S0182,Healthcare Technology,Working
+CAP018204,S0182,GIS,Working
+CAP018205,S0182,Web Development,Working
+CAP018301,S0183,Cybersecurity,High
+CAP018302,S0183,Digital Payments,Medium
+CAP018303,S0183,Renewable Energy,Working
+CAP018401,S0184,Workflow Automation,High
+CAP018402,S0184,Cloud,Medium
+CAP018403,S0184,Remote Sensing,Working
+CAP018404,S0184,Web Development,Working
+CAP018501,S0185,Data Analytics,High
+CAP018502,S0185,IoT,Medium
+CAP018503,S0185,Mobile Development,Working
+CAP018504,S0185,Renewable Energy,Working
+CAP018505,S0185,Machine Learning,Working
+CAP018601,S0186,Geospatial Analytics,High
+CAP018602,S0186,Accessibility,Medium
+CAP018603,S0186,Waste Management,Working
+CAP018701,S0187,Computer Vision,High
+CAP018702,S0187,Remote Sensing,Medium
+CAP018703,S0187,Edtech,Working
+CAP018704,S0187,AI,Working
+CAP018801,S0188,Renewable Energy,High
+CAP018802,S0188,Computer Vision,Medium
+CAP018803,S0188,Edtech,Working
+CAP018804,S0188,Digital Payments,Working
+CAP018805,S0188,Workflow Automation,Working
+CAP018901,S0189,Data Governance,High
+CAP018902,S0189,Cloud,Medium
+CAP018903,S0189,Waste Management,Working
+CAP019001,S0190,Remote Sensing,High
+CAP019002,S0190,Predictive Analytics,Medium
+CAP019003,S0190,Cybersecurity,Working
+CAP019004,S0190,Agritech,Working
+CAP019101,S0191,Edtech,High
+CAP019102,S0191,Data Analytics,Medium
+CAP019103,S0191,Cloud,Working
+CAP019104,S0191,Predictive Analytics,Working
+CAP019105,S0191,OCR,Working
+CAP019201,S0192,IoT,High
+CAP019202,S0192,Web Development,Medium
+CAP019203,S0192,Data Governance,Working
+CAP019301,S0193,Edtech,High
+CAP019302,S0193,Agritech,Medium
+CAP019303,S0193,Renewable Energy,Working
+CAP019304,S0193,Accessibility,Working
+CAP019401,S0194,Machine Learning,High
+CAP019402,S0194,Mobile Development,Medium
+CAP019403,S0194,Geospatial Analytics,Working
+CAP019404,S0194,Data Governance,Working
+CAP019405,S0194,Waste Management,Working
+CAP019501,S0195,Data Analytics,High
+CAP019502,S0195,Agritech,Medium
+CAP019503,S0195,IoT,Working
+CAP019601,S0196,Accessibility,High
+CAP019602,S0196,Citizen Engagement,Medium
+CAP019603,S0196,Edtech,Working
+CAP019604,S0196,Agritech,Working
+CAP019701,S0197,NLP,High
+CAP019702,S0197,Robotics,Medium
+CAP019703,S0197,Digital Payments,Working
+CAP019704,S0197,Accessibility,Working
+CAP019705,S0197,Edtech,Working
+CAP019801,S0198,Data Governance,High
+CAP019802,S0198,Water Monitoring,Medium
+CAP019803,S0198,Agritech,Working
+CAP019901,S0199,Digital Payments,High
+CAP019902,S0199,Edtech,Medium
+CAP019903,S0199,Geospatial Analytics,Working
+CAP019904,S0199,Citizen Engagement,Working
+CAP020001,S0200,Digital Payments,High
+CAP020002,S0200,Computer Vision,Medium
+CAP020003,S0200,Web Development,Working
+CAP020004,S0200,OCR,Working
+CAP020005,S0200,Citizen Engagement,Working
+CAP020101,S0201,Machine Learning,High
+CAP020102,S0201,GIS,Medium
+CAP020103,S0201,Water Monitoring,Working
+CAP020201,S0202,Citizen Engagement,High
+CAP020202,S0202,Water Monitoring,Medium
+CAP020203,S0202,Waste Management,Working
+CAP020204,S0202,Renewable Energy,Working
+CAP020301,S0203,IoT,High
+CAP020302,S0203,Digital Payments,Medium
+CAP020303,S0203,Drones,Working
+CAP020304,S0203,AI,Working
+CAP020305,S0203,OCR,Working
+CAP020401,S0204,Cloud,High
+CAP020402,S0204,Drones,Medium
+CAP020403,S0204,Machine Learning,Working
+CAP020501,S0205,Waste Management,High
+CAP020502,S0205,Predictive Analytics,Medium
+CAP020503,S0205,Healthcare Technology,Working
+CAP020504,S0205,Water Monitoring,Working
+CAP020601,S0206,Edtech,High
+CAP020602,S0206,AI,Medium
+CAP020603,S0206,Digital Payments,Working
+CAP020604,S0206,Healthcare Technology,Working
+CAP020605,S0206,Waste Management,Working
+CAP020701,S0207,Waste Management,High
+CAP020702,S0207,Cybersecurity,Medium
+CAP020703,S0207,Remote Sensing,Working
+CAP020801,S0208,Remote Sensing,High
+CAP020802,S0208,Mobile Development,Medium
+CAP020803,S0208,Citizen Engagement,Working
+CAP020804,S0208,Healthcare Technology,Working
+CAP020901,S0209,Edtech,High
+CAP020902,S0209,Geospatial Analytics,Medium
+CAP020903,S0209,Data Governance,Working
+CAP020904,S0209,Accessibility,Working
+CAP020905,S0209,Digital Payments,Working
+CAP021001,S0210,Renewable Energy,High
+CAP021002,S0210,Web Development,Medium
+CAP021003,S0210,Geospatial Analytics,Working
+CAP021101,S0211,Workflow Automation,High
+CAP021102,S0211,NLP,Medium
+CAP021103,S0211,Healthcare Technology,Working
+CAP021104,S0211,Renewable Energy,Working
+CAP021201,S0212,Citizen Engagement,High
+CAP021202,S0212,Renewable Energy,Medium
+CAP021203,S0212,Workflow Automation,Working
+CAP021204,S0212,Web Development,Working
+CAP021205,S0212,Cybersecurity,Working
+CAP021301,S0213,Remote Sensing,High
+CAP021302,S0213,Geospatial Analytics,Medium
+CAP021303,S0213,Cloud,Working
+CAP021401,S0214,Digital Payments,High
+CAP021402,S0214,Robotics,Medium
+CAP021403,S0214,Water Monitoring,Working
+CAP021404,S0214,Geospatial Analytics,Working
+CAP021501,S0215,GIS,High
+CAP021502,S0215,Citizen Engagement,Medium
+CAP021503,S0215,Machine Learning,Working
+CAP021504,S0215,Water Monitoring,Working
+CAP021505,S0215,Drones,Working
+CAP021601,S0216,Robotics,High
+CAP021602,S0216,IoT,Medium
+CAP021603,S0216,Data Governance,Working
+CAP021701,S0217,Waste Management,High
+CAP021702,S0217,Healthcare Technology,Medium
+CAP021703,S0217,Geospatial Analytics,Working
+CAP021704,S0217,IoT,Working
+CAP021801,S0218,IoT,High
+CAP021802,S0218,Geospatial Analytics,Medium
+CAP021803,S0218,Robotics,Working
+CAP021804,S0218,Healthcare Technology,Working
+CAP021805,S0218,Drones,Working
+CAP021901,S0219,GIS,High
+CAP021902,S0219,Machine Learning,Medium
+CAP021903,S0219,Robotics,Working
+CAP022001,S0220,Mobile Development,High
+CAP022002,S0220,Renewable Energy,Medium
+CAP022003,S0220,Robotics,Working
+CAP022004,S0220,Digital Payments,Working
+CAP022101,S0221,Edtech,High
+CAP022102,S0221,OCR,Medium
+CAP022103,S0221,Digital Payments,Working
+CAP022104,S0221,Drones,Working
+CAP022105,S0221,AI,Working
+CAP022201,S0222,Data Analytics,High
+CAP022202,S0222,Healthcare Technology,Medium
+CAP022203,S0222,GIS,Working
+CAP022301,S0223,Healthcare Technology,High
+CAP022302,S0223,GIS,Medium
+CAP022303,S0223,Remote Sensing,Working
+CAP022304,S0223,Cybersecurity,Working
+CAP022401,S0224,Waste Management,High
+CAP022402,S0224,AI,Medium
+CAP022403,S0224,Cybersecurity,Working
+CAP022404,S0224,Robotics,Working
+CAP022405,S0224,OCR,Working
+CAP022501,S0225,Robotics,High
+CAP022502,S0225,AI,Medium
+CAP022503,S0225,Drones,Working
+CAP022601,S0226,Healthcare Technology,High
+CAP022602,S0226,Renewable Energy,Medium
+CAP022603,S0226,IoT,Working
+CAP022604,S0226,Robotics,Working
+CAP022701,S0227,IoT,High
+CAP022702,S0227,AI,Medium
+CAP022703,S0227,Cybersecurity,Working
+CAP022704,S0227,Remote Sensing,Working
+CAP022705,S0227,Machine Learning,Working
+CAP022801,S0228,Remote Sensing,High
+CAP022802,S0228,Renewable Energy,Medium
+CAP022803,S0228,Citizen Engagement,Working
+CAP022901,S0229,Agritech,High
+CAP022902,S0229,Predictive Analytics,Medium
+CAP022903,S0229,Mobile Development,Working
+CAP022904,S0229,Data Governance,Working
+CAP023001,S0230,Drones,High
+CAP023002,S0230,Workflow Automation,Medium
+CAP023003,S0230,Machine Learning,Working
+CAP023004,S0230,Computer Vision,Working
+CAP023005,S0230,Predictive Analytics,Working
+CAP023101,S0231,Geospatial Analytics,High
+CAP023102,S0231,Mobile Development,Medium
+CAP023103,S0231,Accessibility,Working
+CAP023201,S0232,Web Development,High
+CAP023202,S0232,IoT,Medium
+CAP023203,S0232,Robotics,Working
+CAP023204,S0232,Digital Payments,Working
+CAP023301,S0233,Renewable Energy,High
+CAP023302,S0233,Data Governance,Medium
+CAP023303,S0233,Remote Sensing,Working
+CAP023304,S0233,Workflow Automation,Working
+CAP023305,S0233,Machine Learning,Working
+CAP023401,S0234,Agritech,High
+CAP023402,S0234,AI,Medium
+CAP023403,S0234,GIS,Working
+CAP023501,S0235,Digital Payments,High
+CAP023502,S0235,Citizen Engagement,Medium
+CAP023503,S0235,Machine Learning,Working
+CAP023504,S0235,Drones,Working
+CAP023601,S0236,IoT,High
+CAP023602,S0236,OCR,Medium
+CAP023603,S0236,NLP,Working
+CAP023604,S0236,Robotics,Working
+CAP023605,S0236,Workflow Automation,Working
+CAP023701,S0237,IoT,High
+CAP023702,S0237,Data Governance,Medium
+CAP023703,S0237,Workflow Automation,Working
+CAP023801,S0238,Data Governance,High
+CAP023802,S0238,GIS,Medium
+CAP023803,S0238,Edtech,Working
+CAP023804,S0238,OCR,Working
+CAP023901,S0239,Mobile Development,High
+CAP023902,S0239,Cloud,Medium
+CAP023903,S0239,Workflow Automation,Working
+CAP023904,S0239,Digital Payments,Working
+CAP023905,S0239,Data Analytics,Working
+CAP024001,S0240,Healthcare Technology,High
+CAP024002,S0240,NLP,Medium
+CAP024003,S0240,Agritech,Working
+CAP024101,S0241,OCR,High
+CAP024102,S0241,Waste Management,Medium
+CAP024103,S0241,Edtech,Working
+CAP024104,S0241,Mobile Development,Working
+CAP024201,S0242,Computer Vision,High
+CAP024202,S0242,NLP,Medium
+CAP024203,S0242,Renewable Energy,Working
+CAP024204,S0242,Drones,Working
+CAP024205,S0242,Cybersecurity,Working
+CAP024301,S0243,Cybersecurity,High
+CAP024302,S0243,Robotics,Medium
+CAP024303,S0243,Computer Vision,Working
+CAP024401,S0244,Healthcare Technology,High
+CAP024402,S0244,Geospatial Analytics,Medium
+CAP024403,S0244,Mobile Development,Working
+CAP024404,S0244,Digital Payments,Working
+CAP024501,S0245,Data Analytics,High
+CAP024502,S0245,Predictive Analytics,Medium
+CAP024503,S0245,Digital Payments,Working
+CAP024504,S0245,Accessibility,Working
+CAP024505,S0245,Data Governance,Working
+CAP024601,S0246,Renewable Energy,High
+CAP024602,S0246,Accessibility,Medium
+CAP024603,S0246,Predictive Analytics,Working
+CAP024701,S0247,Renewable Energy,High
+CAP024702,S0247,Agritech,Medium
+CAP024703,S0247,Computer Vision,Working
+CAP024704,S0247,Remote Sensing,Working
+CAP024801,S0248,Remote Sensing,High
+CAP024802,S0248,Data Governance,Medium
+CAP024803,S0248,Cybersecurity,Working
+CAP024804,S0248,GIS,Working
+CAP024805,S0248,Cloud,Working
+CAP024901,S0249,Edtech,High
+CAP024902,S0249,Waste Management,Medium
+CAP024903,S0249,GIS,Working
+CAP025001,S0250,Robotics,High
+CAP025002,S0250,OCR,Medium
+CAP025003,S0250,AI,Working
+CAP025004,S0250,Drones,Working
+CAP025101,S0251,Data Analytics,High
+CAP025102,S0251,Robotics,Medium
+CAP025103,S0251,IoT,Working
+CAP025104,S0251,Renewable Energy,Working
+CAP025105,S0251,Cybersecurity,Working
+CAP025201,S0252,AI,High
+CAP025202,S0252,Data Governance,Medium
+CAP025203,S0252,Mobile Development,Working
+CAP025301,S0253,Data Governance,High
+CAP025302,S0253,Machine Learning,Medium
+CAP025303,S0253,OCR,Working
+CAP025304,S0253,NLP,Working
+CAP025401,S0254,Geospatial Analytics,High
+CAP025402,S0254,Remote Sensing,Medium
+CAP025403,S0254,Renewable Energy,Working
+CAP025404,S0254,GIS,Working
+CAP025405,S0254,Accessibility,Working
+CAP025501,S0255,Predictive Analytics,High
+CAP025502,S0255,Citizen Engagement,Medium
+CAP025503,S0255,Machine Learning,Working
+CAP025601,S0256,Computer Vision,High
+CAP025602,S0256,Waste Management,Medium
+CAP025603,S0256,Geospatial Analytics,Working
+CAP025604,S0256,Healthcare Technology,Working
+CAP025701,S0257,Digital Payments,High
+CAP025702,S0257,Renewable Energy,Medium
+CAP025703,S0257,Edtech,Working
+CAP025704,S0257,Waste Management,Working
+CAP025705,S0257,Data Analytics,Working
+CAP025801,S0258,Accessibility,High
+CAP025802,S0258,Cybersecurity,Medium
+CAP025803,S0258,Mobile Development,Working
+CAP025901,S0259,Data Governance,High
+CAP025902,S0259,Cybersecurity,Medium
+CAP025903,S0259,AI,Working
+CAP025904,S0259,Healthcare Technology,Working
+CAP026001,S0260,Digital Payments,High
+CAP026002,S0260,Cybersecurity,Medium
+CAP026003,S0260,Waste Management,Working
+CAP026004,S0260,Drones,Working
+CAP026005,S0260,Edtech,Working
+CAP026101,S0261,Machine Learning,High
+CAP026102,S0261,GIS,Medium
+CAP026103,S0261,Healthcare Technology,Working
+CAP026201,S0262,GIS,High
+CAP026202,S0262,Cloud,Medium
+CAP026203,S0262,Computer Vision,Working
+CAP026204,S0262,Predictive Analytics,Working
+CAP026301,S0263,Robotics,High
+CAP026302,S0263,Predictive Analytics,Medium
+CAP026303,S0263,Edtech,Working
+CAP026304,S0263,Remote Sensing,Working
+CAP026305,S0263,Digital Payments,Working
+CAP026401,S0264,Robotics,High
+CAP026402,S0264,Predictive Analytics,Medium
+CAP026403,S0264,Remote Sensing,Working
+CAP026501,S0265,Digital Payments,High
+CAP026502,S0265,NLP,Medium
+CAP026503,S0265,Water Monitoring,Working
+CAP026504,S0265,OCR,Working
+CAP026601,S0266,Edtech,High
+CAP026602,S0266,GIS,Medium
+CAP026603,S0266,Mobile Development,Working
+CAP026604,S0266,Cloud,Working
+CAP026605,S0266,Cybersecurity,Working
+CAP026701,S0267,NLP,High
+CAP026702,S0267,Drones,Medium
+CAP026703,S0267,OCR,Working
+CAP026801,S0268,IoT,High
+CAP026802,S0268,Web Development,Medium
+CAP026803,S0268,Healthcare Technology,Working
+CAP026804,S0268,Waste Management,Working
+CAP026901,S0269,AI,High
+CAP026902,S0269,Remote Sensing,Medium
+CAP026903,S0269,Digital Payments,Working
+CAP026904,S0269,Citizen Engagement,Working
+CAP026905,S0269,Edtech,Working
+CAP027001,S0270,Agritech,High
+CAP027002,S0270,Renewable Energy,Medium
+CAP027003,S0270,Cloud,Working
+CAP027101,S0271,Predictive Analytics,High
+CAP027102,S0271,Healthcare Technology,Medium
+CAP027103,S0271,Data Governance,Working
+CAP027104,S0271,Citizen Engagement,Working
+CAP027201,S0272,Waste Management,High
+CAP027202,S0272,Healthcare Technology,Medium
+CAP027203,S0272,Citizen Engagement,Working
+CAP027204,S0272,Digital Payments,Working
+CAP027205,S0272,Robotics,Working
+CAP027301,S0273,Predictive Analytics,High
+CAP027302,S0273,Remote Sensing,Medium
+CAP027303,S0273,Data Analytics,Working
+CAP027401,S0274,Digital Payments,High
+CAP027402,S0274,Computer Vision,Medium
+CAP027403,S0274,AI,Working
+CAP027404,S0274,Renewable Energy,Working
+CAP027501,S0275,Data Governance,High
+CAP027502,S0275,Drones,Medium
+CAP027503,S0275,Renewable Energy,Working
+CAP027504,S0275,Cloud,Working
+CAP027505,S0275,Citizen Engagement,Working
+CAP027601,S0276,GIS,High
+CAP027602,S0276,Drones,Medium
+CAP027603,S0276,Waste Management,Working
+CAP027701,S0277,Healthcare Technology,High
+CAP027702,S0277,Cybersecurity,Medium
+CAP027703,S0277,Robotics,Working
+CAP027704,S0277,Agritech,Working
+CAP027801,S0278,Renewable Energy,High
+CAP027802,S0278,Predictive Analytics,Medium
+CAP027803,S0278,Web Development,Working
+CAP027804,S0278,Digital Payments,Working
+CAP027805,S0278,Machine Learning,Working
+CAP027901,S0279,Data Governance,High
+CAP027902,S0279,OCR,Medium
+CAP027903,S0279,Cybersecurity,Working
+CAP028001,S0280,Computer Vision,High
+CAP028002,S0280,Digital Payments,Medium
+CAP028003,S0280,Healthcare Technology,Working
+CAP028004,S0280,IoT,Working
+CAP028101,S0281,Workflow Automation,High
+CAP028102,S0281,Cybersecurity,Medium
+CAP028103,S0281,Data Analytics,Working
+CAP028104,S0281,Machine Learning,Working
+CAP028105,S0281,IoT,Working
+CAP028201,S0282,Web Development,High
+CAP028202,S0282,OCR,Medium
+CAP028203,S0282,GIS,Working
+CAP028301,S0283,Robotics,High
+CAP028302,S0283,Geospatial Analytics,Medium
+CAP028303,S0283,Citizen Engagement,Working
+CAP028304,S0283,OCR,Working
+CAP028401,S0284,Renewable Energy,High
+CAP028402,S0284,Digital Payments,Medium
+CAP028403,S0284,Remote Sensing,Working
+CAP028404,S0284,Web Development,Working
+CAP028405,S0284,IoT,Working
+CAP028501,S0285,Renewable Energy,High
+CAP028502,S0285,Predictive Analytics,Medium
+CAP028503,S0285,Web Development,Working
+CAP028601,S0286,AI,High
+CAP028602,S0286,Water Monitoring,Medium
+CAP028603,S0286,Citizen Engagement,Working
+CAP028604,S0286,Data Analytics,Working
+CAP028701,S0287,Accessibility,High
+CAP028702,S0287,NLP,Medium
+CAP028703,S0287,Citizen Engagement,Working
+CAP028704,S0287,Digital Payments,Working
+CAP028705,S0287,Water Monitoring,Working
+CAP028801,S0288,Healthcare Technology,High
+CAP028802,S0288,Computer Vision,Medium
+CAP028803,S0288,Cloud,Working
+CAP028901,S0289,Predictive Analytics,High
+CAP028902,S0289,Robotics,Medium
+CAP028903,S0289,Web Development,Working
+CAP028904,S0289,NLP,Working
+CAP029001,S0290,Data Analytics,High
+CAP029002,S0290,Predictive Analytics,Medium
+CAP029003,S0290,Edtech,Working
+CAP029004,S0290,Water Monitoring,Working
+CAP029005,S0290,Cybersecurity,Working
+CAP029101,S0291,Machine Learning,High
+CAP029102,S0291,Robotics,Medium
+CAP029103,S0291,GIS,Working
+CAP029201,S0292,Drones,High
+CAP029202,S0292,Agritech,Medium
+CAP029203,S0292,GIS,Working
+CAP029204,S0292,Remote Sensing,Working
+CAP029301,S0293,Workflow Automation,High
+CAP029302,S0293,Cloud,Medium
+CAP029303,S0293,IoT,Working
+CAP029304,S0293,Robotics,Working
+CAP029305,S0293,Predictive Analytics,Working
+CAP029401,S0294,Digital Payments,High
+CAP029402,S0294,Geospatial Analytics,Medium
+CAP029403,S0294,Machine Learning,Working
+CAP029501,S0295,OCR,High
+CAP029502,S0295,Data Analytics,Medium
+CAP029503,S0295,Robotics,Working
+CAP029504,S0295,Computer Vision,Working
+CAP029601,S0296,Predictive Analytics,High
+CAP029602,S0296,Digital Payments,Medium
+CAP029603,S0296,Cybersecurity,Working
+CAP029604,S0296,Robotics,Working
+CAP029605,S0296,Cloud,Working
+CAP029701,S0297,Cloud,High
+CAP029702,S0297,Cybersecurity,Medium
+CAP029703,S0297,Digital Payments,Working
+CAP029801,S0298,Predictive Analytics,High
+CAP029802,S0298,Machine Learning,Medium
+CAP029803,S0298,Agritech,Working
+CAP029804,S0298,Computer Vision,Working
+CAP029901,S0299,Geospatial Analytics,High
+CAP029902,S0299,AI,Medium
+CAP029903,S0299,Digital Payments,Working
+CAP029904,S0299,Workflow Automation,Working
+CAP029905,S0299,Cloud,Working
+CAP030001,S0300,Renewable Energy,High
+CAP030002,S0300,OCR,Medium
+CAP030003,S0300,Predictive Analytics,Working
+CAP030101,S0301,NLP,High
+CAP030102,S0301,Digital Payments,Medium
+CAP030103,S0301,Data Governance,Working
+CAP030104,S0301,Accessibility,Working
+CAP030201,S0302,Water Monitoring,High
+CAP030202,S0302,OCR,Medium
+CAP030203,S0302,Edtech,Working
+CAP030204,S0302,Data Governance,Working
+CAP030205,S0302,Web Development,Working
+CAP030301,S0303,Accessibility,High
+CAP030302,S0303,Computer Vision,Medium
+CAP030303,S0303,OCR,Working
+CAP030401,S0304,Edtech,High
+CAP030402,S0304,Drones,Medium
+CAP030403,S0304,Accessibility,Working
+CAP030404,S0304,Remote Sensing,Working
+CAP030501,S0305,Agritech,High
+CAP030502,S0305,OCR,Medium
+CAP030503,S0305,GIS,Working
+CAP030504,S0305,NLP,Working
+CAP030505,S0305,IoT,Working
+CAP030601,S0306,AI,High
+CAP030602,S0306,Workflow Automation,Medium
+CAP030603,S0306,Water Monitoring,Working
+CAP030701,S0307,Renewable Energy,High
+CAP030702,S0307,Data Governance,Medium
+CAP030703,S0307,Cybersecurity,Working
+CAP030704,S0307,Digital Payments,Working
+CAP030801,S0308,Workflow Automation,High
+CAP030802,S0308,Accessibility,Medium
+CAP030803,S0308,Healthcare Technology,Working
+CAP030804,S0308,Data Governance,Working
+CAP030805,S0308,Drones,Working
+CAP030901,S0309,Drones,High
+CAP030902,S0309,Robotics,Medium
+CAP030903,S0309,Data Analytics,Working
+CAP031001,S0310,Data Governance,High
+CAP031002,S0310,Agritech,Medium
+CAP031003,S0310,AI,Working
+CAP031004,S0310,Waste Management,Working
+CAP031101,S0311,Workflow Automation,High
+CAP031102,S0311,Predictive Analytics,Medium
+CAP031103,S0311,Digital Payments,Working
+CAP031104,S0311,Healthcare Technology,Working
+CAP031105,S0311,Water Monitoring,Working
+CAP031201,S0312,Data Governance,High
+CAP031202,S0312,Data Analytics,Medium
+CAP031203,S0312,OCR,Working
+CAP031301,S0313,OCR,High
+CAP031302,S0313,IoT,Medium
+CAP031303,S0313,Data Analytics,Working
+CAP031304,S0313,Workflow Automation,Working
+CAP031401,S0314,Machine Learning,High
+CAP031402,S0314,Drones,Medium
+CAP031403,S0314,Cybersecurity,Working
+CAP031404,S0314,Data Analytics,Working
+CAP031405,S0314,Geospatial Analytics,Working
+CAP031501,S0315,Water Monitoring,High
+CAP031502,S0315,Cybersecurity,Medium
+CAP031503,S0315,Citizen Engagement,Working
+CAP031601,S0316,Machine Learning,High
+CAP031602,S0316,Renewable Energy,Medium
+CAP031603,S0316,Cybersecurity,Working
+CAP031604,S0316,Predictive Analytics,Working
+CAP031701,S0317,Accessibility,High
+CAP031702,S0317,Web Development,Medium
+CAP031703,S0317,Waste Management,Working
+CAP031704,S0317,Water Monitoring,Working
+CAP031705,S0317,Edtech,Working
+CAP031801,S0318,IoT,High
+CAP031802,S0318,Agritech,Medium
+CAP031803,S0318,Web Development,Working
+CAP031901,S0319,Drones,High
+CAP031902,S0319,Cybersecurity,Medium
+CAP031903,S0319,Web Development,Working
+CAP031904,S0319,IoT,Working
+CAP032001,S0320,Data Analytics,High
+CAP032002,S0320,Digital Payments,Medium
+CAP032003,S0320,Cloud,Working
+CAP032004,S0320,Citizen Engagement,Working
+CAP032005,S0320,Accessibility,Working
+CAP032101,S0321,Renewable Energy,High
+CAP032102,S0321,Data Governance,Medium
+CAP032103,S0321,Edtech,Working
+CAP032201,S0322,Accessibility,High
+CAP032202,S0322,Cloud,Medium
+CAP032203,S0322,Digital Payments,Working
+CAP032204,S0322,Mobile Development,Working
+CAP032301,S0323,Data Analytics,High
+CAP032302,S0323,Renewable Energy,Medium
+CAP032303,S0323,Machine Learning,Working
+CAP032304,S0323,Water Monitoring,Working
+CAP032305,S0323,Waste Management,Working
+CAP032401,S0324,Remote Sensing,High
+CAP032402,S0324,Citizen Engagement,Medium
+CAP032403,S0324,Renewable Energy,Working
+CAP032501,S0325,Citizen Engagement,High
+CAP032502,S0325,Cybersecurity,Medium
+CAP032503,S0325,Robotics,Working
+CAP032504,S0325,Data Governance,Working
+CAP032601,S0326,Water Monitoring,High
+CAP032602,S0326,Drones,Medium
+CAP032603,S0326,Geospatial Analytics,Working
+CAP032604,S0326,OCR,Working
+CAP032605,S0326,Digital Payments,Working
+CAP032701,S0327,Waste Management,High
+CAP032702,S0327,Remote Sensing,Medium
+CAP032703,S0327,Robotics,Working
+CAP032801,S0328,Geospatial Analytics,High
+CAP032802,S0328,Workflow Automation,Medium
+CAP032803,S0328,Data Governance,Working
+CAP032804,S0328,IoT,Working
+CAP032901,S0329,Waste Management,High
+CAP032902,S0329,Remote Sensing,Medium
+CAP032903,S0329,Edtech,Working
+CAP032904,S0329,Cybersecurity,Working
+CAP032905,S0329,Robotics,Working
+CAP033001,S0330,Remote Sensing,High
+CAP033002,S0330,Robotics,Medium
+CAP033003,S0330,Predictive Analytics,Working
+CAP033101,S0331,Citizen Engagement,High
+CAP033102,S0331,Geospatial Analytics,Medium
+CAP033103,S0331,OCR,Working
+CAP033104,S0331,Healthcare Technology,Working
+CAP033201,S0332,Computer Vision,High
+CAP033202,S0332,Waste Management,Medium
+CAP033203,S0332,OCR,Working
+CAP033204,S0332,Digital Payments,Working
+CAP033205,S0332,Data Analytics,Working
+CAP033301,S0333,Robotics,High
+CAP033302,S0333,Cloud,Medium
+CAP033303,S0333,Data Analytics,Working
+CAP033401,S0334,Water Monitoring,High
+CAP033402,S0334,Waste Management,Medium
+CAP033403,S0334,OCR,Working
+CAP033404,S0334,Cybersecurity,Working
+CAP033501,S0335,Edtech,High
+CAP033502,S0335,Remote Sensing,Medium
+CAP033503,S0335,OCR,Working
+CAP033504,S0335,Data Governance,Working
+CAP033505,S0335,Computer Vision,Working
+CAP033601,S0336,Computer Vision,High
+CAP033602,S0336,Waste Management,Medium
+CAP033603,S0336,Web Development,Working
+CAP033701,S0337,Web Development,High
+CAP033702,S0337,Geospatial Analytics,Medium
+CAP033703,S0337,Mobile Development,Working
+CAP033704,S0337,Cloud,Working
+CAP033801,S0338,GIS,High
+CAP033802,S0338,AI,Medium
+CAP033803,S0338,Agritech,Working
+CAP033804,S0338,OCR,Working
+CAP033805,S0338,Data Analytics,Working
+CAP033901,S0339,Drones,High
+CAP033902,S0339,AI,Medium
+CAP033903,S0339,OCR,Working
+CAP034001,S0340,GIS,High
+CAP034002,S0340,OCR,Medium
+CAP034003,S0340,Water Monitoring,Working
+CAP034004,S0340,AI,Working
+CAP034101,S0341,Web Development,High
+CAP034102,S0341,OCR,Medium
+CAP034103,S0341,Cybersecurity,Working
+CAP034104,S0341,Waste Management,Working
+CAP034105,S0341,Robotics,Working
+CAP034201,S0342,Accessibility,High
+CAP034202,S0342,Drones,Medium
+CAP034203,S0342,NLP,Working
+CAP034301,S0343,Cloud,High
+CAP034302,S0343,Digital Payments,Medium
+CAP034303,S0343,Data Governance,Working
+CAP034304,S0343,IoT,Working
+CAP034401,S0344,Healthcare Technology,High
+CAP034402,S0344,Edtech,Medium
+CAP034403,S0344,Accessibility,Working
+CAP034404,S0344,Remote Sensing,Working
+CAP034405,S0344,AI,Working
+CAP034501,S0345,Digital Payments,High
+CAP034502,S0345,Web Development,Medium
+CAP034503,S0345,Data Governance,Working
+CAP034601,S0346,Machine Learning,High
+CAP034602,S0346,Cybersecurity,Medium
+CAP034603,S0346,Accessibility,Working
+CAP034604,S0346,Mobile Development,Working
+CAP034701,S0347,Cloud,High
+CAP034702,S0347,IoT,Medium
+CAP034703,S0347,Data Analytics,Working
+CAP034704,S0347,Citizen Engagement,Working
+CAP034705,S0347,Robotics,Working
+CAP034801,S0348,Data Analytics,High
+CAP034802,S0348,Machine Learning,Medium
+CAP034803,S0348,Mobile Development,Working
+CAP034901,S0349,Workflow Automation,High
+CAP034902,S0349,AI,Medium
+CAP034903,S0349,IoT,Working
+CAP034904,S0349,GIS,Working
+CAP035001,S0350,Accessibility,High
+CAP035002,S0350,Machine Learning,Medium
+CAP035003,S0350,AI,Working
+CAP035004,S0350,Cloud,Working
+CAP035005,S0350,NLP,Working
+CAP035101,S0351,Mobile Development,High
+CAP035102,S0351,NLP,Medium
+CAP035103,S0351,Computer Vision,Working
+CAP035201,S0352,Renewable Energy,High
+CAP035202,S0352,Web Development,Medium
+CAP035203,S0352,Drones,Working
+CAP035204,S0352,AI,Working
+CAP035301,S0353,Edtech,High
+CAP035302,S0353,Agritech,Medium
+CAP035303,S0353,Cloud,Working
+CAP035304,S0353,Data Governance,Working
+CAP035305,S0353,Water Monitoring,Working
+CAP035401,S0354,Mobile Development,High
+CAP035402,S0354,Digital Payments,Medium
+CAP035403,S0354,Data Governance,Working
+CAP035501,S0355,Robotics,High
+CAP035502,S0355,OCR,Medium
+CAP035503,S0355,Computer Vision,Working
+CAP035504,S0355,IoT,Working
+CAP035601,S0356,Workflow Automation,High
+CAP035602,S0356,Cloud,Medium
+CAP035603,S0356,Cybersecurity,Working
+CAP035604,S0356,Water Monitoring,Working
+CAP035605,S0356,Drones,Working
+CAP035701,S0357,Renewable Energy,High
+CAP035702,S0357,Computer Vision,Medium
+CAP035703,S0357,Accessibility,Working
+CAP035801,S0358,Drones,High
+CAP035802,S0358,OCR,Medium
+CAP035803,S0358,Computer Vision,Working
+CAP035804,S0358,Cybersecurity,Working
+CAP035901,S0359,Cybersecurity,High
+CAP035902,S0359,Robotics,Medium
+CAP035903,S0359,Machine Learning,Working
+CAP035904,S0359,AI,Working
+CAP035905,S0359,NLP,Working
+CAP036001,S0360,Water Monitoring,High
+CAP036002,S0360,Cloud,Medium
+CAP036003,S0360,OCR,Working
+CAP036101,S0361,Renewable Energy,High
+CAP036102,S0361,Web Development,Medium
+CAP036103,S0361,Accessibility,Working
+CAP036104,S0361,Citizen Engagement,Working
+CAP036201,S0362,Edtech,High
+CAP036202,S0362,Healthcare Technology,Medium
+CAP036203,S0362,Geospatial Analytics,Working
+CAP036204,S0362,Cybersecurity,Working
+CAP036205,S0362,Data Analytics,Working
+CAP036301,S0363,Digital Payments,High
+CAP036302,S0363,Machine Learning,Medium
+CAP036303,S0363,OCR,Working
+CAP036401,S0364,Data Governance,High
+CAP036402,S0364,Citizen Engagement,Medium
+CAP036403,S0364,Digital Payments,Working
+CAP036404,S0364,Edtech,Working
+CAP036501,S0365,Data Governance,High
+CAP036502,S0365,Machine Learning,Medium
+CAP036503,S0365,Cloud,Working
+CAP036504,S0365,Robotics,Working
+CAP036505,S0365,Computer Vision,Working
+CAP036601,S0366,Edtech,High
+CAP036602,S0366,Mobile Development,Medium
+CAP036603,S0366,Drones,Working
+CAP036701,S0367,Cybersecurity,High
+CAP036702,S0367,NLP,Medium
+CAP036703,S0367,Edtech,Working
+CAP036704,S0367,AI,Working
+CAP036801,S0368,Healthcare Technology,High
+CAP036802,S0368,Workflow Automation,Medium
+CAP036803,S0368,Citizen Engagement,Working
+CAP036804,S0368,Remote Sensing,Working
+CAP036805,S0368,Data Analytics,Working
+CAP036901,S0369,Web Development,High
+CAP036902,S0369,Waste Management,Medium
+CAP036903,S0369,Data Analytics,Working
+CAP037001,S0370,NLP,High
+CAP037002,S0370,Drones,Medium
+CAP037003,S0370,Predictive Analytics,Working
+CAP037004,S0370,Mobile Development,Working
+CAP037101,S0371,Remote Sensing,High
+CAP037102,S0371,Waste Management,Medium
+CAP037103,S0371,Data Analytics,Working
+CAP037104,S0371,Robotics,Working
+CAP037105,S0371,Mobile Development,Working
+CAP037201,S0372,Robotics,High
+CAP037202,S0372,Remote Sensing,Medium
+CAP037203,S0372,Predictive Analytics,Working
+CAP037301,S0373,Healthcare Technology,High
+CAP037302,S0373,Machine Learning,Medium
+CAP037303,S0373,Citizen Engagement,Working
+CAP037304,S0373,Robotics,Working
+CAP037401,S0374,Computer Vision,High
+CAP037402,S0374,Waste Management,Medium
+CAP037403,S0374,Water Monitoring,Working
+CAP037404,S0374,Data Analytics,Working
+CAP037405,S0374,Cybersecurity,Working
+CAP037501,S0375,AI,High
+CAP037502,S0375,Data Analytics,Medium
+CAP037503,S0375,Web Development,Working
+CAP037601,S0376,Water Monitoring,High
+CAP037602,S0376,Predictive Analytics,Medium
+CAP037603,S0376,Geospatial Analytics,Working
+CAP037604,S0376,Citizen Engagement,Working
+CAP037701,S0377,Data Governance,High
+CAP037702,S0377,Machine Learning,Medium
+CAP037703,S0377,Predictive Analytics,Working
+CAP037704,S0377,Healthcare Technology,Working
+CAP037705,S0377,Mobile Development,Working
+CAP037801,S0378,Edtech,High
+CAP037802,S0378,OCR,Medium
+CAP037803,S0378,Remote Sensing,Working
+CAP037901,S0379,Computer Vision,High
+CAP037902,S0379,Predictive Analytics,Medium
+CAP037903,S0379,Edtech,Working
+CAP037904,S0379,Mobile Development,Working
+CAP038001,S0380,Web Development,High
+CAP038002,S0380,Machine Learning,Medium
+CAP038003,S0380,Robotics,Working
+CAP038004,S0380,Mobile Development,Working
+CAP038005,S0380,IoT,Working
+CAP038101,S0381,Mobile Development,High
+CAP038102,S0381,IoT,Medium
+CAP038103,S0381,Healthcare Technology,Working
+CAP038201,S0382,Healthcare Technology,High
+CAP038202,S0382,Predictive Analytics,Medium
+CAP038203,S0382,Cybersecurity,Working
+CAP038204,S0382,Mobile Development,Working
+CAP038301,S0383,Workflow Automation,High
+CAP038302,S0383,Mobile Development,Medium
+CAP038303,S0383,OCR,Working
+CAP038304,S0383,Web Development,Working
+CAP038305,S0383,Remote Sensing,Working
+CAP038401,S0384,Citizen Engagement,High
+CAP038402,S0384,AI,Medium
+CAP038403,S0384,Web Development,Working
+CAP038501,S0385,NLP,High
+CAP038502,S0385,Robotics,Medium
+CAP038503,S0385,Waste Management,Working
+CAP038504,S0385,Edtech,Working
+CAP038601,S0386,Healthcare Technology,High
+CAP038602,S0386,Remote Sensing,Medium
+CAP038603,S0386,Accessibility,Working
+CAP038604,S0386,Citizen Engagement,Working
+CAP038605,S0386,OCR,Working
+CAP038701,S0387,Data Analytics,High
+CAP038702,S0387,Geospatial Analytics,Medium
+CAP038703,S0387,Digital Payments,Working
+CAP038801,S0388,Machine Learning,High
+CAP038802,S0388,Computer Vision,Medium
+CAP038803,S0388,IoT,Working
+CAP038804,S0388,Geospatial Analytics,Working
+CAP038901,S0389,Digital Payments,High
+CAP038902,S0389,NLP,Medium
+CAP038903,S0389,OCR,Working
+CAP038904,S0389,IoT,Working
+CAP038905,S0389,AI,Working
+CAP039001,S0390,Agritech,High
+CAP039002,S0390,Accessibility,Medium
+CAP039003,S0390,Robotics,Working
+CAP039101,S0391,Mobile Development,High
+CAP039102,S0391,Water Monitoring,Medium
+CAP039103,S0391,Geospatial Analytics,Working
+CAP039104,S0391,Healthcare Technology,Working
+CAP039201,S0392,NLP,High
+CAP039202,S0392,Data Governance,Medium
+CAP039203,S0392,Cybersecurity,Working
+CAP039204,S0392,OCR,Working
+CAP039205,S0392,Data Analytics,Working
+CAP039301,S0393,Agritech,High
+CAP039302,S0393,Digital Payments,Medium
+CAP039303,S0393,Computer Vision,Working
+CAP039401,S0394,NLP,High
+CAP039402,S0394,Agritech,Medium
+CAP039403,S0394,Waste Management,Working
+CAP039404,S0394,Cybersecurity,Working
+CAP039501,S0395,Machine Learning,High
+CAP039502,S0395,Workflow Automation,Medium
+CAP039503,S0395,OCR,Working
+CAP039504,S0395,Data Analytics,Working
+CAP039505,S0395,Cybersecurity,Working
+CAP039601,S0396,Machine Learning,High
+CAP039602,S0396,Water Monitoring,Medium
+CAP039603,S0396,Cybersecurity,Working
+CAP039701,S0397,Accessibility,High
+CAP039702,S0397,Digital Payments,Medium
+CAP039703,S0397,Workflow Automation,Working
+CAP039704,S0397,Data Governance,Working
+CAP039801,S0398,Computer Vision,High
+CAP039802,S0398,Robotics,Medium
+CAP039803,S0398,Geospatial Analytics,Working
+CAP039804,S0398,Agritech,Working
+CAP039805,S0398,Citizen Engagement,Working
+CAP039901,S0399,Waste Management,High
+CAP039902,S0399,Data Governance,Medium
+CAP039903,S0399,Water Monitoring,Working
+CAP040001,S0400,NLP,High
+CAP040002,S0400,Water Monitoring,Medium
+CAP040003,S0400,Data Analytics,Working
+CAP040004,S0400,Digital Payments,Working
+CAP040101,S0401,Digital Payments,High
+CAP040102,S0401,Citizen Engagement,Medium
+CAP040103,S0401,GIS,Working
+CAP040104,S0401,Robotics,Working
+CAP040105,S0401,Machine Learning,Working
+CAP040201,S0402,Geospatial Analytics,High
+CAP040202,S0402,NLP,Medium
+CAP040203,S0402,Renewable Energy,Working
+CAP040301,S0403,Remote Sensing,High
+CAP040302,S0403,Web Development,Medium
+CAP040303,S0403,Renewable Energy,Working
+CAP040304,S0403,Data Governance,Working
+CAP040401,S0404,Geospatial Analytics,High
+CAP040402,S0404,Robotics,Medium
+CAP040403,S0404,Data Analytics,Working
+CAP040404,S0404,GIS,Working
+CAP040405,S0404,Citizen Engagement,Working
+CAP040501,S0405,Waste Management,High
+CAP040502,S0405,GIS,Medium
+CAP040503,S0405,Renewable Energy,Working
+CAP040601,S0406,Remote Sensing,High
+CAP040602,S0406,NLP,Medium
+CAP040603,S0406,Agritech,Working
+CAP040604,S0406,Accessibility,Working
+CAP040701,S0407,Water Monitoring,High
+CAP040702,S0407,Cybersecurity,Medium
+CAP040703,S0407,Data Analytics,Working
+CAP040704,S0407,AI,Working
+CAP040705,S0407,Citizen Engagement,Working
+CAP040801,S0408,Edtech,High
+CAP040802,S0408,Drones,Medium
+CAP040803,S0408,Data Governance,Working
+CAP040901,S0409,Water Monitoring,High
+CAP040902,S0409,Machine Learning,Medium
+CAP040903,S0409,Computer Vision,Working
+CAP040904,S0409,Drones,Working
+CAP041001,S0410,Robotics,High
+CAP041002,S0410,NLP,Medium
+CAP041003,S0410,Remote Sensing,Working
+CAP041004,S0410,Cloud,Working
+CAP041005,S0410,Agritech,Working
+CAP041101,S0411,Geospatial Analytics,High
+CAP041102,S0411,Workflow Automation,Medium
+CAP041103,S0411,Edtech,Working
+CAP041201,S0412,AI,High
+CAP041202,S0412,Remote Sensing,Medium
+CAP041203,S0412,Citizen Engagement,Working
+CAP041204,S0412,Data Analytics,Working
+CAP041301,S0413,Robotics,High
+CAP041302,S0413,AI,Medium
+CAP041303,S0413,Waste Management,Working
+CAP041304,S0413,Renewable Energy,Working
+CAP041305,S0413,NLP,Working
+CAP041401,S0414,Robotics,High
+CAP041402,S0414,Data Governance,Medium
+CAP041403,S0414,Geospatial Analytics,Working
+CAP041501,S0415,Accessibility,High
+CAP041502,S0415,Geospatial Analytics,Medium
+CAP041503,S0415,Edtech,Working
+CAP041504,S0415,GIS,Working
+CAP041601,S0416,Cybersecurity,High
+CAP041602,S0416,OCR,Medium
+CAP041603,S0416,Cloud,Working
+CAP041604,S0416,Agritech,Working
+CAP041605,S0416,Waste Management,Working
+CAP041701,S0417,NLP,High
+CAP041702,S0417,Workflow Automation,Medium
+CAP041703,S0417,Healthcare Technology,Working
+CAP041801,S0418,Data Analytics,High
+CAP041802,S0418,NLP,Medium
+CAP041803,S0418,Waste Management,Working
+CAP041804,S0418,Digital Payments,Working
+CAP041901,S0419,Machine Learning,High
+CAP041902,S0419,Accessibility,Medium
+CAP041903,S0419,Data Governance,Working
+CAP041904,S0419,NLP,Working
+CAP041905,S0419,Mobile Development,Working
+CAP042001,S0420,Computer Vision,High
+CAP042002,S0420,Predictive Analytics,Medium
+CAP042003,S0420,GIS,Working
+CAP042101,S0421,IoT,High
+CAP042102,S0421,Cybersecurity,Medium
+CAP042103,S0421,Cloud,Working
+CAP042104,S0421,Healthcare Technology,Working
+CAP042201,S0422,Computer Vision,High
+CAP042202,S0422,Edtech,Medium
+CAP042203,S0422,Waste Management,Working
+CAP042204,S0422,OCR,Working
+CAP042205,S0422,Digital Payments,Working
+CAP042301,S0423,Digital Payments,High
+CAP042302,S0423,Edtech,Medium
+CAP042303,S0423,Workflow Automation,Working
+CAP042401,S0424,Remote Sensing,High
+CAP042402,S0424,Data Governance,Medium
+CAP042403,S0424,IoT,Working
+CAP042404,S0424,Accessibility,Working
+CAP042501,S0425,Healthcare Technology,High
+CAP042502,S0425,Predictive Analytics,Medium
+CAP042503,S0425,AI,Working
+CAP042504,S0425,Citizen Engagement,Working
+CAP042505,S0425,Cybersecurity,Working
+CAP042601,S0426,Drones,High
+CAP042602,S0426,Citizen Engagement,Medium
+CAP042603,S0426,Cybersecurity,Working
+CAP042701,S0427,GIS,High
+CAP042702,S0427,Machine Learning,Medium
+CAP042703,S0427,Geospatial Analytics,Working
+CAP042704,S0427,Workflow Automation,Working
+CAP042801,S0428,Web Development,High
+CAP042802,S0428,Drones,Medium
+CAP042803,S0428,Geospatial Analytics,Working
+CAP042804,S0428,Digital Payments,Working
+CAP042805,S0428,Edtech,Working
+CAP042901,S0429,Digital Payments,High
+CAP042902,S0429,Workflow Automation,Medium
+CAP042903,S0429,Robotics,Working
+CAP043001,S0430,Data Analytics,High
+CAP043002,S0430,Remote Sensing,Medium
+CAP043003,S0430,Data Governance,Working
+CAP043004,S0430,Predictive Analytics,Working
+CAP043101,S0431,Mobile Development,High
+CAP043102,S0431,Water Monitoring,Medium
+CAP043103,S0431,Web Development,Working
+CAP043104,S0431,Renewable Energy,Working
+CAP043105,S0431,Cloud,Working
+CAP043201,S0432,AI,High
+CAP043202,S0432,Remote Sensing,Medium
+CAP043203,S0432,Computer Vision,Working
+CAP043301,S0433,Digital Payments,High
+CAP043302,S0433,Citizen Engagement,Medium
+CAP043303,S0433,GIS,Working
+CAP043304,S0433,Predictive Analytics,Working
+CAP043401,S0434,Computer Vision,High
+CAP043402,S0434,Web Development,Medium
+CAP043403,S0434,Drones,Working
+CAP043404,S0434,IoT,Working
+CAP043405,S0434,Agritech,Working
+CAP043501,S0435,Agritech,High
+CAP043502,S0435,Computer Vision,Medium
+CAP043503,S0435,Healthcare Technology,Working
+CAP043601,S0436,Mobile Development,High
+CAP043602,S0436,Geospatial Analytics,Medium
+CAP043603,S0436,Data Governance,Working
+CAP043604,S0436,Drones,Working
+CAP043701,S0437,Edtech,High
+CAP043702,S0437,Data Analytics,Medium
+CAP043703,S0437,Water Monitoring,Working
+CAP043704,S0437,Web Development,Working
+CAP043705,S0437,AI,Working
+CAP043801,S0438,Cybersecurity,High
+CAP043802,S0438,Digital Payments,Medium
+CAP043803,S0438,Renewable Energy,Working
+CAP043901,S0439,Cloud,High
+CAP043902,S0439,Web Development,Medium
+CAP043903,S0439,AI,Working
+CAP043904,S0439,Cybersecurity,Working
+CAP044001,S0440,Geospatial Analytics,High
+CAP044002,S0440,Healthcare Technology,Medium
+CAP044003,S0440,Edtech,Working
+CAP044004,S0440,GIS,Working
+CAP044005,S0440,AI,Working
+CAP044101,S0441,Geospatial Analytics,High
+CAP044102,S0441,Drones,Medium
+CAP044103,S0441,Cybersecurity,Working
+CAP044201,S0442,Data Governance,High
+CAP044202,S0442,OCR,Medium
+CAP044203,S0442,AI,Working
+CAP044204,S0442,Edtech,Working
+CAP044301,S0443,Drones,High
+CAP044302,S0443,Remote Sensing,Medium
+CAP044303,S0443,Computer Vision,Working
+CAP044304,S0443,Water Monitoring,Working
+CAP044305,S0443,Waste Management,Working
+CAP044401,S0444,Healthcare Technology,High
+CAP044402,S0444,NLP,Medium
+CAP044403,S0444,Water Monitoring,Working
+CAP044501,S0445,Citizen Engagement,High
+CAP044502,S0445,Geospatial Analytics,Medium
+CAP044503,S0445,Agritech,Working
+CAP044504,S0445,Data Governance,Working
+CAP044601,S0446,Edtech,High
+CAP044602,S0446,Renewable Energy,Medium
+CAP044603,S0446,Predictive Analytics,Working
+CAP044604,S0446,Citizen Engagement,Working
+CAP044605,S0446,OCR,Working
+CAP044701,S0447,Predictive Analytics,High
+CAP044702,S0447,GIS,Medium
+CAP044703,S0447,OCR,Working
+CAP044801,S0448,AI,High
+CAP044802,S0448,IoT,Medium
+CAP044803,S0448,OCR,Working
+CAP044804,S0448,Water Monitoring,Working
+CAP044901,S0449,Predictive Analytics,High
+CAP044902,S0449,Remote Sensing,Medium
+CAP044903,S0449,AI,Working
+CAP044904,S0449,Agritech,Working
+CAP044905,S0449,Geospatial Analytics,Working
+CAP045001,S0450,Renewable Energy,High
+CAP045002,S0450,Waste Management,Medium
+CAP045003,S0450,Water Monitoring,Working
+CAP045101,S0451,Data Governance,High
+CAP045102,S0451,Robotics,Medium
+CAP045103,S0451,Citizen Engagement,Working
+CAP045104,S0451,GIS,Working
+CAP045201,S0452,OCR,High
+CAP045202,S0452,Predictive Analytics,Medium
+CAP045203,S0452,Renewable Energy,Working
+CAP045204,S0452,Healthcare Technology,Working
+CAP045205,S0452,Cybersecurity,Working
+CAP045301,S0453,Machine Learning,High
+CAP045302,S0453,Healthcare Technology,Medium
+CAP045303,S0453,Drones,Working
+CAP045401,S0454,Mobile Development,High
+CAP045402,S0454,Agritech,Medium
+CAP045403,S0454,AI,Working
+CAP045404,S0454,Accessibility,Working
+CAP045501,S0455,Mobile Development,High
+CAP045502,S0455,Agritech,Medium
+CAP045503,S0455,Computer Vision,Working
+CAP045504,S0455,Edtech,Working
+CAP045505,S0455,Accessibility,Working
+CAP045601,S0456,Computer Vision,High
+CAP045602,S0456,Waste Management,Medium
+CAP045603,S0456,Water Monitoring,Working
+CAP045701,S0457,AI,High
+CAP045702,S0457,Agritech,Medium
+CAP045703,S0457,Mobile Development,Working
+CAP045704,S0457,Renewable Energy,Working
+CAP045801,S0458,Machine Learning,High
+CAP045802,S0458,Web Development,Medium
+CAP045803,S0458,Water Monitoring,Working
+CAP045804,S0458,Drones,Working
+CAP045805,S0458,Cloud,Working
+CAP045901,S0459,Remote Sensing,High
+CAP045902,S0459,Predictive Analytics,Medium
+CAP045903,S0459,AI,Working
+CAP046001,S0460,Data Analytics,High
+CAP046002,S0460,NLP,Medium
+CAP046003,S0460,Machine Learning,Working
+CAP046004,S0460,Predictive Analytics,Working
+CAP046101,S0461,AI,High
+CAP046102,S0461,Machine Learning,Medium
+CAP046103,S0461,Citizen Engagement,Working
+CAP046104,S0461,Predictive Analytics,Working
+CAP046105,S0461,OCR,Working
+CAP046201,S0462,Web Development,High
+CAP046202,S0462,Agritech,Medium
+CAP046203,S0462,Mobile Development,Working
+CAP046301,S0463,Robotics,High
+CAP046302,S0463,Workflow Automation,Medium
+CAP046303,S0463,Predictive Analytics,Working
+CAP046304,S0463,Citizen Engagement,Working
+CAP046401,S0464,Citizen Engagement,High
+CAP046402,S0464,Drones,Medium
+CAP046403,S0464,Computer Vision,Working
+CAP046404,S0464,Data Analytics,Working
+CAP046405,S0464,Machine Learning,Working
+CAP046501,S0465,Accessibility,High
+CAP046502,S0465,Geospatial Analytics,Medium
+CAP046503,S0465,Robotics,Working
+CAP046601,S0466,Cloud,High
+CAP046602,S0466,Computer Vision,Medium
+CAP046603,S0466,Robotics,Working
+CAP046604,S0466,Edtech,Working
+CAP046701,S0467,Mobile Development,High
+CAP046702,S0467,OCR,Medium
+CAP046703,S0467,Geospatial Analytics,Working
+CAP046704,S0467,Robotics,Working
+CAP046705,S0467,Remote Sensing,Working
+CAP046801,S0468,Data Governance,High
+CAP046802,S0468,AI,Medium
+CAP046803,S0468,GIS,Working
+CAP046901,S0469,Data Governance,High
+CAP046902,S0469,Waste Management,Medium
+CAP046903,S0469,GIS,Working
+CAP046904,S0469,Citizen Engagement,Working
+CAP047001,S0470,Computer Vision,High
+CAP047002,S0470,NLP,Medium
+CAP047003,S0470,Mobile Development,Working
+CAP047004,S0470,Robotics,Working
+CAP047005,S0470,Remote Sensing,Working
+CAP047101,S0471,Geospatial Analytics,High
+CAP047102,S0471,NLP,Medium
+CAP047103,S0471,Cloud,Working
+CAP047201,S0472,Robotics,High
+CAP047202,S0472,Renewable Energy,Medium
+CAP047203,S0472,AI,Working
+CAP047204,S0472,Cybersecurity,Working
+CAP047301,S0473,Machine Learning,High
+CAP047302,S0473,OCR,Medium
+CAP047303,S0473,Cloud,Working
+CAP047304,S0473,Predictive Analytics,Working
+CAP047305,S0473,AI,Working
+CAP047401,S0474,Machine Learning,High
+CAP047402,S0474,Water Monitoring,Medium
+CAP047403,S0474,AI,Working
+CAP047501,S0475,Predictive Analytics,High
+CAP047502,S0475,Agritech,Medium
+CAP047503,S0475,Water Monitoring,Working
+CAP047504,S0475,Workflow Automation,Working
+CAP047601,S0476,Edtech,High
+CAP047602,S0476,Citizen Engagement,Medium
+CAP047603,S0476,Computer Vision,Working
+CAP047604,S0476,OCR,Working
+CAP047605,S0476,Workflow Automation,Working
+CAP047701,S0477,Cybersecurity,High
+CAP047702,S0477,Renewable Energy,Medium
+CAP047703,S0477,Geospatial Analytics,Working
+CAP047801,S0478,Mobile Development,High
+CAP047802,S0478,Agritech,Medium
+CAP047803,S0478,Healthcare Technology,Working
+CAP047804,S0478,Predictive Analytics,Working
+CAP047901,S0479,Digital Payments,High
+CAP047902,S0479,Remote Sensing,Medium
+CAP047903,S0479,Citizen Engagement,Working
+CAP047904,S0479,Accessibility,Working
+CAP047905,S0479,OCR,Working
+CAP048001,S0480,Robotics,High
+CAP048002,S0480,AI,Medium
+CAP048003,S0480,Computer Vision,Working
+CAP048101,S0481,Data Analytics,High
+CAP048102,S0481,Edtech,Medium
+CAP048103,S0481,Predictive Analytics,Working
+CAP048104,S0481,Healthcare Technology,Working
+CAP048201,S0482,Robotics,High
+CAP048202,S0482,Water Monitoring,Medium
+CAP048203,S0482,Data Governance,Working
+CAP048204,S0482,OCR,Working
+CAP048205,S0482,AI,Working
+CAP048301,S0483,Robotics,High
+CAP048302,S0483,Workflow Automation,Medium
+CAP048303,S0483,Cybersecurity,Working
+CAP048401,S0484,Healthcare Technology,High
+CAP048402,S0484,Drones,Medium
+CAP048403,S0484,Citizen Engagement,Working
+CAP048404,S0484,Renewable Energy,Working
+CAP048501,S0485,Healthcare Technology,High
+CAP048502,S0485,Robotics,Medium
+CAP048503,S0485,Machine Learning,Working
+CAP048504,S0485,Predictive Analytics,Working
+CAP048505,S0485,Data Governance,Working
+CAP048601,S0486,AI,High
+CAP048602,S0486,Data Analytics,Medium
+CAP048603,S0486,Drones,Working
+CAP048701,S0487,Waste Management,High
+CAP048702,S0487,Machine Learning,Medium
+CAP048703,S0487,Web Development,Working
+CAP048704,S0487,Cloud,Working
+CAP048801,S0488,Robotics,High
+CAP048802,S0488,Data Analytics,Medium
+CAP048803,S0488,OCR,Working
+CAP048804,S0488,Computer Vision,Working
+CAP048805,S0488,Edtech,Working
+CAP048901,S0489,Edtech,High
+CAP048902,S0489,Robotics,Medium
+CAP048903,S0489,Waste Management,Working
+CAP049001,S0490,AI,High
+CAP049002,S0490,Healthcare Technology,Medium
+CAP049003,S0490,Cybersecurity,Working
+CAP049004,S0490,Computer Vision,Working
+CAP049101,S0491,Renewable Energy,High
+CAP049102,S0491,OCR,Medium
+CAP049103,S0491,GIS,Working
+CAP049104,S0491,Computer Vision,Working
+CAP049105,S0491,AI,Working
+CAP049201,S0492,GIS,High
+CAP049202,S0492,Predictive Analytics,Medium
+CAP049203,S0492,Workflow Automation,Working
+CAP049301,S0493,Workflow Automation,High
+CAP049302,S0493,Web Development,Medium
+CAP049303,S0493,Robotics,Working
+CAP049304,S0493,Drones,Working
+CAP049401,S0494,Web Development,High
+CAP049402,S0494,Computer Vision,Medium
+CAP049403,S0494,AI,Working
+CAP049404,S0494,Cloud,Working
+CAP049405,S0494,Waste Management,Working
+CAP049501,S0495,Water Monitoring,High
+CAP049502,S0495,IoT,Medium
+CAP049503,S0495,Agritech,Working
+CAP049601,S0496,Digital Payments,High
+CAP049602,S0496,Robotics,Medium
+CAP049603,S0496,IoT,Working
+CAP049604,S0496,AI,Working
+CAP049701,S0497,Computer Vision,High
+CAP049702,S0497,Workflow Automation,Medium
+CAP049703,S0497,NLP,Working
+CAP049704,S0497,OCR,Working
+CAP049705,S0497,Data Governance,Working
+CAP049801,S0498,Drones,High
+CAP049802,S0498,Cybersecurity,Medium
+CAP049803,S0498,GIS,Working
+CAP049901,S0499,Renewable Energy,High
+CAP049902,S0499,Citizen Engagement,Medium
+CAP049903,S0499,Digital Payments,Working
+CAP049904,S0499,IoT,Working
+CAP050001,S0500,Healthcare Technology,High
+CAP050002,S0500,Citizen Engagement,Medium
+CAP050003,S0500,Mobile Development,Working
+CAP050004,S0500,IoT,Working
+CAP050005,S0500,Cybersecurity,Working

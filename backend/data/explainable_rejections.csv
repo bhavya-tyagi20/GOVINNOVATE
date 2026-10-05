@@ -1,0 +1,126 @@
+﻿rejection_id,application_id,reason_code,reason_text,supporting_data,generated_date
+REJ0001,APP0003,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=69; evaluation_overall=70.6; requested_budget=3600000.,2026-09-26
+REJ0002,APP0009,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=48; evaluation_overall=60.0; requested_budget=6800000.,2026-09-25
+REJ0003,APP0015,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=83; evaluation_overall=73.9; requested_budget=4000000.,2026-09-24
+REJ0004,APP0021,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=62; evaluation_overall=63.4; requested_budget=4000000.,2026-09-23
+REJ0005,APP0027,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=41; evaluation_overall=67.1; requested_budget=3200000.,2026-09-22
+REJ0006,APP0033,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=76; evaluation_overall=66.7; requested_budget=3600000.,2026-09-21
+REJ0007,APP0039,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=55; evaluation_overall=80.5; requested_budget=3200000.,2026-09-20
+REJ0008,APP0045,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=90; evaluation_overall=70.0; requested_budget=3600000.,2026-09-19
+REJ0009,APP0051,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=69; evaluation_overall=59.4; requested_budget=4000000.,2026-09-18
+REJ0010,APP0057,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=35; evaluation_overall=61.4; requested_budget=3200000.,2026-09-17
+REJ0011,APP0063,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=83; evaluation_overall=58.0; requested_budget=6400000.,2026-09-16
+REJ0012,APP0069,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=49; evaluation_overall=71.8; requested_budget=2400000.,2026-09-15
+REJ0013,APP0075,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=28; evaluation_overall=71.4; requested_budget=5200000.,2026-09-14
+REJ0014,APP0081,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=76; evaluation_overall=75.1; requested_budget=3600000.,2026-09-13
+REJ0015,APP0087,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=42; evaluation_overall=64.6; requested_budget=2800000.,2026-09-12
+REJ0016,APP0093,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=90; evaluation_overall=78.5; requested_budget=4400000.,2026-09-11
+REJ0017,APP0099,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=56; evaluation_overall=67.9; requested_budget=3200000.,2026-09-10
+REJ0018,APP0105,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=35; evaluation_overall=81.7; requested_budget=5200000.,2026-09-09
+REJ0019,APP0111,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=70; evaluation_overall=59.3; requested_budget=3600000.,2026-09-08
+REJ0020,APP0117,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=49; evaluation_overall=73.2; requested_budget=2800000.,2026-09-07
+REJ0021,APP0123,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=84; evaluation_overall=62.6; requested_budget=3200000.,2026-09-06
+REJ0022,APP0129,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=63; evaluation_overall=66.4; requested_budget=3200000.,2026-09-05
+REJ0023,APP0135,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=42; evaluation_overall=76.1; requested_budget=4800000.,2026-09-04
+REJ0024,APP0141,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=77; evaluation_overall=79.8; requested_budget=2800000.,2026-09-03
+REJ0025,APP0147,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=56; evaluation_overall=69.2; requested_budget=2800000.,2026-09-02
+REJ0026,APP0153,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=91; evaluation_overall=58.7; requested_budget=3600000.,2026-09-01
+REJ0027,APP0159,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=70; evaluation_overall=72.6; requested_budget=6800000.,2026-08-31
+REJ0028,APP0165,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=36; evaluation_overall=50.2; requested_budget=4000000.,2026-08-30
+REJ0029,APP0171,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=84; evaluation_overall=64.0; requested_budget=4000000.,2026-08-29
+REJ0030,APP0177,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=50; evaluation_overall=63.6; requested_budget=3200000.,2026-08-28
+REJ0031,APP0183,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=29; evaluation_overall=74.4; requested_budget=3600000.,2026-08-27
+REJ0032,APP0189,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=77; evaluation_overall=63.8; requested_budget=3200000.,2026-08-26
+REJ0033,APP0195,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=43; evaluation_overall=77.8; requested_budget=3600000.,2026-08-25
+REJ0034,APP0201,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=91; evaluation_overall=67.2; requested_budget=4000000.,2026-08-24
+REJ0035,APP0207,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=57; evaluation_overall=81.0; requested_budget=3200000.,2026-08-23
+REJ0036,APP0213,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=36; evaluation_overall=70.4; requested_budget=6400000.,2026-08-22
+REJ0037,APP0219,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=71; evaluation_overall=72.5; requested_budget=2400000.,2026-08-21
+REJ0038,APP0225,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=50; evaluation_overall=61.9; requested_budget=5200000.,2026-08-20
+REJ0039,APP0231,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=85; evaluation_overall=65.6; requested_budget=3600000.,2026-08-19
+REJ0040,APP0237,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=64; evaluation_overall=75.4; requested_budget=2800000.,2026-08-18
+REJ0041,APP0243,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=43; evaluation_overall=79.1; requested_budget=4400000.,2026-08-17
+REJ0042,APP0249,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=78; evaluation_overall=68.5; requested_budget=3200000.,2026-08-16
+REJ0043,APP0255,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=57; evaluation_overall=58.0; requested_budget=5200000.,2026-08-15
+REJ0044,APP0261,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=92; evaluation_overall=71.9; requested_budget=3600000.,2026-08-14
+REJ0045,APP0267,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=71; evaluation_overall=61.3; requested_budget=2800000.,2026-08-13
+REJ0046,APP0273,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=37; evaluation_overall=63.2; requested_budget=3200000.,2026-08-12
+REJ0047,APP0279,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=85; evaluation_overall=62.9; requested_budget=3200000.,2026-08-11
+REJ0048,APP0285,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=51; evaluation_overall=66.6; requested_budget=4800000.,2026-08-10
+REJ0049,APP0291,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=30; evaluation_overall=56.0; requested_budget=2800000.,2026-08-09
+REJ0050,APP0297,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=78; evaluation_overall=77.0; requested_budget=2800000.,2026-08-08
+REJ0051,APP0303,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=44; evaluation_overall=76.6; requested_budget=3600000.,2026-08-07
+REJ0052,APP0309,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=92; evaluation_overall=80.3; requested_budget=6800000.,2026-08-06
+REJ0053,APP0315,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=58; evaluation_overall=69.7; requested_budget=4000000.,2026-08-05
+REJ0054,APP0321,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=37; evaluation_overall=83.6; requested_budget=4000000.,2026-08-04
+REJ0055,APP0327,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=72; evaluation_overall=61.2; requested_budget=3200000.,2026-08-03
+REJ0056,APP0333,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=51; evaluation_overall=64.9; requested_budget=3600000.,2026-08-02
+REJ0057,APP0339,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=86; evaluation_overall=74.6; requested_budget=3200000.,2026-08-01
+REJ0058,APP0345,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=65; evaluation_overall=78.4; requested_budget=3600000.,2026-07-31
+REJ0059,APP0351,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=44; evaluation_overall=67.8; requested_budget=4000000.,2026-07-30
+REJ0060,APP0357,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=79; evaluation_overall=57.2; requested_budget=3200000.,2026-09-27
+REJ0061,APP0363,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=58; evaluation_overall=71.2; requested_budget=6400000.,2026-09-26
+REJ0062,APP0369,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=93; evaluation_overall=60.6; requested_budget=2400000.,2026-09-25
+REJ0063,APP0375,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=72; evaluation_overall=74.4; requested_budget=5200000.,2026-09-24
+REJ0064,APP0381,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=38; evaluation_overall=62.2; requested_budget=3600000.,2026-09-23
+REJ0065,APP0387,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=86; evaluation_overall=65.9; requested_budget=2800000.,2026-09-22
+REJ0066,APP0393,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=52; evaluation_overall=55.3; requested_budget=4400000.,2026-09-21
+REJ0067,APP0399,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=31; evaluation_overall=69.2; requested_budget=3200000.,2026-09-20
+REJ0068,APP0405,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=79; evaluation_overall=68.8; requested_budget=5200000.,2026-09-19
+REJ0069,APP0411,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=45; evaluation_overall=72.5; requested_budget=3600000.,2026-09-18
+REJ0070,APP0417,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=93; evaluation_overall=69.0; requested_budget=2800000.,2026-09-17
+REJ0071,APP0423,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=59; evaluation_overall=82.9; requested_budget=3200000.,2026-09-16
+REJ0072,APP0429,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=38; evaluation_overall=72.4; requested_budget=3200000.,2026-09-15
+REJ0073,APP0435,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=73; evaluation_overall=64.2; requested_budget=4800000.,2026-09-14
+REJ0074,APP0441,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=52; evaluation_overall=73.9; requested_budget=2800000.,2026-09-13
+REJ0075,APP0447,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=87; evaluation_overall=77.6; requested_budget=2800000.,2026-09-12
+REJ0076,APP0453,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=66; evaluation_overall=N/A; requested_budget=3600000.,2026-09-11
+REJ0077,APP0459,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=45; evaluation_overall=N/A; requested_budget=6800000.,2026-09-10
+REJ0078,APP0465,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=80; evaluation_overall=N/A; requested_budget=4000000.,2026-09-09
+REJ0079,APP0471,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=59; evaluation_overall=N/A; requested_budget=4000000.,2026-09-08
+REJ0080,APP0477,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=94; evaluation_overall=N/A; requested_budget=3200000.,2026-09-07
+REJ0081,APP0483,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=73; evaluation_overall=N/A; requested_budget=3600000.,2026-09-06
+REJ0082,APP0489,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=39; evaluation_overall=N/A; requested_budget=3200000.,2026-09-05
+REJ0083,APP0495,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=87; evaluation_overall=N/A; requested_budget=3600000.,2026-09-04
+REJ0084,APP0501,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=53; evaluation_overall=N/A; requested_budget=4000000.,2026-09-03
+REJ0085,APP0507,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=32; evaluation_overall=N/A; requested_budget=3200000.,2026-09-02
+REJ0086,APP0513,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=80; evaluation_overall=N/A; requested_budget=6400000.,2026-09-01
+REJ0087,APP0519,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=46; evaluation_overall=N/A; requested_budget=2400000.,2026-08-31
+REJ0088,APP0525,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=94; evaluation_overall=N/A; requested_budget=5200000.,2026-08-30
+REJ0089,APP0531,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=60; evaluation_overall=N/A; requested_budget=3600000.,2026-08-29
+REJ0090,APP0537,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=39; evaluation_overall=N/A; requested_budget=2800000.,2026-08-28
+REJ0091,APP0543,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=74; evaluation_overall=N/A; requested_budget=4400000.,2026-08-27
+REJ0092,APP0549,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=53; evaluation_overall=N/A; requested_budget=3200000.,2026-08-26
+REJ0093,APP0555,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=88; evaluation_overall=N/A; requested_budget=5200000.,2026-08-25
+REJ0094,APP0561,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=67; evaluation_overall=N/A; requested_budget=3600000.,2026-08-24
+REJ0095,APP0567,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=46; evaluation_overall=N/A; requested_budget=2800000.,2026-08-23
+REJ0096,APP0573,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=81; evaluation_overall=N/A; requested_budget=3200000.,2026-08-22
+REJ0097,APP0579,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=60; evaluation_overall=N/A; requested_budget=3200000.,2026-08-21
+REJ0098,APP0585,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=95; evaluation_overall=N/A; requested_budget=4800000.,2026-08-20
+REJ0099,APP0591,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=74; evaluation_overall=N/A; requested_budget=2800000.,2026-08-19
+REJ0100,APP0597,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=40; evaluation_overall=N/A; requested_budget=2800000.,2026-08-18
+REJ0101,APP0603,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=88; evaluation_overall=N/A; requested_budget=3600000.,2026-08-17
+REJ0102,APP0609,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=54; evaluation_overall=N/A; requested_budget=6800000.,2026-08-16
+REJ0103,APP0615,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=33; evaluation_overall=N/A; requested_budget=4000000.,2026-08-15
+REJ0104,APP0621,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=81; evaluation_overall=N/A; requested_budget=4000000.,2026-08-14
+REJ0105,APP0627,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=47; evaluation_overall=N/A; requested_budget=3200000.,2026-08-13
+REJ0106,APP0633,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=95; evaluation_overall=N/A; requested_budget=3600000.,2026-08-12
+REJ0107,APP0639,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=61; evaluation_overall=N/A; requested_budget=3200000.,2026-08-11
+REJ0108,APP0645,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=40; evaluation_overall=N/A; requested_budget=3600000.,2026-08-10
+REJ0109,APP0651,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=75; evaluation_overall=N/A; requested_budget=4000000.,2026-08-09
+REJ0110,APP0657,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=54; evaluation_overall=N/A; requested_budget=3200000.,2026-08-08
+REJ0111,APP0663,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=89; evaluation_overall=N/A; requested_budget=6400000.,2026-08-07
+REJ0112,APP0669,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=68; evaluation_overall=N/A; requested_budget=2400000.,2026-08-06
+REJ0113,APP0675,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=47; evaluation_overall=N/A; requested_budget=5200000.,2026-08-05
+REJ0114,APP0681,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=82; evaluation_overall=N/A; requested_budget=3600000.,2026-08-04
+REJ0115,APP0687,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=61; evaluation_overall=N/A; requested_budget=2800000.,2026-08-03
+REJ0116,APP0693,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=96; evaluation_overall=N/A; requested_budget=4400000.,2026-08-02
+REJ0117,APP0699,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=75; evaluation_overall=N/A; requested_budget=3200000.,2026-08-01
+REJ0118,APP0705,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=41; evaluation_overall=N/A; requested_budget=5200000.,2026-07-31
+REJ0119,APP0711,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=89; evaluation_overall=N/A; requested_budget=3600000.,2026-07-30
+REJ0120,APP0717,LOW_TRUST_SCORE,Application flagged for low trust score.,Prototype evidence: trust=55; evaluation_overall=N/A; requested_budget=2800000.,2026-09-27
+REJ0121,APP0723,MISSING_REQUIREMENT,Application flagged for missing requirement.,Prototype evidence: trust=34; evaluation_overall=N/A; requested_budget=3200000.,2026-09-26
+REJ0122,APP0729,LOW_TECHNICAL_SCORE,Application flagged for low technical score.,Prototype evidence: trust=82; evaluation_overall=N/A; requested_budget=3200000.,2026-09-25
+REJ0123,APP0735,BUDGET_MISMATCH,Application flagged for budget mismatch.,Prototype evidence: trust=48; evaluation_overall=N/A; requested_budget=4800000.,2026-09-24
+REJ0124,APP0741,SECURITY_NOT_CLEARED,Application flagged for security not cleared.,Prototype evidence: trust=96; evaluation_overall=N/A; requested_budget=2800000.,2026-09-23
+REJ0125,APP0747,INSUFFICIENT_EVIDENCE,Application flagged for insufficient evidence.,Prototype evidence: trust=62; evaluation_overall=N/A; requested_budget=2800000.,2026-09-22

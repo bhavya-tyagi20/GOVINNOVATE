@@ -1,0 +1,51 @@
+challenge_id,title,department_id,sector,required_technologies,pilot_location,duration_days,problem_statement,data_status
+CH001,AI-Based Road Damage Detection,D001,Transportation,Computer Vision;AI/ML;GIS,Pune,90,Detect potholes and road defects automatically,Pilot demonstration
+CH002,Smart Water Pipeline Leakage Detection,D004,Water,IoT;Sensors;Machine Learning,Nashik,120,Detect leakage and abnormal pressure patterns,Pilot demonstration
+CH003,Early Crop Disease Detection,D003,Agriculture,Computer Vision;AI/ML;Remote Sensing,Nagpur,90,Detect crop disease from field images,Pilot demonstration
+CH004,AI-Assisted Clinical Screening Support,D002,Healthcare & Lifesciences,AI/ML;Computer Vision;Analytics,Mumbai,120,Support preliminary screening and prioritisation of cases,New challenge
+CH005,Digital Public Health Monitoring,D002,Healthcare & Lifesciences,AI/ML;Analytics;Data Platform,Thane,90,Improve monitoring of public health indicators,New challenge
+CH006,Remote Patient Monitoring for District Hospitals,D002,Healthcare & Lifesciences,IoT;Sensors;Analytics,Pune,120,Monitor selected patient parameters remotely,New challenge
+CH007,AI Citizen Service Query Assistant,D002,AI,Natural Language Processing;AI/ML;Analytics,Mumbai,90,Reduce response time for repetitive citizen service queries,New challenge
+CH008,Smart Document Classification for Government Offices,D002,AI,AI/ML;NLP;Document Intelligence,Pune,60,Classify and route incoming government documents,New challenge
+CH009,Predictive Maintenance for Public Assets,D001,AI,AI/ML;IoT;Predictive Analytics,Thane,120,Identify early signs of asset failure,New challenge
+CH010,Energy-Efficient Government Buildings,D001,Green Technology,IoT;Energy Analytics;Automation,Mumbai,120,Reduce energy consumption in public buildings,New challenge
+CH011,Urban Waste Segregation Monitoring,D001,Waste Management,Computer Vision;IoT;Analytics,Nashik,90,Improve segregation and collection monitoring,New challenge
+CH012,Plastic Waste Traceability Platform,D001,Green Technology,IoT;Analytics;Traceability,Pune,120,Track plastic waste movement across collection points,New challenge
+CH013,Solar Asset Performance Monitoring,D003,Renewable Energy,IoT;Sensors;Analytics,Mumbai,90,Monitor generation and identify underperforming solar assets,New challenge
+CH014,Clean Energy Transition Dashboard,D003,Renewable Energy,Data Analytics;AI/ML;Dashboard,Pune,90,Track renewable energy adoption across public facilities,New challenge
+CH015,Climate Risk Mapping for Local Bodies,D003,Green Technology,GIS;Remote Sensing;AI/ML,Nashik,120,Map areas exposed to climate-related risks,New challenge
+CH016,Water Quality Monitoring Network,D004,Green Technology,IoT;Sensors;Analytics,Nashik,120,Monitor water quality indicators across selected locations,New challenge
+CH017,Precision Irrigation Advisory System,D003,Agriculture,IoT;Sensors;AI/ML,Nagpur,120,Improve irrigation decisions using field conditions,New challenge
+CH018,Farm Produce Supply Chain Visibility,D003,Agriculture,IoT;Analytics;Traceability,Nashik,120,Improve visibility of agricultural produce movement,New challenge
+CH019,Cold-Chain Monitoring for Perishable Produce,D003,Agriculture,IoT;Sensors;Analytics,Pune,90,Monitor temperature and handling conditions,New challenge
+CH020,Automated Quality Inspection for Public Procurement,D001,Technology Hardware,Computer Vision;Sensors;Analytics,Pune,120,Support inspection of procured physical goods,New challenge
+CH021,Smart Asset Tracking for Government Equipment,D001,Technology Hardware,IoT;RFID;Analytics,Mumbai,90,Track movement and availability of government equipment,New challenge
+CH022,Secure Digital Workflow for Government Services,D002,IT Services,Cloud;Workflow Automation;Analytics,Mumbai,120,Digitise repetitive administrative workflows,New challenge
+CH023,Enterprise Data Integration for Departments,D002,Enterprise Software,APIs;Data Integration;Analytics,Pune,120,Connect departmental systems for controlled information exchange,New challenge
+CH024,Digital Learning Support for Government Schools,D002,Education,AI/ML;Learning Analytics;Content Platform,Pune,120,Improve personalised learning support for students,New challenge
+CH025,Skill Assessment and Career Guidance Platform,D002,Education,AI/ML;Analytics;Assessment,Nagpur,90,Identify learner skill gaps and recommend pathways,New challenge
+CH026,Telemedicine Access for Rural Communities,D002,Healthcare & Lifesciences,Telemedicine;Cloud;Analytics,Nashik,120,Improve access to remote medical consultation,New challenge
+CH027,Assistive Technology Access Platform,D002,Healthcare & Lifesciences,Accessibility;Digital Platform;Analytics,Mumbai,90,Improve access to assistive services and devices,New challenge
+CH028,Digital Finance Inclusion Support,D002,Finance Technology,AI/ML;Analytics;Digital Platform,Nagpur,120,Improve access and awareness of digital financial services,New challenge
+CH029,MSME Digital Commerce Enablement,D001,Retail,Digital Platform;Analytics;Recommendation,Pune,90,Help small businesses adopt digital commerce workflows,New challenge
+CH030,Public Market Demand Forecasting,D001,Retail,AI/ML;Analytics;Forecasting,Mumbai,90,Improve demand planning for selected public distribution channels,New challenge
+CH031,Local Tourism Experience Platform,D002,Travel & Tourism,Digital Platform;GIS;Analytics,Nashik,120,Improve discovery and management of local tourism experiences,New challenge
+CH032,Heritage Site Digital Interpretation,D002,Travel & Tourism,AR/VR;Computer Vision;Digital Platform,Aurangabad,120,Provide interactive digital interpretation of heritage sites,New challenge
+CH033,Smart Textile Production Monitoring,D001,Textiles & Apparel,IoT;Sensors;Analytics,Mumbai,120,Monitor production efficiency and quality indicators,New challenge
+CH034,Biotech Laboratory Workflow Digitisation,D002,Biotechnology,Laboratory Informatics;Analytics;Automation,Nashik,120,Improve tracking of laboratory workflows and records,New challenge
+CH035,Aerospace Inspection and Maintenance Support,D001,Aeronautics Aerospace & Defence,Computer Vision;Sensors;AI/ML,Pune,150,Support inspection and maintenance workflows for aerospace assets,New challenge
+CH036,Secure Drone-Based Infrastructure Inspection,D001,Aeronautics Aerospace & Defence,Drones;Computer Vision;GIS,Pune,120,Inspect selected public infrastructure using unmanned systems,New challenge
+CH037,Connected Public Transport Operations,D001,Automotive,IoT;GPS;Analytics,Pune,120,Improve monitoring of vehicle operations and service reliability,New challenge
+CH038,Intelligent Logistics Planning for Public Supply,D001,Logistics,AI/ML;Route Optimisation;Analytics,Mumbai,120,Improve routing and delivery planning for public supplies,New challenge
+CH039,Government Facility Construction Progress Monitoring,D001,Construction,Computer Vision;GIS;Analytics,Pune,120,Track progress of selected public construction works,New challenge
+CH040,Smart Housing and Household Service Requests,D002,House-Hold Services,Mobile Platform;Workflow Automation;Analytics,Mumbai,90,Improve tracking and resolution of household service requests,New challenge
+CH041,Government Communication and Awareness Analytics,D002,Advertising,Analytics;AI/ML;Digital Platform,Mumbai,90,Measure reach and engagement of public awareness campaigns,New challenge
+CH042,Sports Facility Utilisation Monitoring,D001,Sports,IoT;Analytics;Computer Vision,Mumbai,90,Improve utilisation monitoring of public sports facilities,New challenge
+CH043,Immersive Vocational Training Lab,D002,AR VR (Augmented + Virtual Reality),AR/VR;Simulation;Analytics,Pune,120,Provide immersive training for selected vocational skills,New challenge
+CH044,Digital Design Support for Public Spaces,D001,Architecture Interior Design,3D Modelling;GIS;Digital Platform,Pune,120,Improve planning and visualisation of selected public spaces,New challenge
+CH045,Digital Media Archive for Public Communication,D002,Media & Entertainment,Digital Asset Management;Search;Analytics,Mumbai,90,Organise and retrieve public communication media assets,New challenge
+CH046,Workforce Skill Matching for Government Programs,D002,Human Resources,AI/ML;Matching;Analytics,Pune,90,Match available skills to program requirements,New challenge
+CH047,Connected Device Monitoring for Public Facilities,D001,Internet of Things,IoT;Sensors;Device Management,Nashik,120,Monitor connected devices deployed across public facilities,New challenge
+CH048,Smart Food Safety Inspection Support,D002,Food & Beverages,Computer Vision;Analytics;Mobile Platform,Pune,90,Support food safety inspection workflows and reporting,New challenge
+CH049,Assistive Retail Access for Public Services,D002,Professional & Commercial Services,Digital Platform;Accessibility;Analytics,Mumbai,90,Improve accessible access to selected public-facing services,New challenge
+CH050,Educational Toy Lending and Tracking System,D002,Toys and Games,RFID;Inventory Management;Analytics,Nagpur,90,Track educational toy inventory and usage in public learning centres,New challenge

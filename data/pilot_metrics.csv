@@ -1,0 +1,181 @@
+pilot_id,metric,target,actual,unit,status
+P001,Resolution Time,36,33,hours,PASS
+P001,Water Leakage Detection,85,93,%,PASS
+P001,Waste Collection Efficiency,90,88,%,FAIL
+P002,Energy Consumption,85,89,index,FAIL
+P002,Hospital Waiting Time,60,54,minutes,PASS
+P002,School Attendance,88,93,%,PASS
+P003,Route Reliability,90,80,%,FAIL
+P003,Data Availability,95,96,%,PASS
+P003,Response Time,30,21,minutes,PASS
+P004,Detection Accuracy,90,87,%,FAIL
+P004,Citizen Satisfaction,80,88,%,PASS
+P004,Resolution Time,36,34,hours,PASS
+P005,Water Leakage Detection,85,89,%,PASS
+P005,Waste Collection Efficiency,90,84,%,FAIL
+P005,Energy Consumption,85,90,index,FAIL
+P006,Hospital Waiting Time,60,50,minutes,PASS
+P006,School Attendance,88,89,%,PASS
+P006,Route Reliability,90,81,%,FAIL
+P007,Data Availability,95,83,%,FAIL
+P007,Response Time,30,38,minutes,FAIL
+P007,Detection Accuracy,90,88,%,FAIL
+P008,Citizen Satisfaction,80,84,%,PASS
+P008,Resolution Time,36,30,hours,PASS
+P008,Water Leakage Detection,85,90,%,PASS
+P009,Waste Collection Efficiency,90,80,%,FAIL
+P009,Energy Consumption,85,86,index,FAIL
+P009,Hospital Waiting Time,60,51,minutes,PASS
+P010,School Attendance,88,85,%,FAIL
+P010,Route Reliability,90,98,%,PASS
+P010,Data Availability,95,93,%,FAIL
+P011,Response Time,30,34,minutes,FAIL
+P011,Detection Accuracy,90,84,%,FAIL
+P011,Citizen Satisfaction,80,85,%,PASS
+P012,Resolution Time,36,26,hours,PASS
+P012,Water Leakage Detection,85,86,%,PASS
+P012,Waste Collection Efficiency,90,81,%,FAIL
+P013,Energy Consumption,85,82,index,PASS
+P013,Hospital Waiting Time,60,68,minutes,FAIL
+P013,School Attendance,88,86,%,FAIL
+P014,Route Reliability,90,78,%,FAIL
+P014,Data Availability,95,89,%,FAIL
+P014,Response Time,30,35,minutes,FAIL
+P015,Detection Accuracy,90,80,%,FAIL
+P015,Citizen Satisfaction,80,81,%,PASS
+P015,Resolution Time,36,27,hours,PASS
+P016,Water Leakage Detection,85,82,%,FAIL
+P016,Waste Collection Efficiency,90,98,%,PASS
+P016,Energy Consumption,85,83,index,PASS
+P017,Hospital Waiting Time,60,64,minutes,FAIL
+P017,School Attendance,88,82,%,FAIL
+P017,Route Reliability,90,95,%,PASS
+P018,Data Availability,95,85,%,FAIL
+P018,Response Time,30,31,minutes,FAIL
+P018,Detection Accuracy,90,81,%,FAIL
+P019,Citizen Satisfaction,80,77,%,FAIL
+P019,Resolution Time,36,44,hours,FAIL
+P019,Water Leakage Detection,85,83,%,FAIL
+P020,Waste Collection Efficiency,90,94,%,PASS
+P020,Energy Consumption,85,79,index,PASS
+P020,Hospital Waiting Time,60,65,minutes,FAIL
+P021,School Attendance,88,76,%,FAIL
+P021,Route Reliability,90,91,%,PASS
+P021,Data Availability,95,86,%,FAIL
+P022,Response Time,30,27,minutes,PASS
+P022,Detection Accuracy,90,98,%,PASS
+P022,Citizen Satisfaction,80,78,%,FAIL
+P023,Resolution Time,36,40,hours,FAIL
+P023,Water Leakage Detection,85,79,%,FAIL
+P023,Waste Collection Efficiency,90,95,%,PASS
+P024,Energy Consumption,85,75,index,PASS
+P024,Hospital Waiting Time,60,61,minutes,FAIL
+P024,School Attendance,88,79,%,FAIL
+P025,Route Reliability,90,87,%,FAIL
+P025,Data Availability,95,103,%,PASS
+P025,Response Time,30,28,minutes,PASS
+P026,Detection Accuracy,90,94,%,PASS
+P026,Citizen Satisfaction,80,74,%,FAIL
+P026,Resolution Time,36,41,hours,FAIL
+P027,Water Leakage Detection,85,75,%,FAIL
+P027,Waste Collection Efficiency,90,91,%,PASS
+P027,Energy Consumption,85,76,index,PASS
+P028,Hospital Waiting Time,60,48,minutes,PASS
+P028,School Attendance,88,96,%,PASS
+P028,Route Reliability,90,88,%,FAIL
+P029,Data Availability,95,99,%,PASS
+P029,Response Time,30,24,minutes,PASS
+P029,Detection Accuracy,90,95,%,PASS
+P030,Citizen Satisfaction,80,70,%,FAIL
+P030,Resolution Time,36,37,hours,FAIL
+P030,Water Leakage Detection,85,76,%,FAIL
+P031,Waste Collection Efficiency,90,87,%,FAIL
+P031,Energy Consumption,85,93,index,FAIL
+P031,Hospital Waiting Time,60,58,minutes,PASS
+P032,School Attendance,88,92,%,PASS
+P032,Route Reliability,90,84,%,FAIL
+P032,Data Availability,95,100,%,PASS
+P033,Response Time,30,20,minutes,PASS
+P033,Detection Accuracy,90,91,%,PASS
+P033,Citizen Satisfaction,80,71,%,FAIL
+P034,Resolution Time,36,33,hours,PASS
+P034,Water Leakage Detection,85,93,%,PASS
+P034,Waste Collection Efficiency,90,88,%,FAIL
+P035,Energy Consumption,85,73,index,PASS
+P035,Hospital Waiting Time,60,54,minutes,PASS
+P035,School Attendance,88,93,%,PASS
+P036,Route Reliability,90,80,%,FAIL
+P036,Data Availability,95,96,%,PASS
+P036,Response Time,30,21,minutes,PASS
+P037,Detection Accuracy,90,87,%,FAIL
+P037,Citizen Satisfaction,80,88,%,PASS
+P037,Resolution Time,36,34,hours,PASS
+P038,Water Leakage Detection,85,89,%,PASS
+P038,Waste Collection Efficiency,90,84,%,FAIL
+P038,Energy Consumption,85,90,index,FAIL
+P039,Hospital Waiting Time,60,50,minutes,PASS
+P039,School Attendance,88,89,%,PASS
+P039,Route Reliability,90,81,%,FAIL
+P040,Data Availability,95,92,%,FAIL
+P040,Response Time,30,38,minutes,FAIL
+P040,Detection Accuracy,90,88,%,FAIL
+P041,Citizen Satisfaction,80,84,%,PASS
+P041,Resolution Time,36,30,hours,PASS
+P041,Water Leakage Detection,85,90,%,PASS
+P042,Waste Collection Efficiency,90,78,%,FAIL
+P042,Energy Consumption,85,86,index,FAIL
+P042,Hospital Waiting Time,60,51,minutes,PASS
+P043,School Attendance,88,85,%,FAIL
+P043,Route Reliability,90,98,%,PASS
+P043,Data Availability,95,93,%,FAIL
+P044,Response Time,30,34,minutes,FAIL
+P044,Detection Accuracy,90,84,%,FAIL
+P044,Citizen Satisfaction,80,85,%,PASS
+P045,Resolution Time,36,26,hours,PASS
+P045,Water Leakage Detection,85,86,%,PASS
+P045,Waste Collection Efficiency,90,81,%,FAIL
+P046,Energy Consumption,85,82,index,PASS
+P046,Hospital Waiting Time,60,68,minutes,FAIL
+P046,School Attendance,88,86,%,FAIL
+P047,Route Reliability,90,94,%,PASS
+P047,Data Availability,95,89,%,FAIL
+P047,Response Time,30,35,minutes,FAIL
+P048,Detection Accuracy,90,80,%,FAIL
+P048,Citizen Satisfaction,80,81,%,PASS
+P048,Resolution Time,36,27,hours,PASS
+P049,Water Leakage Detection,85,73,%,FAIL
+P049,Waste Collection Efficiency,90,98,%,PASS
+P049,Energy Consumption,85,83,index,PASS
+P050,Hospital Waiting Time,60,64,minutes,FAIL
+P050,School Attendance,88,82,%,FAIL
+P050,Route Reliability,90,95,%,PASS
+P051,Data Availability,95,85,%,FAIL
+P051,Response Time,30,31,minutes,FAIL
+P051,Detection Accuracy,90,81,%,FAIL
+P052,Citizen Satisfaction,80,77,%,FAIL
+P052,Resolution Time,36,44,hours,FAIL
+P052,Water Leakage Detection,85,83,%,FAIL
+P053,Waste Collection Efficiency,90,94,%,PASS
+P053,Energy Consumption,85,79,index,PASS
+P053,Hospital Waiting Time,60,65,minutes,FAIL
+P054,School Attendance,88,78,%,FAIL
+P054,Route Reliability,90,91,%,PASS
+P054,Data Availability,95,86,%,FAIL
+P055,Response Time,30,27,minutes,PASS
+P055,Detection Accuracy,90,98,%,PASS
+P055,Citizen Satisfaction,80,78,%,FAIL
+P056,Resolution Time,36,24,hours,PASS
+P056,Water Leakage Detection,85,79,%,FAIL
+P056,Waste Collection Efficiency,90,95,%,PASS
+P057,Energy Consumption,85,75,index,PASS
+P057,Hospital Waiting Time,60,61,minutes,FAIL
+P057,School Attendance,88,79,%,FAIL
+P058,Route Reliability,90,87,%,FAIL
+P058,Data Availability,95,103,%,PASS
+P058,Response Time,30,28,minutes,PASS
+P059,Detection Accuracy,90,94,%,PASS
+P059,Citizen Satisfaction,80,74,%,FAIL
+P059,Resolution Time,36,41,hours,FAIL
+P060,Water Leakage Detection,85,75,%,FAIL
+P060,Waste Collection Efficiency,90,91,%,PASS
+P060,Energy Consumption,85,76,index,PASS
