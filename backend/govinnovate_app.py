@@ -17,6 +17,7 @@ import pandas as pd
 from fastapi import FastAPI, HTTPException, Query, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse, StreamingResponse, JSONResponse
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 from reportlab.lib.pagesizes import A4
 from reportlab.pdfgen import canvas
@@ -1317,3 +1318,7 @@ def generic_resource(resource: str):
     if resource=="pilots": return [pilot_view(x) for x in data]
     if resource=="validations": return [validation_view(x) for x in data]
     return data
+FRONTEND_DIST = Path(__file__).resolve().parents[1] / "frontend" / "dist"
+
+if FRONTEND_DIST.exists():
+    app.mount("/", StaticFiles(directory=str(FRONTEND_DIST), html=True), name="frontend")
